@@ -1,11 +1,11 @@
 # Richard Dawkins - River Out of Eden
 
-> Sonsuza dek süren
-> Bilardo ve bilardo ve bilardolarını oynayan
-> Milyarlarca ve milyarlarca ve milyarlarca
-> Parçacığın popüler adı olmalı, Doğa.
+    Sonsuza dek süren
+    Bilardo ve bilardo ve bilardolarını oynayan
+    Milyarlarca ve milyarlarca ve milyarlarca
+    Parçacığın popüler adı olmalı, Doğa.
 
-Piet Hein
+    Piet Hein
 
 ***
 
