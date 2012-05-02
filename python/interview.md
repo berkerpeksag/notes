@@ -70,3 +70,43 @@ Haskell'deki **lazy evaluation**'ın karşılığıdır. `()` arasındaki işlem
 * http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 * http://stackoverflow.com/questions/101268/hidden-features-of-python
 
+## Fonksiyonel programlama nedir?
+
+> In functional programming, 'functions' are "first class citizens"; like data, they can be manipulated. Functions can work on functions and return a resulting function. Functions that manipulate functions are called functors or higher-order functions.
+
+Bir programı yazmak için, nesneler ve prosedürlerin(procedures) yerine fonksiyonların kullanıldığı programlama dilleridir.
+
+Kısa notlar:
+
+* Değişkenler bir kere tanımlandığında ve değer aldıklarında, değerleri bir daha değiştirilemez.
+
+Çoğu fonksiyonel programlama dili aşağıdaki teknikleri ve özellikleri varsayılan olarak içerir:
+
+* First class functions
+* High order functions
+* Lexical closure
+* Pattern matching
+* Single assigment
+* Lazy evaluation
+* Garbage collection
+* Type inference
+* Tail call optimization
+* List comprehensions
+* Monads
+
+#### Artıları
+
+* Daha kısa programlar
+* Daha doğru ve hatasız kodlar
+* Diğer dillere göre fonksiyonel programlama dilleriyle çalışmak daha eğlencelidir
+
+#### Kaynaklar
+
+* http://devlicio.us/blogs/christopher_bennage/archive/2010/09/06/what-is-functional-programming.aspx
+* http://www.cs.nott.ac.uk/~gmh/faq.html
+* http://www.haskell.org/haskellwiki/Functional_programming
+* http://projects.tmorris.net/public/how-to-learn-fp/artifacts/0.1/chunk-html/index.html
+* http://vimeo.com/13558699
+* http://c2.com/cgi/wiki?FunctionalProgramming
+* http://c2.com/cgi/wiki?OoVsFunctional
+* [Interesting read: The Calculi of Lambda Conversion](http://books.google.com/books?id=KCOuGztKVgcC&lpg=PP1&dq=The%20Calculi%20of%20Lambda%20Conversion&pg=PP1#v=onepage&q&f=false)
