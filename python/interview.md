@@ -9,9 +9,9 @@ Python tarafından varsayılan olarak desteklenmediği için aşağıdakine benz
 **Faktoriyel hesaplama örneği:**
 
 ```python
-def factorial(n, **f=1**):
+def factorial(n, f=1):
    if n == 0:
-       **return f**
+       return f
    else:
-       return factorial(n - 1, **f * n**)
+       return factorial(n - 1, f * n)
 ```
