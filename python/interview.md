@@ -109,4 +109,4 @@ Bir programı yazmak için, nesneler ve prosedürlerin(procedures) yerine fonksi
 * http://vimeo.com/13558699
 * http://c2.com/cgi/wiki?FunctionalProgramming
 * http://c2.com/cgi/wiki?OoVsFunctional
-* [Interesting read: The Calculi of Lambda Conversion](http://books.google.com/books?id=KCOuGztKVgcC&lpg=PP1&dq=The%20Calculi%20of%20Lambda%20Conversion&pg=PP1#v=onepage&q&f=false)
+* Interesting read: [The Calculi of Lambda Conversion](http://books.google.com/books?id=KCOuGztKVgcC&lpg=PP1&dq=The%20Calculi%20of%20Lambda%20Conversion&pg=PP1#v=onepage&q&f=false)
