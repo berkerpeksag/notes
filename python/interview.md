@@ -76,11 +76,11 @@ Haskell'deki **lazy evaluation**'ın karşılığıdır. `()` arasındaki işlem
 
 Bir programı yazmak için, nesneler ve prosedürlerin(procedures) yerine fonksiyonların kullanıldığı programlama dilleridir.
 
-Kısa notlar:
+**Kısa notlar:**
 
 * Değişkenler bir kere tanımlandığında ve değer aldıklarında, değerleri bir daha değiştirilemez.
 
-Çoğu fonksiyonel programlama dili aşağıdaki teknikleri ve özellikleri varsayılan olarak içerir:
+**Çoğu fonksiyonel programlama dili aşağıdaki teknikleri ve özellikleri varsayılan olarak içerir:**
 
 * First class functions
 * High order functions
