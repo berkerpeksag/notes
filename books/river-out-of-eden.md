@@ -7,8 +7,6 @@
 
     Piet Hein
 
-***
-
 * Darwinci kuram yalnızca üstün bir açıklama gücüne sahip değildir; açıklamasındaki ekonomikliğin güç dolu bir zerafeti, dünyanın en unutulmaz başlangıç mitlerine bile üstün gelecek şiirsel bir güzelliği vardır.
 * Tüm halkların kabileci atalarına dair epik efsaneleri vardır ve bu efsaneler çoğunlukla, dini kültlere dönüşerek resmileşirler.
 * İnsanlar atalarını sayar, hatta onlara tapınırlar - bunda da haklıdırlar, çünkü yaşamı anlamanın anahtarı doğaüstü tanrılarda değil, gerçek atalardadır.
