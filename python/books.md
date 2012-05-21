@@ -2,6 +2,7 @@
 
 ## Open Source Books
 
+- [Structure and Interpretation of Computer Programs in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/index.html) - [Videos](http://www.youtube.com/playlist?list=PLED148F2EC524D5E9) [Course](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/)
 - [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 - [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 - [Google's Python Class](http://code.google.com/edu/languages/google-python-class/)
