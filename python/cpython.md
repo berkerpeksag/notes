@@ -1,5 +1,12 @@
 # CPython
 
+## Blogs
+
+### Eli Bendersky
+
+- [Python internals: how callables work](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work/)
+- [Python objects, types, classes, and instances – a glossary](http://eli.thegreenplace.net/2012/03/30/python-objects-types-classes-and-instances-a-glossary/)
+
 ## Podcasts
 
 - [Python and CPython](http://www.radiofreepython.com/episodes/7/)
