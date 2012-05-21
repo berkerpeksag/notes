@@ -9,3 +9,4 @@
 - [Dive into Python](http://www.diveintopython.net/)
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [Gasp Python Couse](http://www.openbookproject.net/pybiblio/gasp/course/)
+- [Building Skills in Object-Oriented Design](http://www.itmaybeahack.com/book/oodesign-python-2.1/html/index.html)
