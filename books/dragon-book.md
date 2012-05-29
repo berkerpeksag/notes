@@ -21,3 +21,19 @@ for the sanme identifier to be declared more than once; each such declaration
 introduces a variable. Even if each identifier is declared just once, an
 identifier local to a recursive procedure will refer to different locations
 of the store at different times.
+
+### Procedures, Functions, and Methods
+
+To avoid saying "procedures, functions, or methods," each time we want to
+talk about a *subprogram* that may be called, we shall usually refer to all
+of them as "procedures." The exception is that when talking explicitly of
+programs in languages like C that have only functions, we sahll refer to
+them as "functions." Or, if we are discussing a language like Java that has
+only methods, we shall use that term instead.
+
+A function generally returns a value of some type (the "return type"), while 
+a procedure does not any value. C and similar languages, which have only 
+functions, treat procedures as functions that have a special return type
+"void," to signify no return value. Object-oriented languages like Java and
+C++ use the term "methods." These can behave like either functions or
+procedures, but are associated with a particular class.
