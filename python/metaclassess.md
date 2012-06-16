@@ -21,21 +21,24 @@ Python 2.5.1 (r251:54869, Apr 18 2007, 22:08:04)
 <type 'type'>
 ```
 
-* The Class of a Class is its metaclass.
-* Just as an object is an instance of its class; a class is an instance of its metaclass.
-* The metaclass is called to create the class.
+* The Class of a Class is its metaclass.
+* Just as an object is an instance of its class; a class is an instance of its metaclass.
+* The metaclass is called to create the class.
 * In exactly the same way as any other object in Python.
-* So when you create a class... The interpreter calls the metaclass to create it.For a normal class that inherits from object this means that `type` is called to create the class:
+* So when you create a class... The interpreter calls the metaclass to create it.
 
-```python
+For a normal class that inherits from object this means that `type` is called to create the class:
+
+```python
 >>> help(type)
 Help on class type in module __builtin__:
 
 class type(object)
  |  type(object) -> the object's type
  |  type(name, bases, dict) -> a new type
-```
 
-#### Resources
+```
 
-* http://www.voidspace.org.uk/python/articles/five-minutes.shtml
+#### Resources
+
+* http://www.voidspace.org.uk/python/articles/five-minutes.shtml
