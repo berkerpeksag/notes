@@ -1,8 +1,15 @@
 ## Tail recursion nedir?
 
-Tail recursion yöntemi kullanılmadığında, değerin rekürsif olarak hesaplanabilmesi için her zaman son dönen değere ihtiyaç olduğundan fonksiyon her çalıştığında tekrar stack’e atılır. Bu da yüksek sayılı hesaplamalarla karşılaşıldığında, hafıza kullanımının artmasına ve Stack Overflow gibi hatalara sebep olur. Tail recursion yöntemi ile, fonksiyon her çalıştığında dönen değer, bir argüman olarak gönderilir ve böylece fonksiyon sadece ilk çalıştığında stack’e atılır.
+Tail recursion yöntemi kullanılmadığında, değerin rekürsif olarak
+hesaplanabilmesi için her zaman son dönen değere ihtiyaç olduğundan fonksiyon
+her çalıştığında tekrar stack’e atılır. Bu da yüksek sayılı hesaplamalarla
+karşılaşıldığında, hafıza kullanımının artmasına ve Stack Overflow gibi hatalara
+sebep olur. Tail recursion yöntemi ile, fonksiyon her çalıştığında dönen değer,
+bir argüman olarak gönderilir ve böylece fonksiyon sadece ilk çalıştığında
+stack’e atılır.
 
-Python tarafından varsayılan olarak desteklenmediği için aşağıdakine benzer bir teknikle uygulanabilir.
+Python tarafından varsayılan olarak desteklenmediği için aşağıdakine benzer bir
+teknikle uygulanabilir.
 
 **Faktoriyel hesaplama örneği:**
 
@@ -20,7 +27,10 @@ def factorial(n, f=1):
 
 ## Pass-by-value nedir?
 
-Python’da mutable ve immutable olmayan veri tiplerine göre değişir. Örneğin string, immutable olduğu için pass-by-value idir. List ise, append metodu ile pass-by-reference olabilece gibi `x = [1, 2, 3]` şeklinde tekrar tanımlanarak pass-by-value de olabilir.
+Python’da mutable ve immutable olmayan veri tiplerine göre değişir. Örneğin
+string, immutable olduğu için pass-by-value idir. List ise, append metodu ile
+pass-by-reference olabilece gibi `x = [1, 2, 3]` şeklinde tekrar tanımlanarak
+pass-by-value de olabilir.
 
 ```python
 >>> a = 'Berker'
@@ -58,7 +68,9 @@ results = [x for x in xrange(20) if x % 2 == 0]
 
 ## Generators
 
-Haskell'deki **lazy evaluation**'ın karşılığıdır. `()` arasındaki işlemleri sadece atandığı değişken ya da fonksiyon çağırıldığında üretip, hafızaya atar ve işi bittiğinde siler.
+Haskell'deki **lazy evaluation**'ın karşılığıdır. `()` arasındaki işlemleri
+sadece atandığı değişken ya da fonksiyon çağırıldığında üretip, hafızaya atar ve
+işi bittiğinde siler.
 
 #### Kaynaklar
 
@@ -72,15 +84,21 @@ Haskell'deki **lazy evaluation**'ın karşılığıdır. `()` arasındaki işlem
 
 ## Fonksiyonel programlama nedir?
 
-> In functional programming, 'functions' are "first class citizens"; like data, they can be manipulated. Functions can work on functions and return a resulting function. Functions that manipulate functions are called functors or higher-order functions.
+> In functional programming, 'functions' are "first class citizens"; like data,
+> they can be manipulated. Functions can work on functions and return a
+> resulting function. Functions that manipulate functions are called functors or
+> higher-order functions.
 
-Bir programı yazmak için, nesneler ve prosedürlerin(procedures) yerine fonksiyonların kullanıldığı programlama dilleridir.
+Bir programı yazmak için, nesneler ve prosedürlerin(procedures) yerine
+fonksiyonların kullanıldığı programlama dilleridir.
 
 **Kısa notlar:**
 
-* Değişkenler bir kere tanımlandığında ve değer aldıklarında, değerleri bir daha değiştirilemez.
+* Değişkenler bir kere tanımlandığında ve değer aldıklarında, değerleri bir daha
+değiştirilemez.
 
-**Çoğu fonksiyonel programlama dili aşağıdaki teknikleri ve özellikleri varsayılan olarak içerir:**
+**Çoğu fonksiyonel programlama dili aşağıdaki teknikleri ve özellikleri
+varsayılan olarak içerir:**
 
 * First class functions
 * High order functions
