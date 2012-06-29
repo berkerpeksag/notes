@@ -1,10 +1,3 @@
-## 64 bit sistemde 32 bit Firefox çalıştırmak
-
-```sh
-sudo apt-get install ia32-libs
-sudo apt-get install lib32asound2 lib32ncurses5 lib32stdc++6
-```
-
 ## .dotfiles
 
 ```sh
@@ -33,15 +26,6 @@ nginx emacs23 curl libcurl3 mercurial
 
 ```sh
 sudo pip install virtualenv
-```
-
-## Firefox geliştirme ortamı
-
-```sh
-sudo apt-get build-dep firefox
-sudo apt-get install mercurial libasound2-dev \
-libcurl4-openssl-dev libnotify-dev libxt-dev \
-libiw-dev mesa-common-dev autoconf2.13 yasm uuid
 ```
 
 ## PyPy geliştirme ortamı
