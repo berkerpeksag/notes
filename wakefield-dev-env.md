@@ -52,3 +52,12 @@ libffi-dev pkg-config libz-dev libbz2-dev \
 libncurses-dev libexpat1-dev libssl-dev \
 libgc-dev python-sphinx python-greenlet
 ```
+
+## Terminator
+
+In `/usr/share/terminator/terminator`:
+
+```python
+if not filter((lambda s: '--geometry' in s), sys.argv):
+   sys.argv.append('--geometry=1280x1000')
+```
