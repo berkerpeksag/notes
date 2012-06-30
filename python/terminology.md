@@ -1,4 +1,4 @@
-# Terminolohy
+# Terminology
 
 ## Packaging
 
