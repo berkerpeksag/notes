@@ -28,3 +28,5 @@ package, as are many small standalone third-party modules that don't belong to a
 larger module collection. Unlike regular packages, modules in the root package
 can be found in many directories: in fact, every directory listed in `sys.path`
 contributes modules to the root package.
+
+[Source](http://docs.python.org/dev/packaging/introduction.html#general-python-terminology)
