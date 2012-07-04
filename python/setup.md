@@ -1,5 +1,12 @@
 # Python Package Management
 
+### tl;dr
+
+setuptools with easy_install, distribute with pip as well as the new distutils2
+efforts and not one covers all use cases.
+
+[Source](http://lucumr.pocoo.org/2012/6/22/hate-hate-hate-everywhere/)
+
 ## setuptools
 
 setuptools is a collection of enhancements to the Python distutils that allow
