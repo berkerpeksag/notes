@@ -139,4 +139,7 @@ class A(object):
         return object.__new__(cls, *args, **kwargs)
 ```
 
-[Resource](http://agiliq.com/blog/2012/06/__new__-python/)
+#### Resources
+
+* http://agiliq.com/blog/2012/06/__new__-python/
+* http://agiliq.com/blog/2012/07/metaclass-python/
