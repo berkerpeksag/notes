@@ -1,6 +1,6 @@
 # Bitwise operation
 
-* `10000000` is 128, and `00000001` is 1.
+`10000000` is 128, and `00000001` is 1.
 
 ```python
 print int('10000000', 2)  # Output is 128
