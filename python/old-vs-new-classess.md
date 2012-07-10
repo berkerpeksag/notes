@@ -17,7 +17,6 @@
 >>> b = B()
 >>> type(b)
 <class '__main__.B'>
-
 ```
 
 Classes and instances come in two flavors: old-style (or classic) and new-style.
