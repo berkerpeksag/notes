@@ -15,6 +15,8 @@
 * http://www.voidspace.org.uk/python/articles/duck_typing.shtml
 * http://www.voidspace.org.uk/python/articles/mapping_sequence_ref.shtml
 * http://docs.python.org/dev/reference/datamodel.html#customizing-class-creation
+* http://www.cafepy.com/article/python_types_and_objects/python_types_and_objects.html
+* http://www.cafepy.com/article/python_attributes_and_methods/python_attributes_and_methods.html
 
 ## Data model
 
