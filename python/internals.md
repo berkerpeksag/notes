@@ -1,3 +1,7 @@
+# Links
+
+* http://eli.thegreenplace.net/2012/04/16/python-object-creation-sequence/
+
 # [Modules/gcmodule.c](http://hg.python.org/cpython/file/tip/Modules/gcmodule.c)
 
 ## About untracking of immutable objects

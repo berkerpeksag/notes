@@ -18,6 +18,10 @@
 * http://www.cafepy.com/article/python_types_and_objects/python_types_and_objects.html
 * http://www.cafepy.com/article/python_attributes_and_methods/python_attributes_and_methods.html
 
+## Metaclasses
+
+* http://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example/
+
 ## Data model
 
 * http://docs.python.org/dev/reference/datamodel.html#customizing-class-creation
