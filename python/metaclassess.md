@@ -139,6 +139,11 @@ class A(object):
         return object.__new__(cls, *args, **kwargs)
 ```
 
+## Use cases
+
+* https://speakerdeck.com/u/antocuni/p/python-white-magic?slide=40 (from slide 40 to 48)
+* http://hg.python.org/cpython/file/tip/Lib/test/test_argparse.py#l138
+
 #### Resources
 
 * http://agiliq.com/blog/2012/06/__new__-python/
