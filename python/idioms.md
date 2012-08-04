@@ -15,3 +15,20 @@ setters. So in Java, you might as well get the chore out of the way up front. In
 Python, this is silly, because you can start with a normal attribute and change
 your mind at any time, without affecting any clients of the class. So, don't
 write getters and setters.
+
+## == vs. is
+
+* `is` tests object identity. Do the two operands refer to the same object?
+* `==` tests equality of value. Do the two operands have the same value?
+* There's an optimization that allows small integers to be compared with is, but
+don't rely on it.
+* For comparing against `None`, `x is None` is preferred over `x == None`.
+
+```python
+a = 19998989890
+b = 19998989889 + 1
+>>> a is b
+False
+>>> a == b
+True
+```
