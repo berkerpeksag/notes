@@ -32,3 +32,13 @@ False
 >>> a == b
 True
 ```
+
+`is` compares for two objects in memory, `==` compares their values, for example
+you can see that small integers are cached by Python:
+
+```python
+c = 1
+b = 1
+>>> b is c
+True
+```
