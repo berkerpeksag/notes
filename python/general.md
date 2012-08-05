@@ -2,6 +2,17 @@
 
 - http://pyvideo.org/
 
+## Generators: Your own iterables
+
+```python
+def hello_world():
+    yield 'Hello'
+    yield 'World'
+
+for c in hello_world():
+    print c
+```
+
 ## Presentations
 
 ### Python White Magic
