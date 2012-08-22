@@ -18,9 +18,9 @@
 > **Note:** C makes a distinction between single-quote for `char` and
 > double-quote for `char[]` or strings.
 
-### Misc
+## Misc
 
-#### Nul byte
+### Nul byte
 
 ```c
 int bugs = 100;
