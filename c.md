@@ -25,7 +25,7 @@
 ```c
 int bugs = 100;
 /* Make a character, with a special syntax '\0' which creates a 'nul byte'
-   character. This is effectively the number 0. */ 
+   character. This is effectively the number 0. */
 char nul_byte = '\0';
 int care_percentage = bugs * nul_byte;
 
