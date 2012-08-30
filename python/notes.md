@@ -23,3 +23,5 @@
 
   If extend would return the "self" list, then people may think that they get a
   fresh, new list, and then wonder why a is modified.
+
+  http://bugs.python.org/issue15614#msg167861
