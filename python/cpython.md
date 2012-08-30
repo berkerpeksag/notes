@@ -7,6 +7,14 @@
 * [Python internals: how callables work](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work/)
 * [Python objects, types, classes, and instances – a glossary](http://eli.thegreenplace.net/2012/03/30/python-objects-types-classes-and-instances-a-glossary/)
 
+### Others
+
+* http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/
+* http://docs.python.org/py3k/extending/index.html
+* http://docs.python.org/py3k/c-api/index.html
+* http://docs.python.org/devguide/compiler.html
+* http://www.uthcode.com/pythondesign.html
+* http://danfm.ca/posts/python-c-extensions/
 
 ## Podcasts
 
