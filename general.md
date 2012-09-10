@@ -6,6 +6,6 @@
 * Yoksa protokol, domain, port ve path diye böler ve domain için DNS lookup yapar
 * Sonra ilgili protokol ve port'a göre sunucuya istek yapar ve path bilgisini verir
 * Eğer header'da `Modified-after` gibi bir değer varsa ona göre **sadece şu tarihten sonra değişmişse ver** diyebilir
-* Sunucudan dönen yanıtna(`200`, `404` vb.) göre body kısmını alır ve eğer `200` geldiyse parse etmeye başlar.
+* Sunucudan dönen yanıta(`200`, `404` vb.) göre body kısmını alır ve eğer `200` geldiyse parse etmeye başlar
 * Parse işlemi boyunca gördüğü her resource için aynı işlemi asenkron olarak yapar
-* Yine duruma geektiğinde ya re-render ya da re-flow yapar
+* Yine duruma gerektiğinde ya re-render ya da re-flow yapar
