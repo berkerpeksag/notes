@@ -31,3 +31,17 @@ int care_percentage = bugs * nul_byte;
 
 printf("Which means you should care %d%%.\n", care_percentage);
 ```
+
+# Resources
+
+## FAQs
+
+* http://c-faq.com/
+
+## Online books
+
+* http://publications.gbdirect.co.uk/c_book/
+
+## Meta
+
+* http://stackoverflow.com/questions/3417940/a-good-book-about-the-c-programming-language
