@@ -12,3 +12,4 @@
 * [Gasp Python Couse](http://www.openbookproject.net/pybiblio/gasp/course/)
 * [Building Skills in Object-Oriented Design](http://www.itmaybeahack.com/book/oodesign-python-2.1/html/index.html)
 * [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/html/index.html)
+* [Types and Objects](http://www.cafepy.com/article/python_types_and_objects/python_types_and_objects.html)
