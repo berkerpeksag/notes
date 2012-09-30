@@ -1,5 +1,12 @@
 # CPython
 
+## Language Design
+
+### Status quo wins a stalemate
+
+* http://www.boredomandlaziness.org/2011/02/status-quo-wins-stalemate.html
+* http://mail.python.org/pipermail/python-3000/2006-May/001936.html
+
 ## Blogs
 
 ### Eli Bendersky
