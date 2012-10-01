@@ -1,5 +1,9 @@
 # CPython
 
+## PEPs
+
+* [Design of the CPython Compiler](http://www.python.org/dev/peps/pep-0339/)
+
 ## Language Design
 
 ### Status quo wins a stalemate
@@ -11,6 +15,8 @@
 
 ### Eli Bendersky
 
+* [http://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts](Python internals: Working with Python ASTs)
+* [Python internals: Symbol tables, part 1](http://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1/)
 * [Python internals: how callables work](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work/)
 * [Python objects, types, classes, and instances – a glossary](http://eli.thegreenplace.net/2012/03/30/python-objects-types-classes-and-instances-a-glossary/)
 
