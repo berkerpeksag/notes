@@ -3,6 +3,7 @@
 * Byte code produced by the compiler
 * Plus other data needed to execute it
 * Immutable
+
   ```py
   >>> code_obj = func.func_code
   >>> code_obj.co_name
@@ -19,6 +20,7 @@
 ## Function object
 
 * Mutable in-memory representation
+
   ```py
   >>> def my_fun(x=12):
   ...     y = x * 3
