@@ -1,5 +1,9 @@
 # CPython
 
+## History
+
+* http://python-history.blogspot.com/
+
 ## PEPs
 
 * [Design of the CPython Compiler](http://www.python.org/dev/peps/pep-0339/)
