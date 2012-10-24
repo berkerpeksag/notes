@@ -241,3 +241,10 @@ arbitrary code point. Octal escapes can go up to U+01ff, which is octal 777.
 ...
 97 172 4660 8364 32768
 ```
+
+## Converting Notes
+
+If you want an 8-bit string, you need to decide what encoding you want to use.
+Common encodings are US-ASCII (which is the default if you convert from Unicode
+to 8-bit strings in Python), ISO-8859-1 (aka Latin-1), and UTF-8 (a
+variable-width encoding that can represent all Unicode strings).
