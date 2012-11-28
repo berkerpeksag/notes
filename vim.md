@@ -16,7 +16,7 @@ bu belgede toplayacağım.
 
 ## Genel Kısayollar
 
-* Normal mode: `ESC`
+* Normal mode: `ESC`. Ayrıca `Ctrl-C` de kullanılabilir.
 * Insert mode: `i`
 * Undo: `u`
 * Redo: `Ctrl-R`
@@ -55,3 +55,18 @@ Kaynak: http://www.catonmat.net/blog/vim-plugins-nerdtree-vim/
 * Learn Vimscript the Hard Way: http://learnvimscriptthehardway.stevelosh.com/
 * http://stevelosh.com/blog/2011/09/writing-vim-plugins/
 * http://vim.wikia.com/wiki/How_to_write_a_plugin
+*
+*## Vim Kaynak Kodu
+
+Beklediğimden daha karman çorman ve Mercurial kullanımı rezalet. Google gibi
+bit firmada çalışan Bram'in nasıl bu kadar kötü bir sürüm yönetim formatı
+kurmayı becermiş çok merak ediyorum. Benim gibi Windows ile oyun oynama
+haricinde işi olmayan biri için kodun büyük bölümü çöplük. Vim'e ve
+Vimscript'e iyice hakim olduktan sonra, Windows bağımlılıklarını kaldırıp kodu
+biraz daha temizlemek gibi bir hobi projem var.
+
+Diğer hobi projeler:
+
+* Pathogen üzerine bir package manager
+* ~30 yıllık "man" belge formatı yerine Markdown kullanmak
+  - Belki mevcut belgeleri Markdown'a çeviren bir betik yazılabilir.
