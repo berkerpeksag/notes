@@ -4,6 +4,12 @@ Son 2 yılımı çoğunlukla Emacs ve PyCharm ile geçiren biri olarak,
 bir süre Vim kullanmaya karar verdim. Bu süre boyunca öğrendiklerimi
 bu belgede toplayacağım.
 
+## Sekmelerle Çalışmak
+
+* Yeni sekme oluşturmak için `Ctrl-TAB`
+* Sekmeler arasında gezinmek için **normal moddayken** `gt`
+* Sırası belli bir sekmeye, örneğin 3. sekmeye gitmek istiyorsak `3gt`
+
 ## Vim Ayarları
 
 * http://lucumr.pocoo.org/2010/7/29/sharing-vim-tricks/
@@ -12,6 +18,8 @@ bu belgede toplayacağım.
 
 * Normal mode: `ESC`
 * Insert mode: `i`
+* Undo: `u`
+* Redo: `Ctrl-R`
 * Bufferlar arasında gezinmek için `Ctrl+6`
 * http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know
 
