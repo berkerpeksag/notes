@@ -42,6 +42,10 @@ printf("Which means you should care %d%%.\n", care_percentage);
 
 * http://publications.gbdirect.co.uk/c_book/
 
+## Types
+
+* http://eli.thegreenplace.net/2008/07/18/reading-c-type-declarations/
+
 ## Meta
 
 * http://stackoverflow.com/questions/3417940/a-good-book-about-the-c-programming-language
