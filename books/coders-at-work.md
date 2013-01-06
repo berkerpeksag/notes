@@ -53,3 +53,20 @@ the execution. I know other programmers talk about this: you should step
 through code, you should understand what the dynamic state of the program
 looks like in various quick bird's-eye view or sanity checks, and I agree with
 that.
+
+## Douglas Crockford
+
+**Seibel:** When you're hiring programmers, how do you recognize the good ones?
+
+**Crockford:** The approach I've taken now is to do a code reading. I invite
+the candicate to bring in a piece of code he's really proud of and walk us
+through it.
+
+**Seibel:** And what are you looking for?
+
+**Crockford:** I'm looking for quality of presentation. I want to see what he
+thinks is something he's proud of. I want to see evidence that in fact he is
+the author of the thing that he's defending. *I find that is much more
+effective than asking them to solve puzzles or trivia questions. I see all that
+kind of stuff as useless.* But how effectively they can communicative, that's
+a skill that I'm hiring for.
