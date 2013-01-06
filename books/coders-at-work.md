@@ -70,3 +70,45 @@ the author of the thing that he's defending. *I find that is much more
 effective than asking them to solve puzzles or trivia questions. I see all that
 kind of stuff as useless.* But how effectively they can communicative, that's
 a skill that I'm hiring for.
+
+**Seibel:** What about Knuth's magnum opus, *The Art of Computer Programming*?
+Are you the kind of person who read it cover to cover, who dips into it for
+reference, or who put it on the shelf and never looked at it?
+
+**Crockford:** All except the last one. When I was in college, there were a
+couple of months where I didn't pay rent in order to buy copies of his books.
+And I read them and found jokes in them, like there's a TUG joke in the index
+of Volume I. I have not been able to make sense out of all of it. There are
+places where he goes really a lot deeper than I can go, but I enjoy the books
+a lot, and I've also used them as reference books.
+
+**Seibel:** Did you literally read them cover to cover, skimming over the math
+that you couldn't understand?
+
+**Crockford:** Yeah, the part when there are too many stars, I would read it
+very quickly. I tried to make familiartiy with Knuth a hiring criteria, and
+I was disappointed that I couldn't find enough people that had read him. *In my
+view, anybody who calls himself a professional programmer should have read
+Knuth's book or at least should have copies of his books.*
+
+**Seibel:** To read Knuth, it seems to me, you have to be able to read the math
+and understand it. To what extent do you think having that kind of mathematical
+training is necessarily to be a programmer?
+
+**Crockford:** Obviously it's not, because most of them don't have it. In the
+sorts of applications that I'm working on, we don't see that much application
+of the particular tools that Knuth gives us. If we were writing operating
+systems or writing runtimes, it'd be much more critical. But we're doing form
+validations and UIs. Generally performance is not that important in the things
+that we do. We spend most of our time waiting for the user or waiting for the
+network.
+
+I would like to insist that it's absolutely necessary for people to understand
+this stuff, but it's not. And maybe that's why web programming has taken off
+and why it's so accessible and why JavaScript works. This stuff really isn't
+that hard. And most of the things that make it hard are unnecessarily hard. If
+we just cleaned up the platform a little abit, this work gets a lot easier.
+
+### Quotes
+
+* I think an hour of code reading is worth two weeks of QA.
