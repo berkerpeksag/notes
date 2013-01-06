@@ -107,7 +107,7 @@ I would like to insist that it's absolutely necessary for people to understand
 this stuff, but it's not. And maybe that's why web programming has taken off
 and why it's so accessible and why JavaScript works. This stuff really isn't
 that hard. And most of the things that make it hard are unnecessarily hard. If
-we just cleaned up the platform a little abit, this work gets a lot easier.
+we just cleaned up the platform a little bit, this work gets a lot easier.
 
 ### Quotes
 
