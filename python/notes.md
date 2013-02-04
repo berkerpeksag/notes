@@ -1,5 +1,10 @@
 # Notes
 
+## Short notes
+
+* The `hash(x) == id(x)` behaviour is a CPython implementation detail.
+
+
 ## Behavior of `list.extend()`
 
 ```py
