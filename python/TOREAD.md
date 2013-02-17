@@ -1,4 +1,24 @@
-## General
+# In Progress
+
+* http://en.wikipedia.org/wiki/Self-esteem
+
+## Videos
+
+* [0:44:00] http://ontwik.com/python/sql-for-python-developers/
+* http://pyvideo.org/video/524/pyohio-2011-squinting-at-python-objects
+* http://pyvideo.org/video/276/the-mighty-dictionary-55
+* ["API Driven Development, How I Develop Things and Why?"](http://www.youtube.com/watch?v=ccqGOODoQTg)
+
+## CPython
+
+### Stepping Through CPython
+
+* Watch video of Larry Hasting's talk
+* Notes: http://www.gmazzola.com/notes/Stepping_Through_CPython.html
+
+-----
+
+# TOREAD
 
 ### Important
 
