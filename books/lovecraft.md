@@ -9,3 +9,9 @@ başka, aklıselim ve niyet noksanlığını kabul etmese de isteksiz olması y�
 daha az saygın olduğunu görüyordu. Böylece, tutarlılık ya da tutarsızlık
 konusunda hakiki bir standarttan yoksun, bilinçsiz bir evrende mizahın bile boş
 olduğunu anlamadığından bir tür mizahçı oldu çıktı.
+
+---
+
+Ona, üç boyutlu dünya algısının ne kadar çocukça ve yetersiz olduğu ve bilinen
+yukarı-aşağı, ileri-gerive sağa-sola yönlerinin dışında sonsuz sayıda yön
+olduğu anlatıldı.
