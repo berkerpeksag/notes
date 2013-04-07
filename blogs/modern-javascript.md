@@ -42,13 +42,14 @@ söylemeliyim.
 * Kodlar düzenlenip biraz daha az yer kaplar hale getirilebilirmiş. Örneğin
   aşağıdaki kod daha kısa olarak yazılabilir:
 
-  :::html
+  ```html
   <!-- ... -->
   <div class="hede">
       <p>
           Lorem ipsum dolor sit amet.
       </p>
   </div>
+  ```
 * Yeni başlayanlar ve internet erişimi olmayanlar için 3-4 sayfa uzunluğundaki
   kodların kitapta yer alması faydalı olabilir ancak Backbone ile Twitter
   uygulaması yapılan bölümde Twitter'ın döndürdüğü koca bir JSON çıktısı da
