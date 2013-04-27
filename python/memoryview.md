@@ -1,4 +1,4 @@
-# Memoryviews
+# Memoryview
 
 **Note:** `buffer` has been replaced by the better named `memoryview` in
 Python 3, though you can use either in Python 2.7.
@@ -32,7 +32,7 @@ don't want to (or can't) hold multiple copies in memory.
 
 [Source](http://stackoverflow.com/a/3422740)
 
-## Differences between `buffer` and `memoryviews`
+## Differences between `buffer` and `memoryview`
 
 A naive way to write a large string of bytes to a socket:
 
