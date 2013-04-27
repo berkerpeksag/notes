@@ -32,6 +32,47 @@ don't want to (or can't) hold multiple copies in memory.
 
 [Source](http://stackoverflow.com/a/3422740)
 
+## Differences between `buffer` and `memoryviews`
+
+A naive way to write a large string of bytes to a socket:
+
+```py
+sent = 0
+while sent < len(message):
+    sent += sock.send(message[sent:])
+```
+
+This makes many unnecessary copies of message. You can imagine how bad it
+performs if message is 1GB long and the client only receives 1K at a time.
+
+You can improve this by using Python's lesser known `buffer` built-in, which is
+like a `memoryview` except it's read-only:
+
+```py
+buf = buffer(message,0)
+while len(buf):
+    buf = buffer(message,len(buf) + sock.send(buf))
+```
+
+This doesn't make any copies of message.
+
+But what if I want the equivalent for efficiently receiving data from a socket
+into a single buffer without having to allocate a bunch of small strings in the
+loop?
+
+Awesome `memoryview` way:
+
+```py
+view = memoryview(bytearray(bufsize))
+while len(view):
+    view = view[sock.recv_into(view,1024):]
+```
+
+Slicing view just returns a new `memoryview`, so there aren't any unnecessary
+string allocations.
+
+[Source](https://profiles.google.com/116139041198229909169/buzz/SmLJKHwpLPC)
+
 ## Documentation
 
 * [The buffer interface][python-dev] by Guido van Rossum
