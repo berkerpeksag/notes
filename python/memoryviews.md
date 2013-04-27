@@ -31,3 +31,9 @@ This can be very helpful if you want to have more than one view on the data and
 don't want to (or can't) hold multiple copies in memory.
 
 [Source](http://stackoverflow.com/a/3422740)
+
+## Documentation
+
+* [The buffer interface][python-dev] by Guido van Rossum
+
+[python-dev]: http://mail.python.org/pipermail/python-dev/2000-October/009974.html
