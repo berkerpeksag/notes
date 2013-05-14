@@ -2,6 +2,11 @@
 
 * Toggling read-only mode in a buffer: `C-x C-q`
 * Reload `.emacs` without restart: `M-x load-file`
+* Select all: `C-x h`
+* Cursorun önündeki ifadeyi çalıştırıp, sonucunu minibuffer'da gösterir: `M-C-x`
+* \*scratch\* bufferında cursor'un önündeki ifadeyi çalıştırmak için(sonuç
+  ifadenin hemen altında çıkar): `C-j`
+* Bufferlar için dosya arama benzeri(`C-x C-f`) finder: `C-x b`
 
 ## Buffers
 
