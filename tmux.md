@@ -6,6 +6,7 @@
 * Aktif terminali başka bir pencereye taşımak `Ctrl-A !`
 * Pencereler arası gezinmek `Ctrl-a 0-9` ama ben `Ctrl-a space` olarak
   değiştirdim.
+* Bölünen terminaller arasında gezinmek: `Ctrl-a {` (bu değişmeli)
 
 ### Kaynaklar
 
