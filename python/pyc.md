@@ -11,4 +11,8 @@ When reading a `.pyc` file, we ignore it when the magic word isn't there
 (or when the mtime doesn't match that of the `.py` file exactly), and
 then we will write it back like described above.
 
+**Note:** In importlib we write the entire file to a temp file and then
+to an atomic rename. py_compile as of Python 3.4 now just uses importlib
+directly, so it matches its semantics.
+
 http://mail.python.org/pipermail/python-dev/2013-May/126268.html
