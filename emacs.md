@@ -7,6 +7,11 @@
 * \*scratch\* bufferında cursor'un önündeki ifadeyi çalıştırmak için(sonuç
   ifadenin hemen altında çıkar): `C-j`
 * Bufferlar için dosya arama benzeri(`C-x C-f`) finder: `C-x b`
+* Yorum satırı yazarken bir alttaki satırdan devam etmek için `M-j`:
+  ```el
+  ;; ilk satır (press M-j)
+  ;; ikinci satır
+  ```
 
 ## Buffers
 
