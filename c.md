@@ -1,3 +1,12 @@
+# Practical C Programming
+
+* Local variables are temporary unless they are declared `static`.
+* `static` has an entirely different meaning when used with global
+  variables. It indicates that a variable is local to the current file.
+* See for the `static` example: [/playground/practical-c/vars.c][varsc]
+
+[varsc]: https://github.com/berkerpeksag/playground/blob/master/practical-c/vars.c
+
 # Learn C The Hard Way
 
 ## Types
@@ -33,6 +42,10 @@ printf("Which means you should care %d%%.\n", care_percentage);
 ```
 
 # Resources
+
+## The books I'm currently reading
+
+* Practical C Programming
 
 ## FAQs
 
