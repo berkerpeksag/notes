@@ -88,6 +88,19 @@ number of bits.
 this two bits to the left, it's like multiplying by 4. We get bits of `101000`.
 This is 40 in decimal.
 
+**Note:** Shifting left by `n` places is the same as multiplying by `2n`.
+
+```c
+int i, j;
+
+j = 4;
+
+i = j << 3; /* multiple j by 8 (2 ** 3)
+
+/* slower than shift */
+i = j * 8;
+```
+
 ### `>>` right-shift operator
 
 The left argument is the bit pattern to be shifted, the right argument is the
