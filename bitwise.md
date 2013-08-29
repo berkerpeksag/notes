@@ -115,3 +115,15 @@ shifted in.
 
 The number 80, with bits of `1010000`, shifted right 3 bits, yields bits of
 `1010`, which is 10 in decimal.
+
+**Note:** Shifting right by `n` places is the same as dividing by `2n`.
+
+```c
+int i, q;
+
+i = 42;
+
+q = i >> 2;
+
+q = i / 4; /* same as above 2n = 2 * 2 = 4 */
+```
