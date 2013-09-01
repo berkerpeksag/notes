@@ -25,6 +25,28 @@ iyisinin bile otoritenin uygulamalarıyla özde kötü kılındığını ileri s
 
 *Pyotr Alexeyevich Kropotkin*
 
+---
+
+Ben, insanın akıl, onur ve mutluluğunun serpilip gelişebileceği biricik koşul
+olarak gördüğüm özgürlüğün fanatik bir tutkunuyum; bu, devletin bahşettiği,
+ölçtüğü ve düzenlediği biçimsel özgürlük değildir; bazılarının diğerlerinin
+köleliğine dayalı ayrıcalıklarından başka hiçbir şeyi temsil etmeyen ebedi bir
+yalan değil; J. J. Rousseau Okulu’nun ve herkesin hakkına sınırlamalar getiren
+Devletin –ki bu kaçınılmaz olarak her bir hakkın sıfıra indirilmesine yol
+açmaktadır– insanlara bahşettiği sözde hakları özgürlük olarak kabul eden burjuva
+liberalizminin diğer okullarının göklere çıkardığı bireyci, egoist, sefil,
+kurmaca özgürlük değildir. Hayır, ben sadece özgürlük sözcüğüyle nitelenmeyi hak
+eden özgürlüğü kast ediyorum; her bireyde saklı bulunan tüm maddi, zihinsel ve
+moral güçlerin tam gelişimini içeren özgürlük; kendi bireysel doğamızın
+yasalarının belirlediği kısıtlamalar dışında –yani, bizim yanımızda veya
+üstümüzde duran dışsal bir yasa koyucu tarafından dayatılmadıkları, kendi
+doğamızda içkin oldukları, kendi maddi, zihinsel ve moral benliğimizin temelini
+oluşturdukları için aslında kısıtlama olarak görülmemesi gereken ve gerçekte
+özgürlüğümüzün gerçek ve dolaysız koşullarını oluşturan kısıtlamalar– hiçbir
+kısıtlama tanımayan özgürlük.
+
+*Mikhail Bakunin*
+
 ## Okuma listesi
 
 * http://www.non-fides.fr/?Silahli-Nese
