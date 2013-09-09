@@ -1,5 +1,11 @@
 # The Descriptor Protocol
 
+> Descriptors have the advantage that you don't actually have to know anything
+> about them to use Python
+
+*gutworth on #python-dev*
+
+
 The default behavior for attribute access is to `get`, `set`, or `delete` the
 attribute from an object’s dictionary.
 
