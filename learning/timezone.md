@@ -69,6 +69,7 @@
 * http://en.wikipedia.org/wiki/Eastern_Time_Zone
 * http://en.wikipedia.org/wiki/Coordinated_Universal_Time
 * http://en.wikipedia.org/wiki/Time_zone
+* http://www.bbc.co.uk/news/world-13334229
 
 ### Readings
 
