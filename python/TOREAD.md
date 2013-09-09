@@ -1,7 +1,5 @@
 # In Progress
 
-* http://en.wikipedia.org/wiki/Self-esteem
-
 ## Videos
 
 * [0:44:00] http://ontwik.com/python/sql-for-python-developers/
@@ -22,7 +20,6 @@
 
 ### Important
 
-* https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.markdown
 * http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/
 
 ---
@@ -46,24 +43,15 @@
 
 * http://docs.python.org/dev/reference/datamodel.html#customizing-class-creation
 
-## Time zone
-
-* http://www.bbc.co.uk/news/world-13334229
-
 ## Unicode
 
 * http://eric.themoritzfamily.com/python-encodings-and-unicode.html
 * http://farmdev.com/talks/unicode/
-* http://docs.python.org/howto/unicode.html
 
 ## CPython Internals
 
 * http://eli.thegreenplace.net/2012/03/30/python-objects-types-classes-and-instances-a-glossary/
 * http://eli.thegreenplace.net/2012/06/15/under-the-hood-of-python-class-definitions/
-
-## Extending Python
-
-* https://github.com/A-OK/Snakes-and-Ladders
 
 ## Debugging
 
