@@ -252,7 +252,7 @@ hazırlıksız, birdenbire nasıl onu söküp atsın ki?
 Ferrer'in modern eğitime dair fikirleri:
 
 > Okurlarımın dikkatini şu düşünceye çekmek istiyorum: Eğitimin bütün değeri,
-> çocuğun fiziksel, entelektüel ve ahlaki iradeisne duyulan saygıya dayanır.
+> çocuğun fiziksel, entelektüel ve ahlaki iradesine duyulan saygıya dayanır.
 > Nasıl ki bilimde olgular olmadan kanıtlama mümkün değilse, çocuğun amacına
 > yön veren ve kendisini yalnızca bu amacı desteklemekle sınırlayan her tür
 > dogmatizmden arınmadan gerçek eğitim de mümkün değildir. Çocuğun amacını
