@@ -127,7 +127,7 @@ we just cleaned up the platform a little bit, this work gets a lot easier.
   then I just lie down until it goes away.
 * Gosh,  here we have Smalltalk, which has this really great code-generation
   machinery, which is now very mature - it's about 20 years old and it's
-  extremely reliable. It's a relatively simple, ,  relatively retargetable,
+  extremely reliable. It's a relatively simple, relatively retargetable,
   quite efficent just-in-time code generator that's designed to work really
   well with non type-declared languages. On the other hand, here's Python,
   which is this wonderful language with these wonderful libraries and a
