@@ -25,6 +25,48 @@ two years to get sick of work, maybe I like school twice as much."*
 
 ## Brendan Eich
 
+**Seibel:** Let's go back to those ten days when you implemented the original
+JavaScript. I know that at some point someone had turned you on to Abelson and
+Sussman and your original idea was to put Scheme in the browser.
+
+**Eich:** The immediate concern at Netscape was it must look like Java. People
+have done Algol-like syntaxes for Lisp but I didn't have time to take a Scheme
+core so I ended up doing it all directly and that meant I could make this same
+mistakes that others made.
+
+I didn't have total dynamic scope, like Stallman insisted was somehaw important
+for Emacs and infested Elisp with. JavaScript has mostly lexical scope wite some
+oddness to it - there are a few loopholes that are pretty much dynamic: the
+global object, the `with` statement, `eval`. But it's not like dollar variables
+in Perl before `my` or `upvar`, `uplevel` in Tcl. The '90s was full of that --
+it was trendy.
+
+But I didn't stick to Scheme ant it was because of the rushing. I had too little
+time to actually think through some of the consequences of things I was doing.
+I was economizing on the number of objects that I was going to have to
+implement in the browser. So I made the global object be the window object,
+which is a source of unknown new name bindings and makes it impossible to make
+judgments about free variables. So that was regrettable.
+
+**Seibel:** Did you ever consider making a language more closely related to Java
+-- take Java and make some kind of simple subset; get rid of the primitive types
+and other needless complexities?
+
+**Eich:** There was some pressure from management to make the syntax look like
+Java. There was also some pressure to make it not too big, because after all,
+people should use Java if they're doing any real programming; this is just
+Java's dumb little brother.
+
+**Seibel:** How do you decide when it's right to do a big rewrite? Thanks to
+Joel Spolsky, Netscape is in some ways the poster child for the dangers of the
+big rewrite.
+
+**Eich:** There was an imperative from Netscape to make the acquisition that
+waved the *Design Patterns* book around feel like they were winners by using
+their new rendering engine,  which was like *My First Object-Oriented
+Rendering Engine*. From a high level it sounded good; it used C++ and design
+patterns. But it had a lot of problems.
+
 **Seibel:** When you read a big piece of code, how do you get into it?
 
 **Eich:** I used to start top-down. If it's big enough you get function
@@ -53,6 +95,19 @@ the execution. I know other programmers talk about this: you should step
 through code, you should understand what the dynamic state of the program
 looks like in various quick bird's-eye view or sanity checks, and I agree with
 that.
+
+### Quotes
+
+* I'm not really looking for respect, especially from the Java-heads or the
+  trailing edge.
+* I have this big allergy to ivory-tower design and design patterns. Peter
+  Norvig, when he was at Harlequin, he did this paper about how design patterns
+  are really just flaws in your programming language. Get a better programming
+  language. He's absolutely right. Worshipping patterns and thinking about,
+  "Oh, I'll use the X pattern."
+* I don't give people puzzles to solve. Google does that in spades, and they
+  hire a bunch of very bright puzzle-solvers.
+
 
 ## Douglas Crockford
 
