@@ -8,20 +8,44 @@ All Python objects have this:
 * **Some content.** Some objects allow you to change their content (without
   changing the identity or the type, that is).
 
-> Things like `name.attr` and `name[index]` are just syntactic
-> sugar for method calls.
+Objects may also have this:
+
+* zero or more methods (provided by the type object)
+* zero or more names
+
+Some objects have methods that allow you to change the contents of the object
+(modify it in place, that is).
+
+Some objects only have methods that allow you to access the contents, not change
+it.
+
+Some objects don't have any methods at all.
+
+Even if they have methods, you can never change the type, nor the identity.
+
+**Note: **Things like `name.attr` and `name[index]` are just syntactic sugar for
+method calls. The first corresponds to `__setattr__` and `__getattr__`, the
+second to `__setitem__` and `__getitem__`.
+
+
+## Names
+
+An object can have any number of names, or no name at all.
+
+Names live in namespaces (such as a module namespace, an instance namespace, a
+function's local namespace).
 
 ## call-by-object
 
-The only thing you need to know is that Python’s model is neither
-“call by value” nor “call by reference” (because any attempt to use those terms
-for Python requires you to use non-standard definitions of the words “-value”
-and “-reference”). The most accurate description is CLU’s “call by object” or
-“call by sharing“. Or, if you prefer, “call by object reference“.
+The only thing you need to know is that Python's model is neither
+"call by value" nor "call by reference" (because any attempt to use those terms
+for Python requires you to use non-standard definitions of the words "-value"
+and "-reference"). The most accurate description is CLU’s "call by object" or
+"call by sharing". Or, if you prefer, "call by object reference".
 
 The following excerpts are taken from an old comp.lang.python thread. The
 interesting parts are the CLU texts, which provide a very concise description of
-Python’s calling model.
+Python's calling model.
 
 ---
 
