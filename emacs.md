@@ -12,6 +12,12 @@
   ;; ilk satır (press M-j)
   ;; ikinci satır
   ```
+* Plcing the cursor just after the last closing paren: `C-x C-e`
+
+## Help
+
+* Get description of the major mode: `C-h m`
+* Get all available keybindings grouped by modes: `C-h b`
 
 ## Buffers
 
@@ -26,6 +32,7 @@
 ## Search
 
 * Incremental search: Next result `C-s`, previous result `C-r`
+* Aramaya başladığım satıra geri dönmek: `C-v C-<SPACE>`
 
 ## Misc
 
