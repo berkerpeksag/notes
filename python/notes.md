@@ -170,3 +170,68 @@ the values `42`, `314`, and `somevar` are arguments.
 
 * https://speakerdeck.com/u/antocuni/p/python-white-magic
 * [magic.py](https://bitbucket.org/antocuni/whitemagic/src/tip/code/magic.py)
+
+
+## Why does Python allow an empty function body without a "pass" statement?
+
+```py
+def method_one(self):
+    """This is the first method, will do something useful one day"""
+```
+
+**Short answer:** Although the docstring is usually not considered to be part of
+the function body, because it is not "executed", it is parsed as such, so the
+`pass` can be omitted.
+
+### Long answer
+
+According to the Python 2.7.5 grammar specification, which is read by the parser
+generator and used to parse Python source files, a function looks like this:
+
+```
+funcdef: 'def' NAME parameters ':' suite
+```
+The function body is a suite which looks like this:
+
+```
+suite: simple_stmt | NEWLINE INDENT stmt+ DEDENT
+```
+
+Following this all the way through the grammar, `stmt` can be an `expr_stmt`,
+which can be just a `testlist`, which can be just a single `test` which can
+(eventually) be just an `atom`, which can be just a single `STRING`: The
+docstring.
+
+Here are just the appropriate parts of the grammar, in the right order to follow
+through:
+
+```
+stmt: simple_stmt | compound_stmt
+simple_stmt: small_stmt (';' small_stmt)* [';'] NEWLINE
+small_stmt: (expr_stmt | print_stmt  | del_stmt | pass_stmt | flow_stmt |
+             import_stmt | global_stmt | exec_stmt | assert_stmt)
+expr_stmt: testlist (augassign (yield_expr|testlist) |
+                     ('=' (yield_expr|testlist))*)
+testlist: test (',' test)* [',']
+test: or_test ['if' or_test 'else' test] | lambdef
+or_test: and_test ('or' and_test)*
+and_test: not_test ('and' not_test)*
+not_test: 'not' not_test | comparison
+comparison: expr (comp_op expr)*
+comp_op: '<'|'>'|'=='|'>='|'<='|'<>'|'!='|'in'|'not' 'in'|'is'|'is' 'not'
+expr: xor_expr ('|' xor_expr)*
+xor_expr: and_expr ('^' and_expr)*
+and_expr: shift_expr ('&' shift_expr)*
+shift_expr: arith_expr (('<<'|'>>') arith_expr)*
+arith_expr: term (('+'|'-') term)*
+term: factor (('*'|'/'|'%'|'//') factor)*
+factor: ('+'|'-'|'~') factor | power
+power: atom trailer* ['**' factor]
+atom: ('(' [yield_expr|testlist_comp] ')' |
+       '[' [listmaker] ']' |
+       '{' [dictorsetmaker] '}' |
+       '`' testlist1 '`' |
+       NAME | NUMBER | STRING+)
+```
+
+Reference: http://stackoverflow.com/questions/17735170/why-does-python-allow-an-empty-function-with-doc-string-body-without-a-pass
