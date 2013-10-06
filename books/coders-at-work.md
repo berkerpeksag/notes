@@ -2,7 +2,12 @@
 
 ## Simon Peyton Jones
 
+### Books or Papers
+
 * [The Computer Scientist as Toolsmith][toolsmith] by Fred Brooks
+* Programming Pearls by Jon Bentley
+* "Writing Programs for 'The Book'" chapter in Beautiful Code by Brian Hayes
+* Purely Functional Data Structures by Chris Okasaki
 
 [toolsmith]: http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf
 
@@ -86,6 +91,14 @@ I liked and I took those, but I didn't want to go through all the requirements.
 After college I worked for two years, for a software company in Cambridge. And
 after two years I said, *"It took me four years to get sick of school and only
 two years to get sick of work, maybe I like school twice as much."*
+
+**Seibel:** What about *The Art of Computer Programming*? Some of the people
+I've talked to on this have absolutely read it from cover to cover. Some people
+have it on the shelf and use it as a reference. And some people just have it on
+the shelf.
+
+**Norvig:** At one point I had it as *my monitor stand* because it was one of
+  the biggest set of books I had, and it was just the right height.
 
 ## Brendan Eich
 
