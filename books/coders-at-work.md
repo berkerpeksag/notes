@@ -6,6 +6,70 @@
 
 [toolsmith]: http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf
 
+## Joe Armstrong
+
+**Seibel:** Is there anything that you have done specifically to improve your
+skill as a programmer?
+
+**Armstrong:** It's a motivating force to implement something; I really
+recommend it. If you want to understand C, write a C compiler. If you want to
+understand Lisp, write a Lisp compiler or a Lisp interpreter. I've had people
+say, *"Oh, wow, it's really difficult writing a compiler."* It's not. It's quite
+easy. There are a lof of little things you have to learn about, none of which is
+difficult.
+
+* You have to know about data structures.
+* You need to know about hash tables.
+* You need to know about parsing.
+* You need to know about code generation.
+* You need to know about interpretation techniques.
+
+Each one of these is not particulary difficult. Things you don't do are
+difficult and things you've done are easy. So you don't even try. And I think
+that's a mistake.
+
+**Seibel:** What are the techniques that you use for debugging? Print
+statements?
+
+**Armstrong:** Print statements. The great gods of programming said, *"Thou
+shalt put `printf` statements in your program at the point where you think it's
+gone wrong, recompile, and run it."*
+
+Then there's -- I don't know if I read it somewhere or if I invented it myself
+-- *Joe's Law of Debugging*, which is that all errors will be plus/minus three
+statements of the place you last changed the program.
+
+**Seibel:** Some companies are famous for using logic puzzles during
+interviews. Do you ask people that kind of questions in interviews?
+
+**Armstrong:** No. Some very good programmers are kind of slow at that kind of
+stuff.
+
+### Quotes
+
+* The really good programmers spend a lot of time programming. I haven't seen
+  very good programmers who don't spend a lot of time programming. If I don't
+  program for two or three days, I need to do it. And you get better at it --
+  you get quicker at it.
+* To me programming isn't about typing code into a machine. Programming is about
+  understanding.
+* There is no point learning lots of languages that all do the same thing.
+* I can hardly read or write C++. I don't like C++; it doesn't feel right. It's
+  just complicated. I like small simple languages. It didn't feel small and
+  simple.
+* I like documentation. I don't think a program is finished until you've written
+  some reasonable documentation. I think it's unprofessional these people who
+  say, *"What does it do? Read the code."* The code shows me what is *does*. It
+  doesn't show me what it's supposed to do.
+* I should go back to Prolog -- drop Erlang.
+* Spend 20 percent of your time learning stuff.
+* Ugly is when it's done with a linear search and it could have been done with a
+  binary interval halving. Or it could have done logarithmically and it's done
+  linearly. For the wrong reasons. Sure do it linearly if we know we're
+  searching through a list of ten elements, who cares? But if it's a big data
+  structure then it should have been done with a binary search. And so it's
+  really not very pretty to do it in a linear form.
+
 ## Peter Norvig
 
 **Seibel:** And you studied computers in college but didn't major in computer
