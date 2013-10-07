@@ -76,6 +76,7 @@
 * http://www.bryceboe.com/2012/11/05/time-zones-in-python-and-datetime-representations/
 * http://www.upack.com/moving-services/articles/moving-across-the-world-a-guide-to-time-zones/
 * http://naggum.no/lugm-time.html
+* [x] http://lucumr.pocoo.org/2011/7/15/eppur-si-muove/
 
 ### References
 
