@@ -5,6 +5,37 @@
 
 *gutworth on #python-dev*
 
+### Simple Scheme
+
+* `obj.attribute` means `attribute.__get__(obj, type(obj))`
+* `obj.attribute = value` means `attribute.__set__(obj, value)`
+* `del obj.attribute` means `attribute.__delete__(obj)`
+
+### Functions are descriptors
+
+```py
+>>> def f(): pass
+...
+>>> hasattr(f, '__get__')
+True
+```
+
+You way well be thinking that you have never made use of descriptors, but fact
+is that function objects are actually descriptors. When a function is originally
+added to a class definition it is as a normal function. When you access that
+function using a dotted attribute pathi you are invoking the `__get__()` method
+to bind the function to the class instance, turning it into a bound method of
+that object.
+
+```py
+>>> f
+<function f at 0x7f33dad2e938>
+>>> obj = object()
+>>> f.__get__(obj, type(obj))
+<bound method object.f of <object object at 0x7f33dad61080>>
+```
+
+---
 
 The default behavior for attribute access is to `get`, `set`, or `delete` the
 attribute from an object’s dictionary.
