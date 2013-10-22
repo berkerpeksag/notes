@@ -17,8 +17,6 @@ alanını olabildiğince genişletirken, diğerinin egemenlik alanını elimizde
 geldiğince kısıtlamaya çalıştık; sonuçta da iyi ile kötü konusunda büsbütün
 cahil kalıp ikisini belirleyen sınırları fena halde birbirine karıştırdık.
 
-### Alıntılar
-
 * Ne var ki her bireyin tüm evrenin kendisiyle ilgilendiğini sanması, insan ne
   denli kendini beğenmiş olduğunu ortaya koymaktan öte bir yarar sağlamıyor.
 * Sızlanıp durmaktan, hayaller görmekten, saçma sapan konuşmaktan başka işe
@@ -32,8 +30,6 @@ cahil kalıp ikisini belirleyen sınırları fena halde birbirine karıştırdı
   çıkarır.
 
 ## Çeşitli Konular Üzerine Düşünceler (1706)
-
-### Alıntılar
 
 * Öyle güçlü bir dini inancımız var ki, ancak yüreklerimizi nefretle
   doldurmamıza yetiyor, birbirimizi sevmemize değil.
@@ -49,11 +45,9 @@ cahil kalıp ikisini belirleyen sınırları fena halde birbirine karıştırdı
 
 ## İngiltere'de Hıristiyanlığın Kaldırılmasına Karşı Bir Savunma (1708)
 
-### Alıntılar
-
 * Dünyanın bir zamanlar el üstünde tuttuğu bazı sözcüklerden, içleri bütünüyle
   boşaltılmış, ortaya çıkmalarına neden olan durum bütünüyle ortadan kalkmış
-  olsa dakurtulmak pek güç oluyor.
+  olsa da kurtulmak pek güç oluyor.
 * Adalet, dindarlık, yurtseverlik gibi aptalca kavramlarımızın hepsinin,
   Tanrı'ya, gelecekte kurulacak daha iyi bir devlete, cennete, cehenneme ilişkin
   bütün fikirlerimizin önyargılı dinsel eğitimden kaynaklandığını söylemenin o
