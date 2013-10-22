@@ -74,6 +74,16 @@ stuff.
   searching through a list of ten elements, who cares? But if it's a big data
   structure then it should have been done with a binary search. And so it's
   really not very pretty to do it in a linear form.
+* **Seibel:** I heard about a computer science department where in the tutor's
+  office they had a stuffed animal and the rule was you had to explain your
+  problem to the stuffed animal before you could bother tutor. *"OK,  Mr. Bear,
+  here's the thing I'm working on and here's my approach--aha! There it is."*
+* Big mistake: don't tell people how fast something is going to be *before*
+  you've implemented it.
+* ...then I thought I could implement this abstract machine in C so I started
+  writing my first-ever C. And Mike Williams came along and looked at my C and
+  said, *"This is the worst C I've ever seen in my entire life. This is
+  appallingly bad."*
 
 ## Peter Norvig
 
