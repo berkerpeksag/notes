@@ -37,6 +37,10 @@ theology, and metaphysics.
 
 http://www.victorianweb.org/previctorian/swift/religion1.html
 
+### Readings
+
+* http://www.online-literature.com/swift/religion-church-vol-one/15/
+
 
 ## Alıntılar
 
