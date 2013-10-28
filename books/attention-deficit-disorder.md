@@ -1,3 +1,7 @@
+## Dikkat Eksikliği Bozukluğu
+
+*Dr.Thomas E. Brown*
+
 * Russell Barkley ve iş arkadaşları,  DEHB sendromlu genç yetişkinler ile aynı
   topluma mensup aynı yaştaki normal kişileri kıyaslayanbir çalışma yapmıştır.
   DEHB'li kişilerde ortalama bir işte çalışma süresi 9,3 ay iken, normal
