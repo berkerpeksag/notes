@@ -1,4 +1,4 @@
-# Persistent Cookie
+## Persistent Cookie
 
 A persistent cookie will outlast user sessions. If a persistent cookie has its
 `Max-Age` set to 1 year, then, within the year, the initial value set in that
