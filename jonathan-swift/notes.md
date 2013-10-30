@@ -42,6 +42,36 @@ http://www.victorianweb.org/previctorian/swift/religion1.html
 * http://www.online-literature.com/swift/religion-church-vol-one/15/
 
 
+## Jonathan Swift's Style
+
+Swift's style is, in its line, perfect; the manner is a complete expression of
+the matter, the terms appropriate, and the artifice concealed. It is simplicity
+in the true sense of the word.
+
+*(Samuel Taylor Coleridge, "Lecture on Style," 1818)*
+
+Swift's style seems so simple that one would think any child might write as he
+does, and yet if we try we find to our despair that it is impossible.
+
+*(Sir Walter Scott, The Cambridge History of English and American Literature)*
+
+### Some advice from Swift
+
+tl;dr: *Keep it simple*, put *proper words in proper places*.
+
+Two things I will just warn you against: the first is, the frequency of flat
+unnecessary epithets; and the other is, the folly of using old threadbare
+phrases, which will often make you go out of your way to find and apply them,
+are nauseous to rational hearers, and will seldom express your meaning as well
+as your own natural words.
+
+When a man's thoughts are clear, the properest words will generally offer
+themselves first, and his own judgment will direct him in what order to place
+them so as they may be best understood.
+
+*(From "Letter to a Young Gentleman Lately Entered Into Holy Orders", 1721)*
+
+
 ## Alıntılar
 
 * "Kanunlar örümcek ağına benzer. Onlar nasıl yalnız küçük sinekleri tutar da,
