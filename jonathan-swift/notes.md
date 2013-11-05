@@ -71,6 +71,23 @@ them so as they may be best understood.
 
 *(From "Letter to a Young Gentleman Lately Entered Into Holy Orders", 1721)*
 
+One of the main reasons is that Swift wrote in a very plain and downright
+style. He didn't use any embellishments. At times, when Swift was writing
+serious stuff this same plain style appears dry but when writing humorously,
+this same plainness gives his wit a singular edge. Swift didn't use ornate or
+rhetorical language; he said what he had to in simply without any affectation as
+Hugh Blair says:
+
+"His style is of the plain and simple kind; free of all affectation, and all
+superfluity; perspicuous, manly and pure."
+
+Another important feature of Swift's prose is that he uses the common touch. In
+other words, everybody can understand his language that is why even children can
+read his books with so much enjoyment. Also, Swift addresses people as rational
+and political beings, making them his equals.
+
+*(Jonathan Swift's style of writing. (2003, January 15). In WriteWork.com.)*
+
 
 ## Alıntılar
 
