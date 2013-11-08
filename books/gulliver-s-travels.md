@@ -45,3 +45,43 @@ büyük hilebaz ve vatan haininin adı geçiyordu. Diğerlerine gelince, bunlar�
 adını bile duymamıştım. Hepsi en mahzun halleri ve berbat kıyafetleriyle önümüze
 dikildiler; birçoğu gözden düşerek sefalet içinde öldüklerini söylüyordu. Geri
 kalanları ise darağacını boylamışlardı.
+
+### 4. kısım 5. bölüm
+
+Savaş sanatına yabancı biri olmadığımdan, büyük küçük toplardan, tüfeklerden,
+karabinalardan, tabancalardan, mermilerden, baruttan, kılıçlardan, süngülerden,
+kuşatmalardan, geri çekilmelerden, saldırılardan, el altından çökertme
+hareketlerinden, karşı hareketlerden, deniz savaşlarından bir bir söz
+ettim. İçinde binlerce insanla batan gemileri, her iki taraftan binlerce kişinin
+ölmesini, ölenlerin iniltilerini, havada uçuşan kol ve bacakları, duman, gürültü
+ve kargaşayı, atların altında ezilerek ölenleri, kaçış, kovalama ve utkuyu,
+köpek, kurt ve yırtıcı kuşlara yem olarak bırakılan savaş alanlarına saçılmış
+leşleri, yağmalamaları, soymaları, ırza geçmeleri, yakıp yıkmaları... Sevgili
+milletimizin kahramanlığını ortaya koymak için de bir kuşatma sırasında yüz tane
+düşmanın bir çırpıda yok edildiğini, bir o kadarının da bir gemide havaya
+uçurulduğunu ve cesetler gökten parça parça aşağı inerken, herkesin büyük bir
+eğlenceyle bunları seyrettiklerine tanık olduğumu Efendime bir bir anlattım.
+
+Diğer ayrıntılara da tam girmek üzereydim ki, Efendim susmamı
+emretti. Yahoo'ların doğasını anlayan herkes, böyle aşağılık bir hayvanın
+güçleri ve marifetleri dekötülüklerine eş değerde ise, bu söylediğim her şeyi
+yapabileceklerine kolayca inanabilirdi. Ancak, konuşmam Efendimin tüm türe olan
+tiksintisini iyice arttırmış, kendisinin daha önce tümüyle yabancı olduğu bir
+şey kafasını kurcalamaya başlamıştı. Kulakları böyle iğrenç sözlere alıştıkça,
+bunları daha az tiksinç bulabileceğini sanmıştım. Kendi ülkesinin Yahoolarından
+nefret etmesine karşın, yine de bu Yahoo'ları o iğrenç özelliklerinden ötürü,
+zalimliğinden dolayı bir Gnnayh'ı (bir çeşit yırtıcı kuş) ya da toynağını
+kestiği için bir sivri taşı suçladığından daha fazla suçlamıyordu. Ancak, aklı
+olduğunu sanan bir yaratığın böyle alçaklıkları yapabilecek yetiye sahip
+olduğunu görünce, bu yeteneğin soysuzlaşmasının, zalimlikten de öte bir kötülüğe
+dönüşmesinden korkuyordu. Buna dayanarak bizdekinin akıl olmadığını
+düşünüyordu. Bizler yalnızca doğal kötücül yanlarımızı daha bir arttıran kimi
+özelliklere sahiptik.
+
+### 4. kısım 8. bölüm
+
+Gördüğüm kadarıyla Yahoo'lar, bütün diğer hayvanlar arasında en kalın kafalı
+olanlarıydı. Yetenekleri, yük taşımanın ya da çekmenin ötesine bir türlü
+varmıyordu. Fakat fikrimce, bu kusurları esasen inatçı ve aksi mizaçlarından
+kaynaklanıyor. Çünkü son derece kurnaz, kötücül, hain ve kinciler. Güçlü
+kuvvetli, fakat korkaklar; bu yüzden de küstah alçak ve zalimler.
