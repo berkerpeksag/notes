@@ -197,7 +197,7 @@ decremented to allow it (eventually) to be garbage collected. After orienting
 myself in the source, I was ready to trace through the opcodes used in the
 examples above.
 
-## What Happens When You Call dict()?
+## What Happens When You Call `dict()`?
 
 The disassembly above shows that the opcodes used to call `dict()` to create a
 dictionary are `LOAD_NAME`, `LOAD_CONST`, and `CALL_FUNCTION`.
