@@ -234,4 +234,17 @@ atom: ('(' [yield_expr|testlist_comp] ')' |
        NAME | NUMBER | STRING+)
 ```
 
-Reference: http://stackoverflow.com/questions/17735170/why-does-python-allow-an-empty-function-with-doc-string-body-without-a-pass
+Reference:
+http://stackoverflow.com/questions/17735170/why-does-python-allow-an-empty-function-with-doc-string-body-without-a-pass
+
+
+## `__init__` vs `__new__`
+
+* The `__new__` method is essentially the constructor for your class and handles
+  its creation.
+* You may think this is what the `__init__` method is for, but the class
+  instance is actually already created by the time `__init__` gets called.
+* The `__init__` method is just setting initial values for an already created
+  object.
+* The `__new__` method is what gets called before the object exists and actually
+  creates and returns the object.
