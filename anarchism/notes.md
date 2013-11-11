@@ -17,3 +17,13 @@ bir devrim yapması gerekir.
 *Gün Zileli*
 
 [Kaynak](http://www.futuristika.org/turkiyede-bir-anarsizm-hayaleti-dolasiyor/)
+
+---
+
+The system of education and employment works to redefine who you are in the
+deepest sense, pushing you away from developing and acting upon your own vision
+and guiding ideas. Hence, if you want to stand for something and avoid vanishing
+as an independent force in society, you have no choice but to resist.
+
+*(p. 280 of Disciplined Minds: A Critical Look at Salaried Professionals and the
+Soul-Battering System that Shapes their Lives by Jeff Schmidt)*
