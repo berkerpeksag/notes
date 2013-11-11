@@ -27,3 +27,5 @@ as an independent force in society, you have no choice but to resist.
 
 *(p. 280 of Disciplined Minds: A Critical Look at Salaried Professionals and the
 Soul-Battering System that Shapes their Lives by Jeff Schmidt)*
+
+http://www.uow.edu.au/~bmartin/pubs/01BRrt.html
