@@ -5,7 +5,7 @@
   variables. It indicates that a variable is local to the current file.
 * See for the `static` example: [/playground/practical-c/vars.c][varsc]
 
-[varsc]: https://github.com/berkerpeksag/playground/blob/master/practical-c/vars.c
+[varsc]: https://bitbucket.org/berkerpeksag/playground/src/32794b23c2ccc1e06de9af7992cbacfeb0533f78/practical-c/vars.c?at=master
 
 # Learn C The Hard Way
 
@@ -43,10 +43,6 @@ printf("Which means you should care %d%%.\n", care_percentage);
 
 # Resources
 
-## The books I'm currently reading
-
-* Practical C Programming
-
 ## FAQs
 
 * http://c-faq.com/
@@ -58,7 +54,3 @@ printf("Which means you should care %d%%.\n", care_percentage);
 ## Types
 
 * http://eli.thegreenplace.net/2008/07/18/reading-c-type-declarations/
-
-## Meta
-
-* http://stackoverflow.com/questions/3417940/a-good-book-about-the-c-programming-language
