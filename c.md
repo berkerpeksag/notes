@@ -43,14 +43,12 @@ printf("Which means you should care %d%%.\n", care_percentage);
 
 # Resources
 
-## FAQs
+## Compilations
 
 * http://c-faq.com/
 
-## Online books
-
-* http://publications.gbdirect.co.uk/c_book/
-
-## Types
+## Articles
 
 * http://eli.thegreenplace.net/2008/07/18/reading-c-type-declarations/
+* http://stackoverflow.com/questions/840501/how-do-function-pointers-in-c-work/
+* http://stackoverflow.com/questions/897366/how-do-pointer-to-pointers-work-in-c/897414#897414
