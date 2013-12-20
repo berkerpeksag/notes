@@ -66,3 +66,46 @@ ilişkiye giremediğinde bunun eksikliğini hisseder.
 geçmek, sonra da işe zamanında gelip, işin gerektirdiği son derece vasat çabayı
 göstermek yeter. Tüm gereken, ortalama bir akıl ve en çok da **itaat**. Kişi
 bunlara sahipse, toplum ona beşikten mezara dek bakar.
+42. [not 5] [...] İnsanlar küçük meselelerde kendi kararlarını vermekten
+hoşlanır, ama zor önemli meselelerde karar vermek psikolojik çelişkiyi göze
+almayı gerektirir ve çoğu insan psikolojik çelişkiden nefret eder. Bu nedenle
+zor kararlar söz konusu olduğunda başkalarına güvenme eğiliminde olurlar. [...]
+İnsanların çoğu doğal izleyicidir, lider olmasalar da liderleri ile doğrudan
+ilişkileri olmasını isterler, liderlerini etkileyebilmek ve zor kararları
+vermede bir dereceye kadar katılımda bulunmak isterler.
+43. [...] Bir de -astlarına körü körüne itaat ederek, kullanmaktan oldukça mutlu
+oldukları dövüş hünerlerini geliştirerek güç duygusu kazanan iyi savaşçı asker
+misali- tamamen fiziksel bir güç duygusuyla tatmin olmuş gözüken, düşünmeyen,
+hayvani insanlar vardır.
+44. Çoğu insan için kendine değer verme, özgüven ve güç duygusunu kazanma, güç
+süreci yoluyla -bir amaca sahip olma, *özerk* bir çaba gösterme ve amaca ulaşma
+yoluyla- olur.
+46. [...] Toplum insanların, insan soyunun evrimleştiği koşullardan tamamen
+farklı koşullarda yaşamasını ve önceki koşullarda geliştirdikleriyle çatışan
+davranış kalıplarına göre davranmasını gerektiriyor.
+51. [...] Teknolojik bir toplum, eğer etkin bir biçimde işleyecekse, aile
+bağlarını ve yerel toplulukları zayuflatmak *zorundadır*.
+52. [...] İlerlemiş endüstriyel bir toplum, ancak güçten düşürülmüş,
+ehlileştirilmiş ve sistemin maşası haline getirilmiş küçük ölçekli topluluklara
+tahammül edebilir.
+58. [...] Biz, modern toplumdaki toplumsal ve psikolojik sorunların en önemli
+nedeninin, insanların, güç sürecinden normal bir şekilde geçmek için yeterli
+olanaklarının olmaması olduğunu iddia ediyoruz.
+61. [...] Bir iş sahibi olmak için gereken çabanın minimal olduğu konusunda
+itirazlar olabilir, ancak, geneldealt ila orta düzeydeki işlerde gereken tüm
+çaba *itaatten* ibarettir. Size oturmanız ya da ayakta durmanız söylenen yerde
+oturur veya ayakta durursunuz ve size söylenenenleri, size söylenen şekilde
+yaparsınız.
+63. [...] Modern insan, güç sürecine olan ihtiyacını, büyük oranda reklamcılık
+ve pazarlama endüstrisi tarafından yaratılan yapay ihtiyaçların peşinde koşmakla
+ve ikame etkinlikleri yoluyla tatmin etmek zorunda kalıyor.
+64. [...] Bize, *kimlik bunalımı* denilen şey, aslında bir amaç duygusu
+arayışıdır; çoğunlukla da uygun bir etkinliğe bağlanma arayışı.
+65. [...] Paza kazanma, statü basamaklarını tırmanma veya başka bir biçimde
+sistemin bir parçası olarak görev yapma yoluyla amaçlara ulaşılmaya
+çalışıldığında, çoğu insan amacına *özer bir biçimde* ulaşabilecek bir konumda
+olmuyor. Çoğu işçi bir başkasının emrinde çalışmaktadır ve 61. paragrafta
+belirttiğimiz gibi, günlerini, kendilerine söyleneni, söylenen şekilde yaparak
+harcamak zorundadır. Kendi işinde çalışan insanlar bile çok az
+özerktirler. Küçük iş sahiplerinin ve girişimcilerin süregelen bir şikayeti de,
+gereğinden fazla yasal düzenlemenin ellerini kollarını bağladığıdır.
