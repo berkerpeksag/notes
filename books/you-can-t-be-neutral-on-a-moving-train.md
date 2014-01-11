@@ -70,3 +70,33 @@
   umutsuzluk, ırkçılık, açgözlülük gibi durumların ortadan kaldırılması yerine
   konan acımasız ve işe yaramaz bir şeydir. Zengin ve güçlülerin suçlarıysa çoğu
   zaman cezasız kalır.
+
+
+## 12. Mahkemede: "Meselenin Özü"
+
+* Mahkeme salonları şu gerçeğin örneklerinden biridir: Her ne kadar toplumumuz
+  geniş ve afaki anlamda liberal ve demokratik ise de, toplumun daha küçük
+  bölümleri -derslikleri, işyerleri, kurumsal yönetim kurulları, hapishaneleri,
+  askeri kışlaları- bir kişi ya da küçük bir elit gücün hükmü altında, çok açık
+  bir biçimde antidemokratiktir. Yargıçlar davanın seyri üzerinde tam bir güce
+  sahiptir. Hangi kanıtın kabul edileceğine, hangi şahidin tanıklık yapmasına
+  izin verileceğine, hangi soruların sorulabileceğine onlar karar verir. Üstüne
+  de, yargıç çoğu zaman politik bir atamadır ya da politik bir parti
+  aracılığıyla seçilmiştir ve neredeyse her zaman imtiyazlı bir geçmişi olan,
+  fikirleri kısmen tutucu ya da kısmen liberal, oldukça varlıklı beyaz bir
+  erkektir.
+* [...] Binbaşı ayrıntılı bir biçimde askere alma sisteminin sistematik olrak
+  yoksulların aleyhine nasıl ayrımcılık yaptığını ve nasıl düzenli bir biçimde
+  varsılların oğullarına sağlıktan dolayı askerlikten muafiyet verdiklerini
+  anlattı.
+* [...] Kanser araştırmaları için yüz bin dolar harcanacak ve savunma için
+  yetmiş milyar. Önceliklerimiz nerede?
+
+
+## 15. Umut İhtimali
+
+* "[...] Gerçekte hükümetlerin ve otoritenin, kurumların ve şirketlerin
+  kendilerini halkın fiziksel ve doğrudan eylemlerinden koruyacak kanunlara ve
+  haklara ihtiyaçları vardır."
+* İnsanlar *doğal olarak* şiddet-sever ya da gaddar ya da açgözlü değildir, ama
+  o hale sokulabilirler.
