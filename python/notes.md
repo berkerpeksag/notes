@@ -248,3 +248,13 @@ http://stackoverflow.com/questions/17735170/why-does-python-allow-an-empty-funct
   object.
 * The `__new__` method is what gets called before the object exists and actually
   creates and returns the object.
+
+
+## `str.startswith((t1, t2))`
+
+The current behavior is intentional, and the ambiguity of strings
+themselves being iterables is the main reason. Since `str.startswith()` is
+almost always called with a literal or tuple of literals anyway, I see
+little need to extend the semantics.
+
+Reference: https://mail.python.org/pipermail/python-ideas/2014-January/024661.html

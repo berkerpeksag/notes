@@ -109,3 +109,113 @@ belirttiğimiz gibi, günlerini, kendilerine söyleneni, söylenen şekilde yapa
 harcamak zorundadır. Kendi işinde çalışan insanlar bile çok az
 özerktirler. Küçük iş sahiplerinin ve girişimcilerin süregelen bir şikayeti de,
 gereğinden fazla yasal düzenlemenin ellerini kollarını bağladığıdır.
+66. Bugün, insanlar kendi adlarına oluşturdukları erdeme göre değil, sistemin
+onlar *adına* veya onlar *için* oluşturduğu erdeme göre yaşıyorlar. Ve kendi
+adlarına oluşturduklarını da, her geçen gün daha yoğun bir biçimde, sistemin
+belirlediği kanallar üzerinden yapıyorlar. Eğer bir başarı şansı olacaksa,
+fırsatlar sistemin sağladıkları olmalı, bunlardan kural ve düzenlemelere uygun
+şekilde yararlanılmalı ve uzmanların öğütlediği tekniklere uyulmalıdır.
+67. "Önemleri kararları, nispeten az sayıda -belki 500 ya da 1000- kişinin
+verdiği bir dünyada yaşıyoruz." - Philip B. Heymann
+71. [...] Modern insanın eli kolu, dürtülerinin çoğuna ket vuran, böylece de güç
+sürecine -açıkça ya da gizlice- müdahale eden bir kurallar ve düzenlemeler
+ağıyla bağlanmıştır. Bu düzenlemelerin çoğundan vazgeçilemez, çünkü bunlar,
+endüstriyel toplumun işlemesi için gereklidir.
+72. [...] Sistemin işleyişiyle ilgisi olmayan konularda genelde istediğimizi
+yapabiliriz. Sistemi tehdit edecek davranışları cesaretlendirmediği sürece
+istediğimiz dine inanabiliriz. Güvenlik seks yaptığımız sürece istediğimiz
+kişiyle yatabiliriz. *Önemsiz* olduğu sürece istediğimiz şeyi yapabiliriz. Ama
+tüm *önemli* konularda sistem davranışlarımızı düzenlemeye gittikçe daha fazla
+dikkat ediyor.
+73. [not 14] Birisi, belirli bir durumda propagandaya başvuryı amaca uygun
+bulursa, bunu genelde eğitim olarak adlandırır ya da benzer bir edebi kelam
+kullanır. []...] Bize her gün işe gitmek ve patronumuzun emirlerine uymak
+zorunda  olduğumuzu söyleyen bir yasa yoktur. Yasal olarak, ilkel insanlar gibi
+gibi ormanda yaşamamızı veya kendi işimizi kurmamızı engelleyen hiçbir şey
+yoktur. Ama pratikte, çok az vahşi orman kaldı ve ekonomide de küçük çaplı iş
+sahiplerine çok sınırlı bir yer var. Bundan dolayı, çoğumuz ancak başka birinin
+yanında çalışarak yaşayabiliriz.
+76. Bu bölümdeki tartışmaya cevap olarak birisi "toplum, insanlara, güç
+sürecinden geçmeleri için fırsat vermenin bir yolunu bulmalıdır"
+diyecektir. Oysa insnalar için fırsatın değeri, bu fırsatı toplumun onlara
+verdiği gerçeğiyle zaten sıfıra iner. Onların ihtiyacı, kendi fırsatlarını
+bulmak ya da yaratmaktır. Sistem onlara fırsatlarını *verdiği* sürece, onları
+tasmayla bağlı tutar. Özerkliklerini elde etmek için tasmadan kurtulmalıdırlar.
+94. "Özgürlük"ten şunu kastediyoruz: Güç sürecini, ikame etkinliklerin yapay
+hedefleriyle değil, gerçek amaçlarla ve hiç kimsenin, özellikle de hiçbir büyük
+kuruluşun müdahalesi, manipülasyon veya denetimi olmadan yaşayabilme
+fırsatı. [...] Özgürlük, güç sahibi olmak demektir; diğer insanları kontrol
+etmeye değil, ancak kendi yaşamının koşullarını kontrol etmeye yarayan bir güç.
+95. [...] Bir toplumda var olan kişisel özgürlüğün derecesi, o toplumdaki
+kanunlar ve yönetim biçiminden çok, toplumun ekonomik ve teknolojik yapısına
+bağlıdır.
+96. [...] Medya, çoğunlukla sistemle bütünleşmiş büyük kuruluşların
+kontrolündedir. Birazcık parası olan herkes bir şey bastırabilir ya da bunu
+internet veya başka bir kanal üzerinden yayabilir, ama onun söyledikleri
+medyanın muazzam miktardaki materyelinin arasında kaybolacak, bu nedenle de
+hiçbir pratik etkisi olmayacaktır. [...] Mesajımızı, topluma kalıcı bir etki
+bırakabilme şansıyla sunabilmek için insanları öldürmek zorunda kaldık.
+97. [...] Burjuva anlayışına göre, "özgür" bir insan, toplumsal bir mekanizmanın
+önemli bir parçasıdır ve yalnızca öngörülmüş ve sınırlanmış bir dizi özgürlüğe
+sahiptir; bu özgürlükler bireyin ihtiyaçlarından çok toplumsal mekanizmanın
+ihtiyaçlarına hizmet etmek üzere tasarlanmıştır.
+102. [...] Bir toplum tüm parçaların birbiriyle bağlantılı olduğu bir sistemdir
+ve bunun hiçbir önemli bir parçasını diğer parçalarını da değiştirmeden
+değiştiremezsiniz.
+104. Yeni bir toplum kağıt üstünde tasarlanamaz. Gelecekteki bir toplumu önceden
+planlayıp, o toplumun tasarladığınız gibi işlemesini bekleyemezsiniz.
+106. [...] Toplumlar, akılcı insan kontrölü altında olmayan toplumsal evrim
+süreçleri yoluyla gelişir.
+109. [...] Amerikan "Devrim"i, bizim anladığımız anlamda bir devrim değildi,
+ancak oldukça uzun erimli politik reformların izlendiği bir bağımsızlık
+savaşıydı.
+114. [...] Modern insanın eli kolu bir kurallar ve düzenlemeler ağıyla
+bağlanmıştır ve kaderi de, kararlarını etkileyemeyeceği kadar uzak kişilerin
+yapıp ettiklerine bağlıdır. [...] Sistem, işleyebilmek için insan davranışlarını
+sıkı sıkıya düzenlemek sorundadır. İş başında insanlar kendilerine söyleneni
+yapmak *zorundadırlar*, aksi halde üretimin kaosun içine düşmesi muhtemeldir.
+115. Sistem, insanları, doğal davranış kalıplarına çok uzak bir biçimde
+davranmaya *zorlamaktadır*. Örneğin, sistemin bilim insanlarına, matematikçilere
+ve mühendislere ihtiyacı vardır. Onlarsız işleyemez. Bu yüzden, çocuklara bu
+alanlarda yükselmeleri için ağır baskılar uygulanır. Yetişkin bir insanın,
+zamanının büyük bölümünü, kendini işine kaptırmış halde bir masa başında
+oturarak geçirmesi doğal değildir.
+119. Sistem varlığını, insanı ihtiyaçları tatmin etmek üzere sürdürmez ve
+sürdüremez de. Aksine, sistemin ihtiyaçlarına uyacak şekilde değiştirilmesi
+gereken, insan davranışıdır. [...] Elbette sistem bir çok insani ihtiyacı
+karşılar, ancak genelde, bunu yapmak sistemin yararına olduğu sürece yapar. Asıl
+önemli olan insanın ihtiyaçları değil, sistemin ihtiyaçlarıdır. [...] Ancak
+sistem gayet geçerli, somut ve pratik nedenlerden ötürü, davranışlarını sistemin
+ihtiyaçlarına göre düzenlemeleri için insanlara sürekli bir baskı uygulamak
+zorundadır. Çok fazla atık mı birikiyor? Hükümet, medya, eğitim sistemi,
+çevreciler, herkes bizi geri dönüşüm üzerine bir yığın propagandaya boğar. Daha
+fazla teknik personele ihtiyaç mı var? Çocuklara, koro halinde bilim üzerine
+eğitim görmeleri tembihlenir. Hiç kimse durup da gençleri, zamanının çoğunun
+genelde çoğunun nefret ettiği konularda çalışmaya zorlamanın insanlık dışı olup
+olmadığını sormaz. Kalifiye işçiler, teknik ilerlemeler nedeniyle işten
+çıkarılıp "yeniden eğitim"e maruz bırakıldıklarında, hiç kimse böyle itilip
+kakılmalarının onlar için aşağılayıcı olup olmadığını sormaz. [...] Toplumumuzda
+"akıl sağlığı" kavramı büyük oranda bireyin sistemin ihtiyaçlarına uygun olarak
+davranma ve bunu stres belirtileri göstermeden yapma düzeyine göre
+tanımlanır.
+120. [...] Çalışanların "özerk" çabaları, asla kişisel olarak seçtikleri
+amaçlara yönelik olamaz, ancak işverenin amaçlarına yönelik olabilir, şirketin
+devamı ve büyümesi gibi. [...] Tamamen teknik nedenlerden ötürü, bireylerin
+çoğunun veya küçük grupların, endüstriyel toplumda fazla özerk olabilmeleri
+mümkün değildir. Küçük çaplı iş sahipleri bile genelde yalnızca sınırlı bir
+özerkliğe sahiptirler. Hükümetin getirdiği düzenlemelerin yanı sıra, ekonomik
+sistemin bir parçası olmak ve kendini onun gereklerine uydurmak zorunda olması
+küçük iş sahibini sınırlar. Örneğin, biri yeni bir teknoloji geliştiridiği
+zaman, küçük iş sahibi rekabete girebilmek için, istese de istemese de onu
+kullanmak zorundadır.
+129. [...] Teknik bir yenilik bir kere ortaya çıktı mı, insanlar genelde ona
+bağımlı hale gelirler, yani, daha gelişmiş bir yenilik onun yerini alıncaya
+kadar, bir daha asla onsuz olamazlar.
+138. [...] Özgürlük, farklı insanlara farklı şeyler çağrıştıran soyut bir
+kavramdır; eksikliği propaganda ve etkili bir konuşmayla kolayca gizlenir.
+143. Uygarlığın başından beri, örgütlü toplumlar, toplumsal organizmanın
+işlemesi için insanoğluna baskı uygulamak zorunda kalmıştır.
+145. İnsanları korkunç derecede mutsuz edecek koşullara maruz bırakan, sonra da
+bu mutsuzluklarını gidermek için onlara uyuşturucu veren bir toplum düşünün. Bu
+bir bilimkurgu mu? [...] İnsanları depresyone iten koşulları kaldırmak yerine,
+modern toplum onlara antidepresan ilaçlar vermektedir.
