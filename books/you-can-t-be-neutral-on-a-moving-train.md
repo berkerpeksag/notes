@@ -16,7 +16,7 @@
 ## 2. Gösteriye Katılabilen Genç Hanımlar
 
 * Başarılı işadamlarının kahraman olduğu bir "uyduruk" dünya yaratmış olan siyah
-  dergi ve gazeleri... [...]
+  dergi ve gazeteleri... [...]
 
 
 ## 3. "Başkan Bahçıvan Gibidir"
@@ -32,15 +32,15 @@
 
 ## 7. Savaş Karşıtı Bir Gazi
 
-* Hiroşime ve Nagasaki'nin bombalanması için öner sürülen en güçlü argüman,
+* Hiroşima ve Nagasaki'nin bombalanması için öne sürülen en güçlü argüman,
   muhtemel bir Japon istilasında ölecek insanların hayatlarının
   korunmasıydı. Ancak, savaştan hemen sonra yedi yüz Japon devlet görevlisinin
   sorgulandığı "Stratejik Bombalama Anketi" başlıklı resmi raporun sonuçlarına
   göre, Japonlar zaten teslim olmak üzereymiş ve Hiroşima ve Nagasaki'ye
-  bombalar atılmamış olsaydı da ve hatta Japonya'ya bir istila bir istila bile
+  bombalar atılmamış olsaydı da ve hatta Japonya'ya bir istila bile
   olmadan savaşı Aralık 1945'e kadar "kesinlikle" sona erdireceklermiş. Ayrıca,
   Birleşik Devletler, Japonya'nın haberleşme kodunu çözmüş olduğu için
-  Japonların teslim olmak üzere olduğunu *biliyormuş*. ("Bir Öğm Ayini ve
+  Japonların teslim olmak üzere olduğunu *biliyormuş*. ("Bir Ölüm Ayini ve
   Belgeler" başlıklı makaleden)
 * Savaş insanın belli bir içgüdüsel ihtiyacından doğmaz. Savaş politik liderler
   tarafından üretilir. Bu liderler ondan sonra, ikna, propaganda, cebir gibi
@@ -63,9 +63,9 @@
   ve yoksuz olmadığım ve pek çok kişi için sürekli bir cehennem olan bir
   sistemin içinden sadece kısa bir süreliğine geçtiğim için ne kadar şanslı
   olduğumu düşündüm.
-* [...] İnsanları hapre atmak suç problemini çözüyormuş gibi yapmanın bir
+* [...] İnsanları hapse atmak suç problemini çözüyormuş gibi yapmanın bir
   yoludur. Suçun kurbanlarına hiçbir yararı yoktur, ama ceza kavramını idame
-  ettirir, böylece kültürümüzde sonsuz bir şiddet döngüsünü sürdürür. Hapiş,
+  ettirir, böylece kültürümüzde sonsuz bir şiddet döngüsünü sürdürür. Hapis,
   çoğu cezası *cezalandırılan* suçun kaynağı olan yoksulluk, işsizlik, evsizlik,
   umutsuzluk, ırkçılık, açgözlülük gibi durumların ortadan kaldırılması yerine
   konan acımasız ve işe yaramaz bir şeydir. Zengin ve güçlülerin suçlarıysa çoğu
