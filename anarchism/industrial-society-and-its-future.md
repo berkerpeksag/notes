@@ -219,3 +219,70 @@ işlemesi için insanoğluna baskı uygulamak zorunda kalmıştır.
 bu mutsuzluklarını gidermek için onlara uyuşturucu veren bir toplum düşünün. Bu
 bir bilimkurgu mu? [...] İnsanları depresyone iten koşulları kaldırmak yerine,
 modern toplum onlara antidepresan ilaçlar vermektedir.
+151. [...] Eğer sistem kendisini ayakta tutmak için insan davranışını yeterince
+kontrol altında tutmayı başarırsa, insanlık tarihinde yeni bir dönüm noktasına
+gelinecektir. Önceden insanın tahammül sınırı toplumların gelişimini kısıtlarken
+endüstriyel-teknolojik toplum psikolojik veya biyolojik yöntem, ya da her ikisi
+sayesinde insanoğlunu değiştirerek bu kısıtlamaları aşacaktır. Gelecekte
+toplumsal sistemler insanların ihtiyaçlarına göre düzenlenmeyecektir. Bunun
+yerine, insanoğlu sistemin ihtiyaçlarına uydurulacaktır. [not 28] [...]
+Matematikçi Claude Shannon, Omni'de Ağustos 1987'de şunları şöylüyordu:
+*"Köpekler insanlar için ne ise, bizim de robotlar için öyle olacağımız bir
+zamanı gözümün önüne getiriyorum ve makineleri destekliyorum."*
+154. [...] Toplumumuzdaki yüksek suç oranının nedeni, pek çok kişinin adapte
+     olamadığı ya da olmayacağı modern koşulların insanlar üzerinde yaptığı
+     baskı olmalıdır. Bu yüzden potansiyel suç eğilimlerini yok etmek için
+     yapılan bir tedavi, bir bakıma insanların sisteme uyum sağlamaları için
+     *yeniden yapılandırılmaları* demektir.
+155. [...] Bir bireyi sisteme uydurma manipülasyonu bir hastalığa çare bulmak
+     gibi, haliyle de iyi bir şey gibi görülür.
+156. [...] Teknolojik bir buluşun kullanımı başlangıçta isteğe bağlı olsa da, bu
+     mutlaka isteğe bağlı kalacak demek değildir, çünkü yeni teknoloji, toplumu
+     öyle değiştirir ki birey için o teknolojiyi kullanmadan hareket etmek zor
+     ya da imkansız hale gelir.
+163. [...] Başı çeken sorun insanoğlunu sosyalleştirmektir, yani atalarından
+     miras kalmış davranışları sistemi tehdit etmeyecek duruma gelene dek
+     insanları uysallaştırmak.
+168. [...] Çoğumuz için, özgürlük ve onur, uzun bir yaşamdan ya da fiziksel
+     acıların engellenmesinden daha önemlidir. Üstelik, hepimiz bir gün öleceğiz
+     ve yaşam ya da başka bir amaç uğruna ölmek, uzun ama boş ve amaçsız bir
+     yaşamdan daha iyi olabilir.
+173. [...] İnsan ırkı kolayca kendini makinelere bağımlılığa sürüklenmiş halde
+     bulabilir ve önünde makinelerin kararlarını kabul etmekten başka hiçbir yol
+     kalmayabilir. Toplum ve onun karşılaştığı sorunlar karmaşıklaştıkça ve
+     makineler giderek akıllandıkça insanlar onlara daha fazla karar verme
+     yetkisi verirler, çünkü makinelerin kararları, insanlarınkinden daha iyi
+     sonuçlar verir.
+174. [...] Gelişmiş teknikler sayesinde seçkin azınlık, kitleler üzerinde daha
+     fazla kontrol sahibi olacaktır; ve insan emeği artık gerekli
+     olmayacağından, kitleler sistem üzerinde gereksiz yük olacaktır. [...]
+     Herkesin fiziksel ihtiyaçlarının karşılanmasını, tüm çocukların psikolojik
+     olarak sağlıklı koşullarda yetişmesini, herkesin kendisini meşgul edecek
+     yararlı birer hobisinin olmasını ve tatmin olmayanların sorunlarını çözmek
+     üzere tedavi olmasını sağlayabilirler.
+183. [...] Bir ideoloji çoşkulu bir destek almak için, reddiyenin yanı sıra,
+     pozitif ideale de sahip olmalıdır: Bir şeye karşı olduğu kadar, bir şeyden
+     de yana olmalıdır. Bizim önerdiğimiz pozitif ideal Doğa'dır. Yani bahşi
+     doğa: Yeryüzünün, insan yönetiminden, denetiminden ve müdahalesinden
+     bağımsız olarak canlılarıyla birlikte varlığını sürdürmesi ideali.
+184. [not 30] [...] Günümüzde, din ya dar, basiretsiz bir bencillik için
+     kullanılmakta, ya kolay para kazanmak için sömürülmekte, ya kaba bir
+     irrasyoalizme sürüklenmekte, ya da sadece varlığını sürdürmektedir.
+188. [...] Ucuz, özensiz propaganda bazen kısa vadeli kazanımlar sağlayabilir;
+     ancak uzun vadede, daha iyi propaganda yapan birilerini görür görmez
+     fikrini değiştirecek, düşünmeyen bir kaypak kalabalığı galeyana getirmek
+     yerine, kendini davasına akıllıca adamış az sayıda insana sahip olmak daha
+     iyidir.
+189. [...] Tarih, genelde ne istediğini bile tam olarak bilmeyen çoğunluklar
+     tarafından değil, kararlı ve etkin azınlıklar tarafından yazılır.
+192. [...] Sisteme karşı mücadelede etnik farklılıkların bir önemi yoktur.
+196. [...] Güçlü bir devletin yıkılmasının tüm endüstriyel devletlerin
+     yıkılmasına yol açacağı kadar birleşik bir dünya ekonomisi olursa, sistemi
+     dünya çapında yıkmak daha kolay olur.
+206. Devrimci strateji ile ilgili olarak üzerinde ısrarla durduğumuz tek husus,
+     modern teknolojinin tasviyesinin her şeyden önemli tek amaç olması
+     gerektiğidir, başka hiçbir amacın onunla rekabet etmesine izin
+     verilmemelidir. Geri kalan her şey için, devrimcilerin tecrübeye dayalı bir
+     yaklaşım sergilemesi gerekir. Eğer yukarıdaki paragraflardsa geçen
+     tavsiyelerden bazılarının iyi sonuçlar vermediği tecrübeyle kanıtlanırsa, o
+     zaman bu tavsiyelerden vazgeçilmelidir.
