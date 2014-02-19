@@ -286,3 +286,58 @@ zamanı gözümün önüne getiriyorum ve makineleri destekliyorum."*
      yaklaşım sergilemesi gerekir. Eğer yukarıdaki paragraflardsa geçen
      tavsiyelerden bazılarının iyi sonuçlar vermediği tecrübeyle kanıtlanırsa, o
      zaman bu tavsiyelerden vazgeçilmelidir.
+215. Anarşist de güç ister ama bireysel ya da küçük grup temelinde güç ister;
+     bireylerin ve küçük grupların hayatlarının akışını kendilerinin kontrol
+     edebilmesini arzular.
+216. [...] Şayet solculuk toplumda egemen hale gelirse ve böylece teknolojik
+     sistem solcuların elinde bir araç haline gelirse onu şevkle kullanacak ve
+     gelişimine yardım edeceklerdir. Bunu yapmakla solculuğun geçmişte hep
+     sergilediği bir örneği tekrar etmiş olacaklardır. Bolşevikler Rusya'da
+     zayıf bir durumda iken, sansüre ve gizli polise şiddetle karşı çıkıyor,
+     etnik azınlıkların kendi kaderlerini tayin hakkını falan destekliyorlardı;
+     ama kendileri iktidara gelir gelmez, daha sert bir sansür uyguladılar,
+     çarlık döneminden daha acımasız bir gizli polis teşkilatı kurdular ve etnik
+     azınlıklara en az çarlar kadar zülmettiler.
+217. Daha önceki devrimlerde güce daha aç tipte solcular birçok kez daha liberal
+     eğilimli solcuların yanı sıra öncelikle solcu olmayan devrimcilerle iş
+     birliği yaptılar, daha sonra iktidarı ele geçirmek için iki tarafa da
+     ihanet ettiler. Robespierre Fransız Devrimi'nde, Bolşevikler Rus
+     Devrimi'nde, Komünistler 1938'de İspanya'da, Castro ve taraftarları da
+     Küba'da aynı şeyi yaptı. Solcuların tarihine bakılırsa, solcu olmayan
+     devrimcilerin solcularla işbirliği yapması düpedüz aptallıktır.
+218. Çeşitli düşünürler, solculuğun bir tür din olduğuna işaret
+     etmiştir. Solculuk tam anlamıyla bir din değildir, çünkü sol öğreti
+     herhangi bir doğaüstü varlığı ön şart olarak kabul etmez. Ama solcu için
+     solculuk, bazı insanlar için dinin oynadığı psikolojik rolü
+     oynar. Solcunun, solculuğa inanmaya *ihtiyacı* vardır; psikolojik tutumunda
+     bu önemli bir rol oynar. İnançları, mantık ya da gerçeklerden kolaylıkla
+     etkilenip düzelmez. Solculuğun ahlaken, -üstüne basa basa- doğru olduğuna
+     ve solcu ahlakı herkese zorla kabul ettirmenin sadece hakkı değil ayrıca
+     görevi de olduğuna dair derin bir inanç vardır.
+219. Solculuk, totaliter bir güçtür. Sol ne zaman güçlü bir duruma gelse hemen
+     her özel köşeye zorla girmek ve her düşünceyi zorla sol bir kalıba sokmak
+     ister. Bunun nedeni kısmen solculuğun yarı-dini karakteridir; solcu
+     görüşlere ters düşen her şey günahın yerine geçer.
+220. Farz edin ki solculardan toplumda yanlış olan her şeyin bir listesini
+     yapmalarını istediniz ve sonra farz edin ki istedikleri tüm toplumsal
+     değişiklikleri gerçekleştirdiniz. Şu rahatlıkla söylenebilir: Birkaç yıl
+     içinde solcuların çoğu şikayet edecek yeni bir şey, düzeltilmesi gereken
+     yeni bir toplumsal musibet bulacaktır, çünkü, solcu bir kere daha
+     toplumdaki yanlışlıklardan duyduğu üzüntüden çok topluma çözümlerini kabul
+     ettirerek güce olan açlığını tatmin etme güdüsüyle hareket etmektedir.
+229. Solcu, bireyin topluma hizmet etme ve toplumun da bireye göz kulak olma
+     görevi üzerinde durur. Bireyciliğe karşı olumsuz bir tavrı vardır. [...]
+     Rekabet ve şiddete karşı olma eğilimindedir ama şiddet uygulayan solcular
+     için durmadan bahaneler bulur. Irkçılık, cinsiyetçilik, homofobi,
+     kapitalizm, emperyalizm, yeni sömürgecilik, soykırım toplumsal değişim,
+     toplumsal sorumluluk gibi *solun ortak modası olan* kavramları kullanmaya
+     bayılır.
+230. En tehlikeli solcular, yani güce aç olanlar genelde kibirleriyle ya da
+     ideolojiye dogmatik yaklaşımlarıyla belli olur. [...] Tipik bir burjuva,
+     yaşam tarzını koruma kaygısıyla ya da sadece geleneksel tavrı nedeniyle
+     insanları sistemin kontrolü altında tutmak ister.
+232. [...] Kendi ahlaklarını herkese empoze ederek güç ihtiyaçlarını tatmin
+     etmeye çalışan aşırı toplumsallaşmış tipler kuşkusuz uzun zamandan beri
+     ortalıktalar. Fakat, aşağılık duygusunun, kendini değersiz görmenin,
+     güçsüzlüğün, kendileri kurban olmayan insanların kurbanlarla
+     özdeşleşmesinin modern solculuğun bir özelliği olduğunu sanıyoruz.
