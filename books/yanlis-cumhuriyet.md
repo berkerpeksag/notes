@@ -26,6 +26,7 @@
 * Vahdettin’in, atalarının altıyüz yıllık saltanatını harcayıp,
   hiçbir gücü, hukuki dayanağı ve ciddiyeti olmayan bir hayal mahsulü
   sıfatla niçin yetinmek isteyeceği anlaşılamaz.
+
 * Halk sınıflarının önemlice bir kısmında, dinî nitelikli olanlar
   dışında hiçbir kişi veya nesnenin tapınmaya layık olmadığı
   inanışı yaygındır. Kırsal kesimde ise, yüz yüze ilişkiler dışında
