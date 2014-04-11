@@ -82,3 +82,57 @@ other numeric types (ints and Fractions) than floats.
 ### Links
 
 * http://mail.python.org/pipermail/python-ideas/2012-September/016235.html
+
+
+## How does the compiler parse the indentation?
+
+Basically, changes to the indentation level are inserted as tokens into the
+token stream.
+
+The lexical analyzer (tokenizer) uses a stack to store indentation levels. At
+the beginning, the stack contains just the value 0, which is the leftmost
+position. Whenever a nested block begins, the new indentation level is pushed on
+the stack, and an `INDENT` token is inserted into the token stream which is
+passed to the parser. There can never be more than one `INDENT` token in a row.
+
+When a line is encountered with a smaller indentation level, values are popped
+from the stack until a value is on top which is equal to the new indentation
+level (if none is found, a syntax error occurs). For each value popped, a
+`DEDENT` token is generated. Obviously, there can be multiple `DEDENT` tokens in
+a row.
+
+At the end of the source code, `DEDENT` tokens are generated for each
+indentation level left on the stack, until just the 0 is left.
+
+```py
+>>> if foo:
+...     if bar:
+...         x = 42
+... else:
+...   print foo
+...
+```
+
+In the following table, you can see the tokens produced on the left, and the
+indentation stack on the right.
+
+```
+<if> <foo> <:>                    [0]
+<INDENT> <if> <bar> <:>           [0, 4]
+<INDENT> <x> <=> <42>             [0, 4, 8]
+<DEDENT> <DEDENT> <else> <:>      [0]
+<INDENT> <print> <foo>            [0, 2]
+<DEDENT>                          [0]
+```
+
+Note that after the lexical analysis (before parsing starts), there is no
+whitespace left in the list of tokens (except possibly within string literals,
+of course). In other words, the indentation is handled by the lexer, not by the
+parser.
+
+The parser then simply handles the `INDENT` and `DEDENT` tokens as block
+delimiters -- exactly like curly braces are handled by a C compiler.
+
+### Links
+
+* http://www.secnetix.de/olli/Python/block_indentation.hawk
