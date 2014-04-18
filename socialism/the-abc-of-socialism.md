@@ -103,6 +103,9 @@
   devletini yıkmalı ve onun yerine kendi devletini koymalıdır.
 * Sosyalizmin amacı, bir sınıfın egemenliği yerine bir başka sınıfın
   egemenliğini koymak değil, bütün sınıfların büsbütün ortadan kaldırılmasıdır.
+* Marx, kapitalist sistemi, insanlığın gelişim tarihinin bir parçası olarak
+  görmüştür.
+
 
 ### Kişiler
 
