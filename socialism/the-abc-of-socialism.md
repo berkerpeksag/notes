@@ -105,6 +105,84 @@
   egemenliğini koymak değil, bütün sınıfların büsbütün ortadan kaldırılmasıdır.
 * Marx, kapitalist sistemi, insanlığın gelişim tarihinin bir parçası olarak
   görmüştür.
+* [...] Kapitalizm, esas olarak geçici bir toplumsal sistemdir ve bütün diğer
+  toplum biçimleri gibi bir önceki sistemden doğmuş ve gelişmştir; zamanı
+  gelince çökecek ve yerini başka bir sistem alacaktır.
+
+
+## Sosyalizm
+
+* Sosyalizm, ne şeytanları meleğe dönüştürecek, ne de cenneti yeryüzüne
+  indirecek. İddia edilen şeyler, sosyalizmin, kapitalizmin belli başlı
+  kötülüklerine çözüm bulacağı, sömürüyü, sefaleti, güvensizliği, savaşı ortadan
+  kaldıracağı ve insanlara daha büyük bir refah ve mutluluğun kapılarını
+  açacağıdır.
+* [...] Sosyalist ekonomi, planlı ekonomi olmak *zorundadır*, ve eğer planlı
+  ekonomi olanaksız ise sosyalizm de olanaksız demektir.
+* Kapitalist toplumda insanların çoğu, çalışmak zorunda oldukları için çalışır.
+* Sosyalist toplumda en yüksek ücreti alan kimse bile, bunu, çalışmasıyla
+  hakettiği sürece alır.
+* Daha çok ya da daha iyi çalışarak daha yüksek ücret alması, onun başkalarından
+  daha iyi yaşamasını sağlar, ama hiç kimseyi sömürmesine elvermez.
+* [...] Herkese, yetenekleri ile orantılı ücretsiz eğitim sağlanır; herkese bu
+  mesleklere giriş kapıları ardına kadar açık tutulur.
+* Sosyalizm ile komünizm, her ikisi de, kullanım için üretim yapan sistemler
+  olması ve üretim araçlarının mülkiyetinin kamuya ait bulunması ve merkezi
+  planlamaya dayanması bakımından benzer sistemlerdir. Sosyalizm, doğrudan
+  doğruya kapitalizmden doğum gelişir, yeni toplumun ilk biçimidir. Komünizm
+  daha ileri bir gelişme ya da sosyalizmin *daha yüksek bir aşamasıdır*.
+* Herkesten yeteneğine göre, herkese *emeği* kadar (sosyalizm)
+* Herkesten yeteneğine göre, herkese *gereksinmesi* kadar (komünizm)
+* İşe göre, yani yapılan işin nitelik ve niceliğine göre, sosyalist dağıtım
+  ilkesi, hemen uygulanması olanaklı ve pratik bir ilkedir. Öte yandan,
+  gereksinmeye göre komünist dağıtım ilkesi, hemen uygulanması olanalı bir ilke
+  değil, son bir hedeftir.
+* Sosyalizm, kapitalizmden komünizme geçişte zorunlu bir aşamadır.
+* Komünistler, işçi sınıfı ile müttefiklerinin, durumu elverir elvermez,
+  devletin yapısında temelli bir değişiklik yapması gereğine inanırlar;
+  kapitalistlerin bir sınıf olarak varlığına son verme ve en sonunda sınıfsız
+  bir topluma ulaşma sürecinde, işçi sınıfı üzerinde kapitalist diktatörlük
+  yerine, kapitalist sınıf üzerinde işçi sınıfı diktatörlüğünü
+  kurmalıdırlar. Sosyalizm, yalnızca, eski kapitalist hükümet mekanizmasını
+  devralmak ve bunu kullanmakla kurulamaz. İşçiler, eski devlet aygıtını
+  parçalamalı ve kendi devlet aygıtlarını kurmalıdırlar. İşçi devleti, eski
+  egemen sınıfa, bir karşı-devrim örgütleme olanağı vermez. Kapitalist
+  direnmenin doğduğu yerlerde, bunu ezmek için, silahlı gücünü kullanmalıdır.
+* Sosyalistler ise devletin niteliğinde temel bir değişiklik yapılmadan,
+  kapitalizmden sosyalizme geçilebileceğine inanmaktadırlar. Bu görüşte
+  olmalarının nedeni, kapitalist devleti esas olarak, kapitalist sınıfın
+  diktatörlüğünün bir kurumu olarak değil de, daha çok onu ele geçiren sınıfın
+  kendi yararına kullanabileceği yetkin bir mekanizma olarak kabul
+  etmeleridir. Bu durumda, iktidardaki işçi sınıfının eski kapitalist devlet
+  aygıtını yıkmasına ve kendisininkinikurmasına gerek yoktur. Sosyalizme doğru
+  yürüyüş, kapitalist devletin demokratik çerçevesi içinde adım adım
+  gerçekleştirilebilir.
+* İki tür özel mülkiyet vardır: Niteliği gereği kişisel olan mülkiyet vardır:
+  kişisel tatmin için kullanılan tüketim malları. Bir de, kişisel nitelikte
+  olmayan özel mülkiyet türü vardır: üretim araçları mülkiyeti. Bu tür mülkiyet,
+  kişisel tatmin için değil, tüketim mallarının üretimi için kullanılır.
+* Sosyalizmde, işçiler tarafından üretilmiş olup da kapitalistin karı biçiminde
+  ellerinden alınan servet, daha çok özel mülkiyet, yani daha çok elbise, daha
+  çok mobilya, daha çok yiyecek-içecek, daha çok sinema bileti satın
+  alabilmeleri için gene işçilerin olur.
+* Kullanım ve eğlence için daha çok özel mülkiyet vardır, ama ezme ve sömürme
+  için özel mülkiyet yoktur.
+* Toplum, çıkarları karşıt olan sınıflara bölündüğü sürece sınıf savaşımının
+  varlığı zorunludur.
+* Sosyalizm, özü gereği, sınıfsız bir toplum yaratır.
+* [...] İnsanlığın büyük çoğunluğu için özgürlük haklarla değil, ekmek, tatil ve
+  dinlenme, güvenlikle ölçülür.
+* "Dünyanın her yerinde, halkın, eğer istiyorlarsa ve güçleri yetiyorsa,
+  ayaklanma, mevcut hükümeti devirme ve kendi isteklerine daha iyi uyan bir
+  yenisiin kurma hakkı vardır. Bu, en değerli ve en kutsal haktır -- bir hak ki,
+  dünyayı kurtarıp özgürleştireceğine umudumuz ve inancımız vardır. Bu hak,
+  mevcut devletin bütün halkının kullanmaya karar vereceği durumlarla da sınırlı
+  değildir. [...] Böyle bir halkın çoğunlukta olan bir kesimi, arasına karışmış
+  ya da kendisiyle yanyana duran bir azınlığı bu harekete karşı koyduğu için
+  devirerek, devrim yapabilir. Bizim devrimimizde, torilerin durumu, işte tam bu
+  azınlığın durumu gibiydi: Devrimlerin bir niteliği de, eski yollar ya da eski
+  yasalar doğrultusunda gitmek değil, her ikisini de parçalayıp yenilerini
+  yapmaktır." - Abraham Lincoln
 
 
 ### Kişiler
