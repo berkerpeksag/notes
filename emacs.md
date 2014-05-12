@@ -42,7 +42,9 @@
 
 ## etags
 
-* ```sh
+* Run the following command in your source code directory:
+
+  ```sh
   $ find . -name '*.[ch]' -exec etags -a {} \;
   ```
 * Load `TAGS` via `M-x visit-tags-table` in GNU Emacs.
