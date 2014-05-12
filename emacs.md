@@ -38,3 +38,14 @@
 
 * To make the region into comment or uncomment: `C-Space M-;`
 * Speedbar: `M-x speedbar`
+
+
+## etags
+
+* ```sh
+  $ find . -name '*.[ch]' -exec etags -a {} \;
+  ```
+* Load `TAGS` via `M-x visit-tags-table` in GNU Emacs.
+* To look up a definition, just type `M-.`, then enter the name of the symbol,
+  or type `M-.` while your cursor is on the symbol you want to look up its
+  definition.
