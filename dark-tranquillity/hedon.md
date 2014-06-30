@@ -37,13 +37,13 @@ Hedon,
 Your children wild  
 and filled with death  
 
-# Jupiter in our unforgiving eyes:  
+Jupiter in our unforgiving eyes:  
 a pandemonium of bodies and gold  
 Eager, as a part of your face  
 and the sickness attached to your skin (stone)  
 As the wine rush,  
 Charging from androgynous wombs  
-to open free the lid of pain #  
+to open free the lid of pain  
 
 Hedon,  
 rinsed in post-human shadows  
