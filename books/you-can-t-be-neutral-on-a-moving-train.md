@@ -23,7 +23,7 @@
 
 * Kanunda yazılanların gerçek hayatta gücü elinde tutanlar kadar önemli
   olmadığını biliyordum.
-* Kimin parası avukar ücretlerini ödemeye ve beklemeye yetiyorsa, o galip gelir
+* Kimin parası avukat ücretlerini ödemeye ve beklemeye yetiyorsa, o galip gelir
   ve "adaletin" fazla bir önemi yoktur.
 * İşten atılmak ölmeye benzer; o korkunç kaybı yaşamadan size ölümün bazı
   avantajlarını sunar. Herkes hakkınızda çok güzel şeyler söyler ve siz bunları
