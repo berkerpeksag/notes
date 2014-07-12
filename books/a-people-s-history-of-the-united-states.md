@@ -72,3 +72,47 @@ kaldı. Beş bin kişilik bir güç daha bir müttefik keşif gücünün parças
 bir başka Rus limanı Arhangel'e çıktı ve orada bir yıla yakın bir zaman
 kaldı. Savaş Bakanlığı, Kongre'ye, "Bütün bu operasyonlar Rusya'daki Bolşevik
 İhtilali'nin etkilerini dengelemek için yapılmıştır" raporunu verdi.
+
+
+### Irkçılık
+
+Savaş, Hitler'in Germen halkından gelen insanların bazı ırklar karşısındaki
+üstünlüğü hakkındaki fikirleri yanlış olduğu için mi yapılıyordu? Birleşik
+Devletler ordusunun bizzat kendisi ırkçı uygulamalar içindeydi. 1945 yılı
+başlarında birlikler Queen Mary adlı gemiye doldurulurken, zenci askerler
+güvertenin temiz havasından olabildiğince uzakta, eski köle kargolarını
+anımsatan ürkütücü bir biçimde istiflenerek makine dairesine yakın bir yerde
+geminin derinliklerine atılmışlardı.
+
+Yönetimin onayını alarak Kızıl Haç da siyah ve beyazların kanlarını
+ayırmıştı. Kaderin bir cilvesi olarak kan bankası sistemini başlatan hekim de
+zenci Charles Drew olmuştu. Drew önce savaş yardımları kuruluşunun başına
+getirilmiş, fakat kan ayrımcılığına son vermeye yeltenince kovulmuştu. Savaş
+sırasında birçok işkolunda acil olarak işçi aranırken öncelikle beyazlar işe
+alınıyordu. Batı Sahili Havacılık İşletmeleri sözcüzü, "Zenciler yalnızca
+hademelik ya da buna benzer işlerde çalıştırılacaklardır... Uçuş hizmetleri
+işçileri olarak eğitimleri ne olursa olsun onları işe almayacağız" diyordu.
+
+
+### Şehir bombalama
+
+İkinci Dünya Savaşı'nın başlangıcında Alman uçakları, Hollanda'da Rotterdam,
+İngiltere'de Coventry kentleri üzerine ve daha birçok yere bombalarını
+bırakmışlardı. Roosevelt bunları, "İnsanlığın vicdanını derin bir biçimde
+sarsan, hepimizi çok eden insanlık dışı bir barbarlık" olarak tanımlamıştı.
+
+Bu Alman bombardımanları, İngiliz ve Amerikalıların Alman kentlerine
+bıraktıkları bombalarla karşılaştırıldığında çok yüzeysel kalıyordu. 1943
+yılının Ocak ayında Müttefikler Kazablanka'da buluştular ve geniş ölçekli hava
+hücümları yaparak, "Yerinden oynatmak suretiyle Alman ordusunun yok edilmesi;
+sanayi ve ekonomik sistemin çökertilerek Alman halkının moralinin bozulması ve
+son olarak Almanların silahlı direnme gücünün iyice zayıflatılarak nihai zaferin
+kazanılması" konusunda anlaştılar. Böylece bin uçağın Köln, Essen, Frankfurt,
+Hamburg gibi Alman kentleri üzerine yaptıkları akınlarla buraları tamamen yıkıma
+uğratıldı. Bombalamaya gece çıkan İngilizler, "askeri hedef" gözettikleri rolünü
+oynamaya bile gerek görmüyorlardı; gündüz uçan Amerikan uçakları gözetir gibi
+yapıyorlardı; ancak bu yükseldikleri irtifadan neredeyse olanaksızdı. Terörize
+etmeye yönelik bu bombalama en üst noktasına, 1945 yılı başlarında Dresden
+kentinde ulaştı; bombalardan çıkan ısı tüm havası alınmış bir boşluk, bir vakum
+yarattı ve kentte aniden büyük bir ateş fırtınası oluştu. Dresden'de 100.000
+kişiden fazla insan öldü.
