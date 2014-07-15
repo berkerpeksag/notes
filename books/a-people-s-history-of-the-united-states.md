@@ -116,3 +116,38 @@ etmeye yönelik bu bombalama en üst noktasına, 1945 yılı başlarında Dresde
 kentinde ulaştı; bombalardan çıkan ısı tüm havası alınmış bir boşluk, bir vakum
 yarattı ve kentte aniden büyük bir ateş fırtınası oluştu. Dresden'de 100.000
 kişiden fazla insan öldü.
+
+Japon kentlerinin bombalanması sırasında da sivillerin moralini bozmak için
+"bombaya doyurma" stratejisi izlenildi. Tokyo üzerine bir gecede yapılan
+bombardımanda 80.000 kişi öldü. Ve arkasından 6 Ağustos 1945'te, Hiroşima kenti
+üzerinde tek bir Amerikan uçağı görüldü; uçak ilk atom bombasını attı ve
+arkasında 100.000 Japonu ölü, onbinlercesini de radyasyon zehirlenmesinden yavaş
+yavaş ölürken bırakıp gitti. Üç gün sonra, ikinci bir atom bombası Nagazaki
+kenti üzerine bırakıldı ve bu da yaklaşık 50.000 kişiyi öldürdü.
+
+Savaş sırasında yapılan hava akınlarının sonuçlarını araştırmak üzere, 1944
+yılında Savaş Bakanlığı tarafından kurulan Birleşik Devletler Stratejik
+Bombalama Araştırmaları Komisyonu, yüzlerce sivil Japon ve askeri liderle,
+Japonya teslim olduktan hemen sonra görüşmeler yapmış ve savaş sonrası şu raporu
+sunmuştu:
+
+> Bütün gerçeklerin ayrıntılı bir biçimde incelenmesi ve konuyla ilgili, hayatta
+> kalan Japon liderlerin tanıklığına dayanarak, komisyonumuz Japonya'nın; atom
+> bombaları atılmamış, Rusya savaşa girmemiş, ve işgali planlanıp düşünülmemiş
+> olsa bile, 31 Aralık 1945 tarihinden önce mutlaka ve 1 Kasım 1945 tarihinden
+> önce büyük bir olasılıkla teslim olacağı kanaatine varmıştır.
+
+Fakat 1945 Ağustosunda Amerikalı liderler bu gerçeği bilebilirler miydi? Yanıt
+çok net bir içimde,  *evet*, olacaktır. Japonların savaş şifreleri çözülmüş ve
+mesajları durdurulup yokedilmeye başlanmıştı. Japonya'nın, Moskova'daki
+elçisine, müttefiklerle barış görüşmeleri üzerinde çalışmaya başlaması
+talimatını verdiği biliniyordu. Bundan bir yıl önce Japon liderler teslim olma
+konusunu konuşmaya başlamışlar ve imparatorun kendisi de, Haziran 1945'te,
+sonuna kadar savaşmaktan başka alternatifler düşünülmesini önermeye
+başlamıştı. 13 Temmuz tarihinde Dışişleri Bakanı ShigenoriTogo Moskova'daki
+elçisine bir telgraf çekerek, "barış için tek engel kayıtsız şartsız teslim
+olmamızı istemeleridir" demişti. Martin Sherwin bu konudaki tarihsel belgeleri
+büyük bir sabır ve titizlikle inceledikten sonra şu sonuca varmıştı: "Savaştan
+önce Japon şifresini çözen Amerikan haberalma servisinin bu mesajı Başkan'a
+bildirmemesi mümkün değildi. Zaten bildirdiler de. Fakat bunun savaşı sona
+erdirme çabaları üzerinde hiçbir etkisi olmadı."
