@@ -1,3 +1,7 @@
+# Ateizmi Anlamak
+
+*Aydın Türk*
+
 * Ateizm, Tanrı inancının ve bununla bağlantılı ‘teist’ (göksel
   dinlerin bakış açısı) inançların reddidir.
 * Ateist, teizmin Tanrı'sının varlığının gösterilemeyeceğini,
