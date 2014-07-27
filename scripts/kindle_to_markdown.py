@@ -4,16 +4,19 @@ import textwrap
 
 import klip
 
-MD_FMT = '* %s\n  %s'
+MD_FMT = '* %s%s'
 
 
 def markdownize(clippings):
     for clip in clippings:
         wrapped = textwrap.wrap(clip['content'].strip(), width=78)
-        wrapped_more = wrapped[1:]
-        print(MD_FMT % (wrapped[0], '\n  '.join(wrapped_more)))
-        if len(wrapped_more):
-            print()
+        if wrapped:
+            wrapped_more = wrapped[1:]
+            if wrapped_more:
+                wrapped_more = '\n  ' + '\n  '.join(wrapped_more)
+            else:
+                wrapped_more = ''
+            print(MD_FMT % (wrapped[0], wrapped_more))
 
 if __name__ == '__main__':
     import sys
