@@ -258,3 +258,12 @@ almost always called with a literal or tuple of literals anyway, I see
 little need to extend the semantics.
 
 Reference: https://mail.python.org/pipermail/python-ideas/2014-January/024661.html
+
+
+## Guido's thoughts on `x.copy()`
+
+> I personally despise almost all uses of "copying" (including the entire copy
+> module, both deep and shallow copy functionality).  I much prefer to write
+> e.g. list(x) over x.copy() -- when I say list(x) I know the type of the result.
+
+Reference: http://bugs.python.org/msg224430
