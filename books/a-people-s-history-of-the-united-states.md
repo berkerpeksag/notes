@@ -151,3 +151,27 @@ büyük bir sabır ve titizlikle inceledikten sonra şu sonuca varmıştı: "Sav
 önce Japon şifresini çözen Amerikan haberalma servisinin bu mesajı Başkan'a
 bildirmemesi mümkün değildi. Zaten bildirdiler de. Fakat bunun savaşı sona
 erdirme çabaları üzerinde hiçbir etkisi olmadı."
+
+> [...] Dahası, tarih boyunca bütün yoksul çocukların kullanıldığı gibi, kendi
+> çocuklarının da, seçkin bir grubun iktidara gelmesi ya da iktidarının
+> korunması için az maaşlı paralı askerler olarak kullanılacağının bilincine
+> varmıştır.
+
+*Patrisia Robinson - Poor Black Woman*
+
+Massachusetts'teki Walpole cezaevindeki bir adam şunları yazmıştı:
+
+> Aldığımız her program bize karşı bir silah gibi kullanılıyor. Okula, kiliseye
+> gitme hakkımız, ziyaretçi kabul etme, yazma, sinemaya gitme hakkımız hepsi
+> sonunda bizi cezalandırmak için birer silaha dönüşüyor. Bu programlardan
+> hiçbiri bizim için yapılmamış. Her şey gerektiğinde bizden alınacak bir
+> ayrılacalık gibi kullanılıyor. Bunun sonucu ise güven duygusunun
+> kaybedilmesi. Kaybetme korkusunun yarattığı gerilim içinizi kemirmeye
+> başlıyor.
+
+O yılların olayları mahkümların çoktan hissettikleri bir gerçeğin altını
+çizmekteydi; onlar hangi suçu işlemiş olurlarla olsunlar, en büyük suçlar
+cezaevlerinin devamını sağlayan otoriteler ve Birleşik Devletler hükümeti
+tarafından işleniyordu. Aslında yasalar her gün, öldürmek için bombalar, ölmek
+için insanlar gönderen, Anayasa'yı, "ülkenin en yüce yasasını" hiçe sayan başkan
+tarafından çiğneniyordu.
