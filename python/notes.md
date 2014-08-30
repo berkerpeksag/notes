@@ -267,3 +267,19 @@ Reference: https://mail.python.org/pipermail/python-ideas/2014-January/024661.ht
 > e.g. list(x) over x.copy() -- when I say list(x) I know the type of the result.
 
 Reference: http://bugs.python.org/msg224430
+
+
+## `@staticmethod`s
+
+Python's static methods not only execute at runtime, they are *defined* at
+runtime. The compiler doesn't know that something will be a "static method", a
+regular function, a "class method"... or whatever. The meaning of "static" is
+entirely different from C's or Java's, where the information about static
+methods is (and has to be) known at compile time.
+
+Of course, this isn't limited to static methods. The same can be said about
+docstrings, which use separate analysis methods in languages such as C++ or Java
+(e.g. doxygen, javadoc...), but regular runtime introspection capabilities in
+Python.
+
+Reference: https://mail.python.org/pipermail/python-ideas/2014-August/029128.html
