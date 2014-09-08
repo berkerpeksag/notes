@@ -54,9 +54,9 @@ Güç sevdası tarafından biçimlendirilerek
 İnananları topla ve kadeh kaldır  
 Tarafsızlık çagının şerefine  
 Tümüyle sıradan bir hikaye  
-Ağızda cok acı bir tat bıraka  n
+Ağızda cok acı bir tat bırakan  
 Olmak istemediğim biri gibi olmak için zorlanıyorum  
-Kendimi kaybediorum daha da derinlere batıyorum  
+Kendimi kaybediyorum daha da derinlere batıyorum  
 Dünyayi saran ağa takıldım  
 Tümüyle sıradan bir hikaye  
 Bu benim hikayem  
