@@ -19,10 +19,10 @@ Character |	Bit sequence |	Hex
 'a'	      | 0b01100001	  | 0x61
 'A'	      | 0b01000001	  | 0x41
 
-Encoding: text → bytes
+Encoding: text → bytes  
 Decoding: bytes → text
 
-'ABC' (encoding) 0110000111010110
+'ABC' (encoding) 0110000111010110  
 0110000111010110 (decoding) 'ABC'
 
 #### `ISO-8859-*` Family
