@@ -9,6 +9,22 @@
 * Most of the Character Sets assign a number to each element - they are
   also known as Coded Character Sets.
 
+#### Encoding
+
+* An Encoding is a mapping from a character set definition to the bit
+  sequences used to represent the data
+
+Character |	Bit sequence |	Hex
+--------- | ------------ | ----
+'a'	      | 0b01100001	  | 0x61
+'A'	      | 0b01000001	  | 0x41
+
+Encoding: text → bytes
+Decoding: bytes → text
+
+'ABC' (encoding) 0110000111010110
+0110000111010110 (decoding) 'ABC'
+
 #### `ISO-8859-*` Family
 
 * 1 Western European
