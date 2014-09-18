@@ -366,3 +366,5 @@ U+0000 through U+007F.
 1. http://www.danielmiessler.com/study/encoding/
 2. http://stackoverflow.com/a/14690651
 3. http://www.joelonsoftware.com/articles/Unicode.html
+4. http://wolfprojects.altervista.org/talks/understanding-encodings/
+5. http://richardharr.is/unicode-in-five-minutes.html
