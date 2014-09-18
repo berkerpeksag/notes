@@ -1,5 +1,66 @@
 # Encoding
 
+### Glossary
+
+#### Character Set
+
+* A Character Set is a collection of elements used to represent textual
+ information.
+* Most of the Character Sets assign a number to each element - they are
+  also known as Coded Character Sets.
+
+#### `ISO-8859-*` Family
+
+* 1 Western European
+* 2 Central European
+* 3 South European
+* 4 North European
+* 5 Latin/Cyrillic
+* 6 Latin/Arabic
+* 7 Latin/Greek
+* 8 Latin/Hebrew
+* 9 Turkish
+* 10 Nordic
+* 11 Latin/Thai
+* 13 Baltic Rim
+* 14 Celtic
+* 15 Western European 2
+* 16 South-Eastern European
+
+#### Quick Intro to Unicode
+
+* Unicode covers all the characters for all the writing systems of the
+  world, modern and ancient.
+* Unicode provides a unique number for every character
+  - no matter what the platform
+  - no matter what the program
+  - no matter what the language
+* The number is called "codepoint".
+* 1114112 different codepoints
+  - `U+0000` to `U+10FFFF`
+* Replaces hundreds of existing character sets
+
+#### Codepoints
+
+* An integer in the range from `0` to `10FFFF`
+* Expressed with the notation `U+XXXX`
+* For example 'a' → `U+0061`, 'ä' → `U+00E4`
+* Each Unicode character (e.g. ☃) has:
+  - a codepoint (e.g. `U+2603`)
+  - a name (e.g. SNOWMAN)
+  - a category (e.g. So - Symbol, Other)
+  - a block (e.g. Miscellaneous Symbols)
+  - and other attributes
+
+#### Unicode Planes
+
+* Unicode is organized in 16 planes, with 65536 codepoints each
+* Basic Multilingual Plane (BMP): includes most of the commonly used
+  characters
+* Supplementary Planes (non-BMP)
+
+---
+
 Files don't contain text, they contain bytes. Bytes only become text when
 filtered through the correct encoding.
 
