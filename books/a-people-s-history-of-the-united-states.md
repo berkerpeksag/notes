@@ -175,3 +175,40 @@ cezaevlerinin devamını sağlayan otoriteler ve Birleşik Devletler hükümeti
 tarafından işleniyordu. Aslında yasalar her gün, öldürmek için bombalar, ölmek
 için insanlar gönderen, Anayasa'yı, "ülkenin en yüce yasasını" hiçe sayan başkan
 tarafından çiğneniyordu.
+
+> Beyaz adamın büyük değişiklikler getirdiği doğru. Fakar çok renkli ve davetkar
+> olsa bile, yarattığı uygarlığın çeşitli meyveleri insanı hasta ediyor,
+> öldürüyor. Sakatlamak, soymak ve engellemek uygarlığın birer parçası haline
+> gelmişse o zaman ilerleme nedir?
+> Çadırında yerde oturup yaşam ve onun anlamı üzerinde tefekküre dalan, bütün
+> canlıların birbiriyle olan akrabalıklarını kabul eden ve nesneler evrenindeki
+> bütünlüğü insanın kendi kendisine uygarlığın gerçek cevherini aşılamakta
+> olduğunu söylemek cüretini gösteriyorum.
+
+*Şef Luther Dikilen Ayı - From the Land of the Spotted Eagle (1933)*
+
+Devlet politikası zaten zengin olanları biraz daha zenginleştiriyorsa onun adı
+"refah" olamaz. Bu refah kendini yoksullara dağıtılan aylık para çekleriyle
+değil, vergi sisteminde sık sık yapılan cömert değişikliklerle belli eder.
+
+*Philadelphia Inquirer* adlı yayın organının iki araştırmacı gazetecisi, Donald
+ Barlett ve James Steele, "Amerika'da Gerçekten Vergi Verenler Kimler?" başlıklı
+ araştırmalarında en tepedeki zenginlerin ödedikleri vergilerin giderek
+ azalmakta olduğunu görmüşlerdi. İzledikleri vergi rakamları yazarlara "vergi
+ reformu" maskesi altında zenginlerin vergi oranlarını ilk indirenlerin
+ Cumhuriyetçiler değil Demokratlar olduğunu ve Kennedy-Johnson yönetimi
+ sırasında, 2. Dünya Savaşı döneminde yıllık 400.000 dolar kazançtan alınan %91
+ oranındaki verginin %70'e indirildiğini göstermişti. Carter yönetimi sırasında
+ (Carter'ın karşı çıkmasına karşın) Demokratlar ve Cumhuriyetçiler Kongre'de
+ zenginlere vergi soluğu aldırmak için birkaç kez birleşmişlerdi.
+
+Reagan yönetimi Kongre'deki Demokratların yardımıyla en zenginlerin ödedikleri
+vergiyi %50'ye düşürdü ve Cumhuriyetçiler ile Demokratlar 1986 yılında bir
+koalisyon daha yaparak, bir başka "vergi reformu"na daha destek oldular ve en
+tepedekilerin vergi oranını %28'e indirdiler. Öyle ki Barlett ve Steele'e göre,
+bir öğretmen, bir fabrika işçisi, bir milyarder hepsinin vergisi %28'de
+eşitlenmiş hale gelmişti.
+
+1978'den 1990'a dek çıkarılan vergi yasaları sonucu (kendisine "kapitalist araç"
+diyerek reklamını yapan) *Forbes Magazine* tarafından ülkenin en zenginleri
+seçilen 400 kişi("Forbes 400'ü") gelirini üçe katlamış oldu.
