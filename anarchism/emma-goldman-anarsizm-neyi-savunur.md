@@ -192,12 +192,12 @@ Hukuk belki bu durumu kabul ediyor, ama bunu sadece çok aşikar olan nadir
 vakalarda ya da sanığın zenginliği akıl hastalığı lüksüne yettiği zaman
 uyguluyor.
 
-Quetelet'e göre, toplum suçun hazırlayıcısıve suçlular, bu suçları ifa eden
+Quetelet'e göre, toplum suçun hazırlayıcısı ve suçlular, bu suçları ifa eden
 araçlardır. Lacassagne'ye göre, "toplumsal çevre suçluluğun yetiştirildiği
 ortamdır; suçlu, mayalanmasına yol açan ortamı bulduğunda önem arz eden
 mikroptur; *her toplum hak ettiği suçluları bulur*."
 
-Edawrd Carpenter, ağır suçların altıda beşinin bir çeşit mülkiyet ihlali
+Edward Carpenter, ağır suçların altıda beşinin bir çeşit mülkiyet ihlali
 olduğunu hesaplıyor; ama bu, oldukça düşük bir rakamdır. Kapsamlı bir inceleme,
 on suçtan dokuzunun doğrudan ya da dolaylı olarak iktisadi ya da toplumsal
 adaletsizliklerimizle, acımasız sömürü ve hırsızlık sistemimizle
