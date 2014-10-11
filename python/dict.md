@@ -1,17 +1,18 @@
+**Note:** This document can be merged into ``python/notes.md``.
+
 ## "Attribute lookup" or "dot notation" in a dictionary
 
 ```py
 class Dict(dict):
-    def __getattr__(self, key):
-        return self.get(key)
 
+    __getattr__ = dict.get
     __setattr__ = dict.__setitem__
     __delattr__ = dict.__delitem__
 ```
 
 ## try/except KeyError vs "if name in ..."
 
-> If failure is rare (less than 10-20%) use try.
+If failure is rare (less than 10-20%) use try.
 
 ```py
 def __import__(name, globals=None, locals=None, fromlist=None):
@@ -22,8 +23,8 @@ def __import__(name, globals=None, locals=None, fromlist=None):
         pass
 ```
 
-If you expect that most of the time the module will be found, the try...except
-version will be faster.
+If you expect that most of the time the module will be found, the
+``try...except`` version will be faster.
 
 ```py
 if name in sys.modules:
@@ -31,7 +32,7 @@ if name in sys.modules:
 ```
 
 If you expect that most of the time the module will not be found, the
-"if name in" version will be faster.
+``if name in`` version will be faster.
 
 #### Resources
 
