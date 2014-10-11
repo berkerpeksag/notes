@@ -283,3 +283,27 @@ docstrings, which use separate analysis methods in languages such as C++ or Java
 Python.
 
 Reference: https://mail.python.org/pipermail/python-ideas/2014-August/029128.html
+
+
+## What `range` really is in Python 3?
+
+It's a full sequence type (specifically, a calculated tuple). The only immutable
+sequence operations it doesn't support are concatenation and repetition (since
+concatenating or repeating a range can't be represented using the simple
+"start + n*step" calculation that range uses internally).
+
+From the official Python documentation:
+
+The advantage of the range type over a regular list or tuple is that a range
+object will always take the same (small) amount of memory, no matter the size of
+the range it represents (as it only stores the start, stop and step values,
+calculating individual items and subranges as needed).
+
+Range objects implement the ``collections.abc.Sequence`` ABC, and provide
+features such as containment tests, element index lookup, slicing and support
+for negative indices.
+
+#### References
+
+1. https://mail.python.org/pipermail/python-ideas/2014-October/029646.html
+2. https://docs.python.org/3/library/stdtypes.html#ranges
