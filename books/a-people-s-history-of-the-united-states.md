@@ -212,3 +212,65 @@ eşitlenmiş hale gelmişti.
 1978'den 1990'a dek çıkarılan vergi yasaları sonucu (kendisine "kapitalist araç"
 diyerek reklamını yapan) *Forbes Magazine* tarafından ülkenin en zenginleri
 seçilen 400 kişi("Forbes 400'ü") gelirini üçe katlamış oldu.
+
+---
+
+Kurtarıcılar fikri politikanın da ötesinde bütün kültüre aşılanmıştır. Her
+alanda yıldızları, liderleri, uzmanları aramayı öğrendiğimizden gücümüzü
+başkalarına teslim etmekten, yeteneklerimizi küçümsemekten, benliğimizi yok
+etmekten kaçınmayız.
+
+Hiçbir ülke muhalefeti reformlarla, insanları birbirinden ayırarak ve vatansever
+bir bağlılık yaratarak yatıştırmada Amerika kadar başarılı olamaz.
+
+Nüfusun yüzde biri ulusal refahın üçte birine sahiptir. Refahın geri kalanı,
+nüfusun geri kalan %99'unu birbirine düşürecek bir biçimde dağıtılmıştır; küçük
+mülkiyet sahipleri hiçbir mülkü olmayanlara; siyahlar beyazlara; Amerika'da
+doğanlar, yabancı ülkelerde doğup Amerikan vatandaşı olanlara; entelektüeller ve
+profesyoneller, eğitilmemiş ve vasıfsızlara karşıdırlar bu ülkede. Bu gruplar
+birbirlerine karşı kin beslerler ve kendi aralarında öylesine bir öfke ve
+şiddetle savaşırlar ki, çok zengin bir ülkede artıkları paylaşan kişiler olarak
+ortak bir kaderi paylaştıklarını unuturlar.
+
+[...]
+
+Bu aldatmaca, herkesi kucaklayan fiziksel ve sözel simgeler yoluyla; bayrak,
+vatanseverlik, demokrasi, ulusal çıkar, ulusal savunma ve ulusal güvenlik gibi
+simgelerle kuşaklar boyu sürdürülmüştü.
+
+[...]
+
+Huzursuzluğun bu şekilde devam ettiği durumlarda Kurulu Düzen, rahatı kaçmış
+işadamları, generaller ve politikacılardan oluşan kulüp için "ulusal birlik"
+denilen tarihsel bir aldatmacayı sürdürmek çok önemlidir. "Ulusak Birlik",
+hükümetin bütün halkı temsil ettiği; ortak düşmanın ülke içinde değil denizaşırı
+ülkelerde olduğu; ekonomiden kaynaklanan felaketlerin talihsiz hatalar ya da
+trajik kazalar olarak düşünüldüğü ve bunların yine felaketlere neden olan aynu
+kulübün üyeleri tarafından düzeltilecek olduğu zamanlarda ihtiyaç duyulan bir
+şeydir. Düzeni oluşturanlar için, aynı zamanda çok ayrıcalıklı ve azbuçuk
+ayrıcalıklı olanların oluşturduğu bu yapar birliğin tek birlik olmasını
+garantilemek de önemlidir, ki böylece kalan %99 sayılamayacak kadar çok konuda
+bölünmüş olmaya ve öfkelerini birbirinden çıkarmaya devam etsinler.
+
+---
+
+(Waco trajedisi, 1993)
+
+Hükümetin cinayet işlediği durumlarda sık sık olduğu gibi geride kalan kurbanlar
+mahkemeye çıkarıldılar; yargıç Jürinin mahkemenin sert kararlar vermemesi
+konusundaki isteğini reddetti; suçlulara krık yıla kadar hapis cezası istedi.
+
+"Siyasetin tek bir pratik amacı vardır o da nüfusu, tamamı sanal olan bir seri
+gulyabani kullanarak sürekli tetikte tutmaktır." - H. L. Mencken
+
+---
+
+(Clinton-Lewinsky)
+
+Bu olay, bireysel davranışla ilgili bir konunun, halkın dikkatinden çok daha
+önemli olayları, hatta ölüm kalım meselelerini bile nasıl uzaklaştırabileceğini
+de gösterdi. Temsilciler Meclisi, başkanı cinsel davranışları nedeniyle
+azledebiliyor, fakat refah reformu ile çocukların yaşamlarını tehlikeye
+atmaktan; başka ülkeleri (İran, Afganistan, Sudan) bombalayarak uluslararası
+yasaları ihlal etmekten ya da ekonomik yaptırımlarla (Irak) yüzbinlerce çocuğun
+ölümüne seyirci kalmaktan azledemiyordu.
