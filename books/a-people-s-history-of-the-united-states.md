@@ -245,7 +245,7 @@ işadamları, generaller ve politikacılardan oluşan kulüp için "ulusal birli
 denilen tarihsel bir aldatmacayı sürdürmek çok önemlidir. "Ulusak Birlik",
 hükümetin bütün halkı temsil ettiği; ortak düşmanın ülke içinde değil denizaşırı
 ülkelerde olduğu; ekonomiden kaynaklanan felaketlerin talihsiz hatalar ya da
-trajik kazalar olarak düşünüldüğü ve bunların yine felaketlere neden olan aynu
+trajik kazalar olarak düşünüldüğü ve bunların yine felaketlere neden olan aynı
 kulübün üyeleri tarafından düzeltilecek olduğu zamanlarda ihtiyaç duyulan bir
 şeydir. Düzeni oluşturanlar için, aynı zamanda çok ayrıcalıklı ve azbuçuk
 ayrıcalıklı olanların oluşturduğu bu yapar birliğin tek birlik olmasını
