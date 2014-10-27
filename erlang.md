@@ -171,4 +171,24 @@ P#person.employed  % erixon
 ```
 
 When working with records in the Erlang shell, the functions rd(RecordName, RecordDefinition) and
-rr(Module) can be used to define and load record definitions
+rr(Module) can be used to define and load record definitions.
+
+A list is a compound data type that holds a variable number of terms enclosed
+within square brackets.
+
+```erl
+[Term1,...,TermN]
+```
+
+Each term TermX in the list is called an element. Common in functional programming, the first element is called the head of the list and the remainder (from
+the 2nd element onwards) is called the tail of the list.
+
+Note that individual elements within a list do not have
+to have the same type, although it is common (and perhaps good) practice to do so — where mixed types
+are involved, records are more commonly used.
+
+BIFs to manipulate lists
+
+* length(List) Returns the length of List
+* hd(List) Returns the 1st (head) element of List
+* tl(List) Returns List with the 1st element removed (tail)
