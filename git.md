@@ -65,3 +65,18 @@ A tag is both a node in the DAG and a post-it note (of yet another color).
 A tag points to a commit, and includes an optional message and a GPG signature.
 The post-it is just a fast way to access the tag, and if lost can be recovered
 from just the DAG with `git lost-found`.
+
+
+# Notes
+
+## Change author date of a commit
+
+```sh
+$ git commit --amend --date="Wed Feb 16 14:00 2011 +0100"
+```
+
+To change the commit date instead of the author date:
+
+```sh
+$ GIT_COMMITTER_DATE="Wed Feb 16 14:00 2011 +0100" git commit --amend
+```
