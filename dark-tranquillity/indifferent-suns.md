@@ -11,11 +11,11 @@ We stumble blindly and forget the way
 Is there ever time for answers  
 When the world comes tumbling down  
 
-**All along we keep staring at the sun  
-Closing our minds  
-Saying we´re the ones  
-All along we keep staring at the sun  
-Blind to see it when the day will come  **
+**All along we keep staring at the sun**  
+**Closing our minds**  
+**Saying we´re the ones**  
+**All along we keep staring at the sun**  
+**Blind to see it when the day will come**  
 
 And even if in days of wonders  
 
