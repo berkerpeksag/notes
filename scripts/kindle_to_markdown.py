@@ -12,10 +12,7 @@ def markdownize(clippings):
         wrapped = textwrap.wrap(clip['content'].strip(), width=78)
         if wrapped:
             wrapped_more = wrapped[1:]
-            if wrapped_more:
-                wrapped_more = '\n  ' + '\n  '.join(wrapped_more)
-            else:
-                wrapped_more = ''
+            wrapped_more = '\n  ' + '\n  '.join(wrapped_more) if wrapped_more else ''
             print(MD_FMT % (wrapped[0], wrapped_more))
 
 if __name__ == '__main__':
