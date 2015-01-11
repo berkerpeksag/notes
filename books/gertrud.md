@@ -2,7 +2,7 @@
 
 *Hermann Hesse*
 
-* [...] Ayrıca kendim içindaha bir sessiz, daha bir el altından göz yaşları
+* [...] Ayrıca kendim için daha bir sessiz, daha bir el altından göz yaşları
   döktüm; bir başka gezegende yaşar gibi bütün bu insanların arasında hayat
   denen şeye akıl erdiremeyen, sevgiye susamışlıktan ölen, ama sevgiden de
   korkmadan duramayan kendim için gözyaşları.
