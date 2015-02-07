@@ -38,7 +38,7 @@ layout_template = """\
 def render(content):
     if isinstance(content, list):
         content = ''.join(content)
-    return layout_template.format(content=content).encode()
+    return [layout_template.format(content=content).encode()]
 
 
 def index(environ, start_response):
@@ -50,7 +50,7 @@ def index(environ, start_response):
     response.extend(pages)
     response.append('</ul>')
     start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
-    return [render(response)]
+    return render(response)
 
 
 def document(environ, start_response):
@@ -67,12 +67,12 @@ def document(environ, start_response):
     else:
         return not_found(environ, start_response)
     start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
-    return [render(content)]
+    return render(content)
 
 
 def not_found(environ, start_response):
     start_response('404 NOT FOUND', [('Content-Type', 'text/html')])
-    return [render('Not Found')]
+    return render('Not Found')
 
 
 class Notesd:
