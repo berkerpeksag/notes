@@ -3,10 +3,10 @@ TODOs
 
 * [x] Add -p (port)
 * [x] CLI UX, URl ve ^C'yi print etsin
-* Add -d (index dir)
+* [x] Add -d (index dir)
 * Add -s (suffixes .md, .txt etc.)
 * Jinja2 support
-* Class based: Notesd(app, handlers, config)
+* [x] Class based: Notesd(handlers, config)
 * Class based: index func -> IndexHandler class
 * Consider adding a "serve" option: Generate static HTML
 """
@@ -42,9 +42,11 @@ def render(content):
 
 
 def index(environ, start_response):
+    config = environ.get('myapp.config')
+    directory = os.path.abspath(config['directory'])
     response = ['<ul>']
     pages = ['<li><a href="/document/{doc}">{doc}</a></li>'.format(doc=doc)
-             for doc in os.listdir('.') if doc.endswith(('.md', '.txt'))]
+             for doc in os.listdir(directory) if doc.endswith(('.md', '.txt'))]
     response.extend(pages)
     response.append('</ul>')
     start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
@@ -53,9 +55,10 @@ def index(environ, start_response):
 
 def document(environ, start_response):
     args = environ.get('myapp.url_args')
+    config = environ.get('myapp.config')
+    directory = os.path.abspath(config['directory'])
     if args:
-        path = html.escape(args[0])
-        # abspath = os.path.abspath(os.path.join(__file__, path))
+        path = os.path.join(directory, html.escape(args[0]))
         if os.path.exists(path):
             with open(path, encoding='utf-8') as fobj:
                 content = markdown.markdown(fobj.read())
@@ -72,20 +75,21 @@ def not_found(environ, start_response):
     return [render('Not Found')]
 
 
-urls = [
-    (r'^$', index),
-    (r'document/(.+)$', document)
-]
+class Notesd:
 
+    def __init__(self, handlers, config):
+        self.handlers = handlers
+        self.config = config
 
-def application(environ, start_response):
-    path = environ.get('PATH_INFO', '').lstrip('/')
-    for regex, callback in urls:
-        match = re.search(regex, path)
-        if match is not None:
-            environ['myapp.url_args'] = match.groups()
-            return callback(environ, start_response)
-    return not_found(environ, start_response)
+    def __call__(self, environ, start_response):
+        environ['myapp.config'] = self.config
+        path = environ.get('PATH_INFO', '').lstrip('/')
+        for regex, callback in self.handlers:
+            match = re.search(regex, path)
+            if match is not None:
+                environ['myapp.url_args'] = match.groups()
+                return callback(environ, start_response)
+        return not_found(environ, start_response)
 
 
 if __name__ == '__main__':
@@ -96,7 +100,13 @@ if __name__ == '__main__':
     parser.add_argument('-d', dest='directory', type=str, default='.')
     options = parser.parse_args()
 
+    handlers = [
+        (r'^$', index),
+        (r'document/(.+)$', document)
+    ]
+    application = Notesd(handlers=handlers, config=dict(directory=options.directory))
     httpd = make_server('', options.port, application)
+
     print('Serving on port http://localhost:{}...'.format(options.port))
     try:
         httpd.serve_forever()
