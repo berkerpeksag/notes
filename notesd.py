@@ -9,6 +9,9 @@ TODOs
 * [x] Class based: Notesd(handlers, config)
 * Class based: index func -> IndexHandler class
 * Consider adding a "serve" option: Generate static HTML
+* Consider encapsulating environ in a request object and
+  replacing the start_response call and the return iterator
+  with a response objects.
 """
 
 import contextlib
@@ -65,6 +68,7 @@ def document(environ, start_response):
         if os.path.exists(path):
             with open(path, encoding='utf-8') as fobj:
                 content = markdown.markdown(fobj.read())
+            a
         else:
             return not_found(environ, start_response)
     else:
@@ -116,8 +120,9 @@ class ExceptionMiddleware:
             # to start one with the status code 500 or ignore an
             # raised exception if the application already started one.
             with contextlib.suppress(BaseException):
-                start_response('500 INTERNAL SERVER ERROR', [
-                               ('Content-Type', 'text/plain')])
+                start_response('500 INTERNAL SERVER ERROR',
+                               [('Content-Type', 'text/plain')],
+                               sys.exc_info())
             yield traceback.format_exc().encode()
 
         # wsgi applications might have a close function. If it exists
