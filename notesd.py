@@ -11,9 +11,12 @@ TODOs
 * Consider adding a "serve" option: Generate static HTML
 """
 
+import contextlib
 import html
 import os
 import re
+import sys
+import traceback
 
 from wsgiref.simple_server import make_server
 
@@ -92,6 +95,37 @@ class Notesd:
         return not_found(environ, start_response)
 
 
+class ExceptionMiddleware:
+    # Adapted from http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/
+
+    def __init__(self, app):
+        self.app = app
+
+    def __call__(self, environ, start_response):
+        """Call the application can catch exceptions."""
+        appiter = None
+        # just call the application and send the output back
+        # unchanged but catch exceptions
+        try:
+            appiter = self.app(environ, start_response)
+            yield from appiter
+        # if an exception occurs we get the exception information
+        # and prepare a traceback we can render
+        except:
+            # we might have not a stated response by now. try
+            # to start one with the status code 500 or ignore an
+            # raised exception if the application already started one.
+            with contextlib.suppress(BaseException):
+                start_response('500 INTERNAL SERVER ERROR', [
+                               ('Content-Type', 'text/plain')])
+            yield traceback.format_exc().encode()
+
+        # wsgi applications might have a close function. If it exists
+        # it *must* be called.
+        if hasattr(appiter, 'close'):
+            appiter.close()
+
+
 if __name__ == '__main__':
     import argparse
 
@@ -100,11 +134,12 @@ if __name__ == '__main__':
     parser.add_argument('-d', dest='directory', type=str, default='.')
     options = parser.parse_args()
 
+    config = dict(directory=options.directory)
     handlers = [
         (r'^$', index),
         (r'document/(.+)$', document)
     ]
-    application = Notesd(handlers=handlers, config=dict(directory=options.directory))
+    application = ExceptionMiddleware(Notesd(handlers, config))
     httpd = make_server('', options.port, application)
 
     print('Serving on port http://localhost:{}...'.format(options.port))
