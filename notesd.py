@@ -7,13 +7,14 @@ TODOs
 * Add -s (suffixes .md, .txt etc.)
 * Jinja2 support
 * [x] Class based: Notesd(handlers, config)
-* Class based: index func -> IndexHandler class
+* [x] Class based: index func -> IndexHandler class
 * Consider adding a "serve" option: Generate static HTML
 * Consider encapsulating environ in a request object and
   replacing the start_response call and the return iterator
   with a response objects.
 * Recursive directories
 * Add a factory for another WSGI servers
+* Use ExceptionMiddleware inside of Notesd
 """
 
 import contextlib
@@ -44,12 +45,6 @@ layout_template = """\
 """
 
 
-def render(content):
-    if isinstance(content, list):
-        content = ''.join(content)
-    return [layout_template.format(content=content).encode()]
-
-
 class Status:
 
     def __init__(self, status, message=None, content_type='text/plain'):
@@ -64,33 +59,48 @@ class Status:
 NotFound = Status(404, 'Not Found', 'text/html')
 
 
-def index(environ, start_response):
-    config = environ.get('myapp.config')
-    directory = os.path.abspath(config['directory'])
-    response = ['<ul>']
-    pages = ['<li><a href="/document/{doc}">{doc}</a></li>'.format(doc=doc)
-             for doc in os.listdir(directory) if doc.endswith(('.md', '.txt'))]
-    response.extend(pages)
-    response.append('</ul>')
-    start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
-    return render(response)
+class BaseHandler:
+
+    app_label = 'myapp'
+
+    def get_config(self, environ):
+        return environ.get('{}.config'.format(self.app_label))
+
+    def render(self, content):
+        if isinstance(content, list):
+            content = ''.join(content)
+        return [layout_template.format(content=content).encode()]
 
 
-def document(environ, start_response):
-    args = environ.get('myapp.url_args')
-    config = environ.get('myapp.config')
-    directory = os.path.abspath(config['directory'])
-    if args:
-        path = os.path.join(directory, html.escape(args[0]))
-        if os.path.exists(path):
-            with open(path, encoding='utf-8') as fobj:
-                content = markdown.markdown(fobj.read())
-        else:
+class IndexHandler(BaseHandler):
+
+    def __call__(self, environ, start_response):
+        config = self.get_config(environ)
+        directory = os.path.abspath(config['directory'])
+        pages = ['<li><a href="/document/{doc}">{doc}</a></li>'.format(doc=doc)
+                 for doc in os.listdir(directory) if doc.endswith(('.md', '.txt'))]
+        start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
+        return self.render('<ul>{}</ul>'.format(''.join(pages)))
+
+
+class DocumentHandler(BaseHandler):
+
+    def get_urls(self, environ):
+        return environ.get('{}.url_args'.format(self.app_label))
+
+    def __call__(self, environ, start_response):
+        config = self.get_config(environ)
+        urls = self.get_urls(environ)
+        directory = os.path.abspath(config['directory'])
+        if not urls:
             return NotFound(environ, start_response)
-    else:
-        return NotFound(environ, start_response)
-    start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
-    return render(content)
+        path = os.path.join(directory, html.escape(urls[0]))
+        if not os.path.exists(path):
+            return NotFound(environ, start_response)
+        with open(path, encoding='utf-8') as fobj:
+            content = markdown.markdown(fobj.read())
+        start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
+        return self.render(content)
 
 
 class Notesd:
@@ -103,6 +113,9 @@ class Notesd:
         environ['myapp.config'] = self.config
         path = environ.get('PATH_INFO', '').lstrip('/')
         for regex, callback in self.handlers:
+            # TODO: change this to pass IndexHandler instead of
+            # IndexHandler(). also pass an config object to
+            # these handlers
             match = re.search(regex, path)
             if match is not None:
                 environ['myapp.url_args'] = match.groups()
@@ -149,8 +162,8 @@ if __name__ == '__main__':
 
     config = dict(directory=options.directory)
     handlers = [
-        (r'^$', index),
-        (r'document/(.+)$', document)
+        (r'^$', IndexHandler()),
+        (r'document/(.+)$', DocumentHandler()),
     ]
     application = ExceptionMiddleware(Notesd(handlers, config))
     httpd = make_server('', options.port, application)
