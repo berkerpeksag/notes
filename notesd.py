@@ -17,7 +17,6 @@ TODOs
 * Use ExceptionMiddleware inside of Notesd
 """
 
-import contextlib
 import html
 import http.client
 import os
@@ -131,23 +130,14 @@ class ExceptionMiddleware:
 
     def __call__(self, environ, start_response):
         appiter = None
-        # just call the application and send the output back
-        # unchanged but catch exceptions
         try:
             appiter = self.app(environ, start_response)
             yield from appiter
         except:
-            # we might have not a stated response by now. try
-            # to start one with the status code 500 or ignore an
-            # raised exception if the application already started one.
-            with contextlib.suppress(BaseException):
-                start_response('500 INTERNAL SERVER ERROR',
-                               [('Content-Type', 'text/plain')],
-                               sys.exc_info())
+            start_response('500 INTERNAL SERVER ERROR',
+                           [('Content-Type', 'text/plain')],
+                           sys.exc_info())
             yield traceback.format_exc().encode()
-
-        # wsgi applications might have a close function. If it exists
-        # it *must* be called.
         if hasattr(appiter, 'close'):
             appiter.close()
 
