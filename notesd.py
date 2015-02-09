@@ -16,6 +16,7 @@ TODOs
 
 import contextlib
 import html
+import http.client
 import os
 import re
 import sys
@@ -47,6 +48,19 @@ def render(content):
     return [layout_template.format(content=content).encode()]
 
 
+class Status:
+
+    def __init__(self, status, message=None):
+        self.status = '{:d} {}'.format(status, http.client.responses[status])
+        self.message = message or ''
+
+    def __call__(self, environ, start_response):
+        start_response(self.status, [('Content-Type', 'text/html')])
+        return render(self.message)
+
+NotFound = Status(404, 'Not Found')
+
+
 def index(environ, start_response):
     config = environ.get('myapp.config')
     directory = os.path.abspath(config['directory'])
@@ -68,18 +82,12 @@ def document(environ, start_response):
         if os.path.exists(path):
             with open(path, encoding='utf-8') as fobj:
                 content = markdown.markdown(fobj.read())
-            a
         else:
-            return not_found(environ, start_response)
+            return NotFound(environ, start_response)
     else:
-        return not_found(environ, start_response)
+        return NotFound(environ, start_response)
     start_response("200 OK", [('Content-Type', 'text/html; charset=utf-8')])
     return render(content)
-
-
-def not_found(environ, start_response):
-    start_response('404 NOT FOUND', [('Content-Type', 'text/html')])
-    return render('Not Found')
 
 
 class Notesd:
@@ -96,7 +104,7 @@ class Notesd:
             if match is not None:
                 environ['myapp.url_args'] = match.groups()
                 return callback(environ, start_response)
-        return not_found(environ, start_response)
+        return NotFound(environ, start_response)
 
 
 class ExceptionMiddleware:
@@ -106,15 +114,12 @@ class ExceptionMiddleware:
         self.app = app
 
     def __call__(self, environ, start_response):
-        """Call the application can catch exceptions."""
         appiter = None
         # just call the application and send the output back
         # unchanged but catch exceptions
         try:
             appiter = self.app(environ, start_response)
             yield from appiter
-        # if an exception occurs we get the exception information
-        # and prepare a traceback we can render
         except:
             # we might have not a stated response by now. try
             # to start one with the status code 500 or ignore an
