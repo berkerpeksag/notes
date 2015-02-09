@@ -54,7 +54,7 @@ class Status:
 
     def __call__(self, environ, start_response):
         start_response(self.status, [('Content-Type', self.content_type)])
-        return render(self.message)
+        return [self.message.encode()]
 
 NotFound = Status(404, 'Not Found', 'text/html')
 
