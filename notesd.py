@@ -12,6 +12,8 @@ TODOs
 * Consider encapsulating environ in a request object and
   replacing the start_response call and the return iterator
   with a response objects.
+* Recursive directories
+* Add a factory for another WSGI servers
 """
 
 import contextlib
@@ -50,15 +52,16 @@ def render(content):
 
 class Status:
 
-    def __init__(self, status, message=None):
+    def __init__(self, status, message=None, content_type='text/plain'):
         self.status = '{:d} {}'.format(status, http.client.responses[status])
-        self.message = message or ''
+        self.message = message or http.client.responses[status]
+        self.content_type = content_type
 
     def __call__(self, environ, start_response):
-        start_response(self.status, [('Content-Type', 'text/html')])
+        start_response(self.status, [('Content-Type', self.content_type)])
         return render(self.message)
 
-NotFound = Status(404, 'Not Found')
+NotFound = Status(404, 'Not Found', 'text/html')
 
 
 def index(environ, start_response):
