@@ -4,6 +4,16 @@
 
 * The `hash(x) == id(x)` behaviour is a CPython implementation detail.
 
+## Container objects
+
+Container is a class that implements the `__contains__` method.
+
+Containers are any object that holds an arbitrary number of other objects.
+Generally, containers provide a way to access the contained objects and to
+iterate over them.
+
+`tuple`, `list`, `set`, `dict` are the *built-in* containers.
+
 
 ## Behavior of `list.extend()`
 
