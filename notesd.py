@@ -24,8 +24,6 @@ import re
 import sys
 import traceback
 
-from wsgiref.simple_server import make_server
-
 import markdown
 
 layout_template = """\
@@ -144,6 +142,7 @@ class ExceptionMiddleware:
 
 if __name__ == '__main__':
     import argparse
+    import wsgiref.simple_server
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-p', dest='port', type=int, default=8586)
@@ -156,7 +155,7 @@ if __name__ == '__main__':
         (r'document/(.+)$', DocumentHandler()),
     ]
     application = ExceptionMiddleware(Notesd(handlers, config))
-    httpd = make_server('', options.port, application)
+    httpd = wsgiref.simple_server.make_server('', options.port, application)
 
     print('Serving on port http://localhost:{}...'.format(options.port))
     try:
