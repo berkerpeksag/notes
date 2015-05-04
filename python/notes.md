@@ -317,3 +317,42 @@ for negative indices.
 
 1. https://mail.python.org/pipermail/python-ideas/2014-October/029646.html
 2. https://docs.python.org/3/library/stdtypes.html#ranges
+
+
+## Recursion vs. tail recursion
+
+Tail calls are when a function is recursing and returns simply on a function
+call to itself. This is different than normal recursion where multiple things
+can be happening on our recursed return statement.
+
+**Tail recursion:**
+
+```py
+def factorial(N, result=1):
+    if N == 1:
+        return result
+    return factorial(N-1, N*result)
+```
+
+**Normal recursion:**
+
+```py
+def factorial(N):
+    if N == 1:
+        return 1
+    return N * factorial(N-1)
+```
+
+So we can see that normal recursion uses the return register in order to
+maintain the state of the calculation. By contrast, tail recursion uses a
+function parameter.
+
+Generally when a function gets called, the system must set up a function stack
+in memory that maintains the state of the function, including local variables
+and code pointers, so that the function can go on its merry way. However, when
+we do a tail recursion we are trying to enter the same function stack that we
+are already in, just with changes to the values of the arguments! This can be
+quickly optimized by never creating the new function stack and instead just
+modifying the argument values and starting the function from the beginning!
+
+Reference: http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice
