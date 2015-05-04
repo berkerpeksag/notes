@@ -110,13 +110,12 @@ class Notesd:
         environ['myapp.config'] = self.config
         path = environ.get('PATH_INFO', '').lstrip('/')
         for regex, callback in self.handlers:
-            # TODO: change this to pass IndexHandler instead of
-            # IndexHandler(). also pass an config object to
+            # TODO: pass an config object to
             # these handlers
             match = re.search(regex, path)
             if match is not None:
                 environ['myapp.url_args'] = match.groups()
-                return callback(environ, start_response)
+                return callback()(environ, start_response)
         return NotFound(environ, start_response)
 
 
@@ -151,8 +150,8 @@ if __name__ == '__main__':
 
     config = dict(directory=options.directory)
     handlers = [
-        (r'^$', IndexHandler()),
-        (r'document/(.+)$', DocumentHandler()),
+        (r'^$', IndexHandler),
+        (r'document/(.+)$', DocumentHandler),
     ]
     application = ExceptionMiddleware(Notesd(handlers, config))
     httpd = wsgiref.simple_server.make_server('', options.port, application)
