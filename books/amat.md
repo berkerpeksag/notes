@@ -1,3 +1,7 @@
+# Amat
+
+*İhsan Oktay Anar (2005)*
+
 "Biliyorum ki, döktüğünüz kanı siz değil, yalılarda yaşayan ve şiir yazıp sizi
 hakir gören nazik adamlar içecektir. Kostantiniye'nin kibar insanları kanla
 beslenir, ama siz değil! Bu yüzden siz onlardan temizsiniz! Ancak kan görünce
