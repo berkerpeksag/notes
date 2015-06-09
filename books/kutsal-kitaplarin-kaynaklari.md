@@ -26,6 +26,17 @@ Yeri ve göğü elinde tutan, o kibirli,
 O somurtkan ve dokunulmaz!  
 Bütün kavgalar onun yüzünden değil mi?
 
+[...]
+
+Uzun lafın kısası:  
+Ezmeyen ezilir!  
+Nerde bir şeref var, iğreti.  
+Nerde bir mutluluk var, yama.  
+Bir şeyin ne başına inan ne sonuna.  
+Din şehit ister, gökyüzü kurban.  
+Her yanda durmadan kan akacak,  
+durmadan her yanda kan!  
+
 [1] Kur'an ve öncekiler
 
 
