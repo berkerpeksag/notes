@@ -54,6 +54,10 @@ durmadan her yanda kan!
   alıp benimsetmişlerdir."
 * Musa, eğer gerçekten yaşadıysa Mısırlı bir prensten başkası değil. Yahudi
   değil.
+* Heredot'un anlattığına göre; domuz, Mısır'da Tanrı Osiris'in düşmanı olan
+  başka bir Tanrı'nın hayvanıydı. O Tanrı'ya da *domuz* denirdi. Gecenin ve
+  kötülüklerin Tanrısıydı o. Mehtaplı gecelerde, ona domuz kurban edilirdi,
+  bu törenlerde eti de yenirdi.
 
 
 ## Kuran'ın tahammülsüzlüğü ve kan sevdasına örnekler
