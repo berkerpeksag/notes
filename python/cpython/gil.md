@@ -25,7 +25,9 @@ http://mail.python.org/pipermail/python-dev/2009-October/093321.html
 
 **Advantages:**
 
-* Increased speed of single-threaded programs.
+* Increased speed of single-threaded programs compared to single-threaded
+  programs that automatically perform some other fine-grained (and
+  equally redundant) locking.
 * Easy integration of C libraries that usually are not thread-safe.
 
 Python has a GIL as opposed to fine-grained locking for several reasons:
