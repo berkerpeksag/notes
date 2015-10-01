@@ -17,6 +17,7 @@ bu belgede toplayacağım.
 * Undo: `u`
 * Redo: `Ctrl-R`
 * Bufferlar arasında gezinmek için `Ctrl+6`
+* `dG` will delete from the current line to the end of file
 
 ## Bağlantılar
 
