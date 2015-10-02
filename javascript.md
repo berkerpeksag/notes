@@ -1,3 +1,5 @@
+# JavaScript Notes
+
 ## `var self = this;` workaround
 
 One reason this question comes up so often is that function functions receive
@@ -70,4 +72,10 @@ literals! So the code above can be simplified further:
 }
 ```
 
-Resource: https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
+**Reference:** https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
+
+
+## Promise
+
+* http://www.html5rocks.com/en/tutorials/es6/promises/
+* A simple promise implementation: http://www.mattgreer.org/articles/promises-in-wicked-detail/
