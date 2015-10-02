@@ -18,6 +18,7 @@ bu belgede toplayacağım.
 * Redo: `Ctrl-R`
 * Bufferlar arasında gezinmek için `Ctrl+6`
 * `dG` will delete from the current line to the end of file
+* To move to end of file just type `G`
 
 ## Bağlantılar
 
