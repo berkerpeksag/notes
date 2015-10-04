@@ -19,6 +19,7 @@ bu belgede toplayacağım.
 * Bufferlar arasında gezinmek için `Ctrl+6`
 * `dG` will delete from the current line to the end of file
 * To move to end of file just type `G`
+* Type `gq` and use movement chars to fill a line like Emacs
 
 ## Bağlantılar
 

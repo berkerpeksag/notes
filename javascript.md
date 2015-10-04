@@ -79,3 +79,66 @@ literals! So the code above can be simplified further:
 
 * http://www.html5rocks.com/en/tutorials/es6/promises/
 * A simple promise implementation: http://www.mattgreer.org/articles/promises-in-wicked-detail/
+
+
+## Falsy values
+
+* `""`
+* `0`, `-0`, `NaN`
+* `null`, `undefined`
+* `false`
+
+Any value that's not on this "falsy" list is "truthy." Including `[]` and `{}`.
+
+It's important to remember that a non-`boolean` value only follows this
+"truthy"/"falsy" coercion if it's actually coerced to a `boolean`.
+
+**Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#truthy--falsy
+
+
+## The difference between `==` and `===`
+
+The difference between `==` and `===` is usually characterized that `==` checks
+for value equality and `===` checks for both value and type equality. However,
+this is inaccurate. The proper way to characterize them is that `==` checks for
+value equality with coercion allowed, and `===` checks for value equality
+without allowing coercion; `===` is often called "strict equality" for this
+reason.
+
+**Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#equality
+
+
+## When to use `==` and `===`
+
+* If either value (aka side) in a comparison could be the `true` or `false`
+  value, avoid `==` and use `===`.
+* If either value in a comparison could be of these specific values (`0`, `""`,
+  or `[]`), avoid `==` and use `===`.
+* In all other cases, you're safe to use `==`. Not only is it safe, but in many
+  cases it simplifies your code in a way that improves readability.
+
+### ECMA-262 spec
+
+* 11.9.3 The Abstract Equality Comparison Algorithm: http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3
+* 11.9.6 The Strict Equality Comparison Algorithm: http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.6
+
+**Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#equality
+
+
+## Comparing two non-primitive values
+
+You should take special note of the `==` and `===` comparison rules if you're comparing two non-primitive values, like `object`s (including `function` and `array`). Because those values are actually held by reference, both `==` and `===` comparisons will simply check whether the references match, not anything about the underlying values.
+
+For example, `array`s are by default coerced to `string`s by simply joining all the values with commas (`,`) in between. You might think that two `array`s with the same contents would be `==` equal, but they're not:
+
+```js
+var a = [1,2,3];
+var b = [1,2,3];
+var c = "1,2,3";
+
+a == c;  // true
+b == c;  // true
+a == b;  // false
+```
+
+**Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#equality
