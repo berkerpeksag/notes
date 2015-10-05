@@ -18,8 +18,9 @@ bu belgede toplayacağım.
 * Redo: `Ctrl-R`
 * Bufferlar arasında gezinmek için `Ctrl+6`
 * `dG` will delete from the current line to the end of file
-* To move to end of file just type `G`
-* Type `gq` and use movement chars to fill a line like Emacs
+* To go to first line of file, type `gg`
+* To go to end of file, type `G`
+* Type `gq` (and use `move up` or `move down`) to emulate `fill-paragraph`
 
 ## Bağlantılar
 
