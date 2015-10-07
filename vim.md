@@ -21,6 +21,7 @@ bu belgede toplayacağım.
 * To go to first line of file, type `gg`
 * To go to end of file, type `G`
 * Type `gq` (and use `move up` or `move down`) to emulate `fill-paragraph`
+* Duplicate a line: `Y` and `P`
 
 ## Bağlantılar
 
