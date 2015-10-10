@@ -197,7 +197,41 @@ function foo() {
 console.log( a );  // 2
 ```
 
-**Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#hoisting
+### Variable declaration vs. assignment
+
+```js
+var text = 'outside';
+
+function logIt() {
+  console.log(text);
+  var text = 'inside';
+};
+
+logIt();
+```
+
+Variable declarations are "hoisted" to the top of the current scope. Variable
+assignments, however, are not.
+
+The declaration (but not the assignment) of text gets hoisted to the top of
+`logIt()`. So our code gets interpreted as though it were:
+
+```js
+var text = 'outside';
+
+function logIt() {
+  var text;
+  console.log(text);
+  text = 'inside';
+};
+
+logIt();
+```
+
+**References:**
+
+1. https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#hoisting
+2. https://www.interviewcake.com/question/python/js-scope
 
 
 ## `let`
