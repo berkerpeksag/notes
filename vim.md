@@ -22,6 +22,7 @@ bu belgede toplayacağım.
 * To go to end of file, type `G`
 * Type `gq` (and use `move up` or `move down`) to emulate `fill-paragraph`
 * Duplicate a line: `Y` and `P`
+* Go to line: `42G`
 
 ## Bağlantılar
 
