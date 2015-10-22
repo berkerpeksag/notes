@@ -1,5 +1,9 @@
 # JavaScript Notes
 
+JavaScript is a multi-paradigm language, supporting imperative/procedural
+programming along with OOP (Object-Oriented Programming) and functional
+programming. JavaScript supports OOP with prototypal inheritance.
+
 ## `var self = this;` workaround
 
 One reason this question comes up so often is that function functions receive
@@ -406,3 +410,61 @@ is prototype-linked to `foo`, JavaScript automatically falls back to looking
 for a on the `foo` object, where it's found.
 
 **Reference:** https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#prototypes
+
+
+## Functional programming
+
+Functional programming produces programs by composing mathematical functions
+and avoids shared state & mutable data.
+
+* Avoid side-effects
+* Features that support FP: first-class functions, higher order functions,
+  functions as arguments/values.
+
+
+## The difference between classical inheritance and prototypal inheritance
+
+Class Inheritance: instances inherit from classes (like a blueprint — a
+description of the class), and create sub-class relationships: hierarchical
+class taxonomies. Instances are typically instantiated via constructor
+functions with the `new` keyword. Class inheritance may or may not use the
+`class` keyword from ES6.
+
+Prototypal Inheritance: instances inherit directly from other objects.
+Instances are typically instantiated via factory functions or
+`Object.create()`. Instances may be composed from many different objects,
+allowing for easy selective inheritance.
+
+
+## When is prototypal inheritance an appropriate choice?
+
+* Delegation (i.e., the prototype chain).
+* Concatenative (i.e. mixins, `Object.assign()`).
+* Functional (Not to be confused with functional programming. A function used
+  to create a closure for private state/encapsulation).
+
+Each type of prototypal inheritance has its own set of use-cases, but all of
+them are equally useful in their ability to enable composition, which creates
+has-a or uses-a or can-do relationships as opposed to the is-a relationship
+created with class inheritance.
+
+
+## What does “favor composition over class inheritance” mean?
+
+It means that code reuse should be achieved by assembling smaller units of
+functionality into new objects instead of inheriting from classes and creating
+object taxonomies.
+
+In other words, use can-do, has-a, or uses-a relationships instead of is-a
+relationships.
+
+* Avoid class hierarchies.
+* Avoid brittle base class problem.
+* Avoid tight coupling.
+* Avoid rigid taxonomy (forced is-a relationships that are eventually wrong for
+  new use cases).
+* Avoid the gorilla banana problem (“what you wanted was a banana, what you got
+  was a gorilla holding the banana, and the entire jungle”).
+
+
+**Reference:** https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
