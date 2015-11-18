@@ -1,3 +1,7 @@
+# Yanlış Cumhuriyet
+
+*Sevan Nişanyan*
+
 * Kemalist düşüncenin “sol” ve “ilerici” kisvelerini tamamen
   terkederek, toplumsal değişimlerden kuşku duyan, milliyetçi, otoriter,
   askerci, Batı düşmanı bir tepki ideolojisine dönüşmesidir.
