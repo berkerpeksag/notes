@@ -22,7 +22,24 @@
   If you don't trust me, trust Chekhov. He said you can always throw
   away the first three pages of a first draft. I didn't believe him
   till I tried it.
+* [...] writing a short story is very different from writing a novel,
+  but the activities aren’t totally unrelated. Sometimes novels grow
+  from short stories. (See Dreamsnake.) Or the same characters or the
+  same location begin to turn up in different stories, till you have
+  a novel made out of stories (see The Country of the Pointed Firs,
+  or Cloud Atlas).
+* If kind of knowing where you want to go isn’t enough, if you’re
+  really uneasy not knowing every step of the way, then try sketching
+  out a rough story-line. Don’t rush it. Take time over it. Make notes,
+  make other notes. Let ideas arise, and maybe sink again. Think
+  about the story when you’re going to sleep, or even better when
+  you’re waking up. The story needs you to tell it. Don’t worry about
+  its purpose, that will probably look after itself. Be patient with
+  yourself and your story. Trust it to take you where you both want
+  to go.
 
 **References:**
 
 * http://bookviewcafe.com/blog/2015/08/10/navigating-session-1/
+* http://bookviewcafe.com/blog/2015/10/05/navigating-the-ocean-of-story-session-1-part-5/
+* http://bookviewcafe.com/blog/2015/09/21/navigating-the-ocean-of-story-session-1-part-4/
