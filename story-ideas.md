@@ -3,7 +3,7 @@
   yaratığı olarak görme,  evrim teorisi
 * 100.000 yıl(?) daha radyoaktif kalacak Çernobil'in 80.000 yıl sonra başka bir
   uygarlık tarafından bulunması ve *muhteşem* insanlık tarihini keşfetmesi.
-  (Aurora, Dünya)
+* http://www.bbc.com/earth/story/20150818-chimps-living-in-the-stone-age
 
 ---
 
