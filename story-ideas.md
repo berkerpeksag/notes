@@ -4,6 +4,7 @@
 * 100.000 yıl(?) daha radyoaktif kalacak Çernobil'in 80.000 yıl sonra başka bir
   uygarlık tarafından bulunması ve *muhteşem* insanlık tarihini keşfetmesi.
 * http://www.bbc.com/earth/story/20150818-chimps-living-in-the-stone-age
+* https://www.facebook.com/groups/515811491814739/permalink/1073477772714772/
 
 ---
 
