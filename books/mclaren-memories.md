@@ -38,3 +38,27 @@
   "OK guys, today we are going to walk across the Sahara desert," there would
   have been no moaning and complaining. The response would have been, "OK
   Bruce, when do we start? Let's get going..."'
+* The Wigram event (1968) changed the face of racing. Jim Clark's Lotus
+  appeared in the bright new colours of Player's Gold Leaf tobacco.instead of
+  its traditional green with yellow stripe. Commercial sponsorship of motor
+  sport became a reality that weekend.
+* "[...] When I got home I learned the crash had been fatal. I was stunned.
+  Jimmy ranked with, perhaps even outranked, Nuvolari, Fangio and Moss, and
+  I think we all felt that in a way he was invincible. To be killed in an
+  accident with a Formula 2 car on a straight is almost unacceptable. But
+  tragically it's true." (McLaren on Clark's death)
+* '[...] The engine was designed back in 1931 and our drawing office was so
+  proud of their new aluminium monocoque chassis, which finishes just in front
+  of the engine, that there was dark talk of sticking a little sign on the
+  chassis at that point worded *"1970 Stops Here!"*' (McLaren on the
+  Offenhauser engine of the McLaren Indy 500 project)
+* "Unfortunately, my basic caution has stayed with me from those early days,
+  when to shunt the car would have meant the end of my motor racing. I know
+  I am considered to be the perfect Number 2 in a team, the eternal runner-up.
+  That aggravates me. I'd much rather win, of course, but the ability isn't
+  always there. Sometimes it is, sometimes I can do it. I wish I could do it
+  *all* the time, but I have no illusions. I know I can't. Andretti, Stewart
+  and Rindt all seem to be able to faster than I can, most of the time. Denny
+  can go faster than I can. He used not to be able to, he certainly can now. He
+  seems more on form than he used to be. He's just plain better. Jack Brabham
+  is amazing - he has this tramendous ability to put one great lap together."
