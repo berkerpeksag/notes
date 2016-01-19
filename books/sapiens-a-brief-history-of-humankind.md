@@ -1524,3 +1524,1665 @@
   religion and the environment from enslavement to market forces.
 * An empire that cannot sustain a blow and remain standing is not really an
   empire.
+
+Eventually, in 134 BC, Roman patience snapped. The Senate decided to send Scipio
+Aemilianus, Rome’s foremost general and the man who had levelled Carthage, to
+take care of the Numantians. He was given a massive army of more than 30,000
+soldiers. Scipio, who respected the fighting spirit and martial skill of the
+Numantians, preferred not to waste his soldiers in unnecessary combat. Instead,
+he encircled Numantia with a line of fortifications, blocking the town’s contact
+with the outside world. Hunger did his work for him. After more than a year, the
+food supply ran out. When the Numantians realised that all hope was lost, they
+burned down their town; according to Roman accounts, most of them killed
+themselves so as not to become Roman slaves.
+
+Yet Spanish patriots extol the Numantians in Spanish – a romance language that
+is a progeny of Scipio’s Latin. The Numantians spoke a now dead and lost Celtic
+language.
+
+Cervantes wrote The Siege of Numantia in Latin script, and the play follows
+Graeco-Roman artistic models. Numantia had no theatres. Spanish patriots who
+admire Numantian heroism tend also to be loyal followers of the Roman Catholic
+Church – don’t miss that first word – a church whose leader still sits in Rome
+and whose God prefers to be addressed in Latin.
+
+Similarly, modern Spanish law derives from Roman law; Spanish politics is built
+on Roman foundations; and Spanish cuisine and architecture owe a far greater
+debt to Roman legacies than to those of the Celts of Iberia. Nothing is really
+left of Numantia save ruins. Even its story has reached us thanks only to the
+writings of Roman historians. It was tailored to the tastes of Roman audiences
+which relished tales of freedom-loving barbarians. The victory of Rome over
+Numantia was so complete that the victors co-opted the very memory of the
+vanquished.
+
+It should be stressed that an empire is defined solely by its cultural diversity
+and flexible borders, rather than by its origins, its form of government, its
+territorial extent, or the size of its population.
+
+Empires were one of the main reasons for the drastic reduction in human
+diversity. The imperial steamroller gradually obliterated the unique
+characteristics of numerous peoples (such as the Numantians), forging out of
+them new and much larger groups.
+
+In our time, ‘imperialist’ ranks second only to ‘fascist’ in the lexicon of
+political swear words.
+
+The truth is that empire has been the world’s most common form of political
+organisation for the last 2,500 years.
+
+In general, they have been toppled only by external invasion or by a split
+within the ruling elite. Conversely, conquered peoples don’t have a very good
+record of freeing themselves from their imperial overlords.
+
+Building and maintaining an empire usually required the vicious slaughter of
+large populations and the brutal oppression of every-one who was left. The
+standard imperial toolkit included wars, enslavement, deportation and genocide.
+
+When the Romans invaded Scotland in AD 83, they were met by fierce resistance
+from local Caledonian tribes, and reacted by laying waste to the country. In
+reply to Roman peace offers, the chieftain Calgacus called the Romans ‘the
+ruffians of the world’, and said that ‘to plunder, slaughter and robbery they
+give the lying name of empire; they make a desert and call it peace’.
+
+Today most of us speak, think and dream in imperial languages that were forced
+upon our ancestors by the sword. Most East Asians speak and dream in the
+language of the Han Empire. No matter what their origins, nearly all the
+inhabitants of the two American continents, from Alaska’s Barrow Peninsula to
+the Straits of Magellan, communicate in one of four imperial languages: Spanish,
+Portuguese, French or English.
+
+Present-day Egyptians speak Arabic, think of themselves as Arabs, and identify
+wholeheartedly with the Arab Empire that conquered Egypt in the seventh century
+and crushed with an iron fist the repeated revolts that broke out against its
+rule.
+
+About 10 million Zulus in South Africa hark back to the Zulu age of glory in the
+nineteenth century, even though most of them descend from tribes who fought
+against the Zulu Empire, and were incorporated into it only through bloody
+military campaigns.
+
+The first empire about which we have definitive information was the Akkadian
+Empire of Sargon the Great (c.2250 BC).
+
+Sargon boasted that he had conquered the entire world. In reality, his dominion
+stretched from the Persian Gulf to the Mediterranean, and included most of
+today’s Iraq and Syria, along with a few slices of modern Iran and Turkey.
+
+Evolution has made Homo sapiens, like other social mammals, a xenophobic
+creature.
+
+Sapiens instinctively divide humanity into two parts, ‘we’ and ‘they’.
+
+In the language of the Dinka people of the Sudan, ‘Dinka’ simply means
+‘people’. People who are not Dinka are not people. The Dinka’s bitter enemies
+are the Nuer. What does the word Nuer mean in Nuer language? It means ‘original
+people’.  Note: ahahahaha :) Edit Thousands of miles from the Sudan deserts, in
+the frozen ice-lands of Alaska and north-eastern Siberia, live the Yupiks. What
+does Yupik mean in Yupik language? It means ‘real people’.
+
+According to traditional Chinese political theory, Heaven (Tian) is the source
+of all legitimate authority on earth. Heaven chooses the most worthy person or
+family and gives them the Mandate of Heaven. This person or family then rules
+over All Under Heaven (Tianxia) for the benefit of all its inhabitants. Thus, a
+legitimate authority is – by definition – universal.
+
+In Chinese political thinking as well as Chinese historical memory, imperial
+periods were henceforth seen as golden ages of order and justice. In
+contradiction to the modern Western view that a just world is composed of
+separate nation states, in China periods of political fragmentation were seen as
+dark ages of chaos and injustice.
+
+A second and equally important reason why empires actively spread a common
+culture was to gain legitimacy. At least since the days of Cyrus and Qín Shĭ
+Huángdì, empires have justified their actions – whether road-building or
+bloodshed – as necessary to spread a superior culture from which the conquered
+benefit even more than the conquerors.
+
+The Mandate of Heaven was bestowed upon the emperor not in order to exploit the
+world, but in order to educate humanity. The Romans, too, justified their
+dominion by arguing that they were endowing the barbarians with peace, justice
+and refinement.
+
+The Mauryan Empire in the third century BC took as its mission the dissemination
+of Buddha’s teachings to an ignorant world.
+
+The Muslim caliphs received a divine mandate to spread the Prophet’s revelation,
+peacefully if possible but by the sword if necessary.
+
+The Spanish and Portuguese empires proclaimed that it was not riches they sought
+in the Indies and America, but converts to the true faith.
+
+The sun never set on the British mission to spread the twin gospels of
+liberalism and free trade. The Soviets felt duty-bound to facilitate the
+inexorable historical march from capitalism towards the utopian dictatorship of
+the proletariat.
+
+Many Americans nowadays maintain that their government has a moral imperative to
+bring Third World countries the benefits of democracy and human rights, even if
+these goods are delivered by cruise missiles and F-16s.
+
+The imperial culture of Rome was Greek almost as much as Roman. The imperial
+Abbasid culture was part Persian, part Greek, part Arab. Imperial Mongol culture
+was a Chinese copycat. In the imperial United States, an American president of
+Kenyan blood can munch on Italian pizza while watching his favourite film,
+Lawrence of Arabia, a British epic about the Arab rebellion against the Turks.
+
+Worse still, even when subject peoples were successful in adopting the imperial
+culture, it could take decades, if not centuries, until the imperial elite
+accepted them as part of ‘us’. The generations between conquest and acceptance
+were left out in the cold. They had already lost their beloved local culture,
+but they were not allowed to take an equal part in the imperial world.
+
+He himself wears Roman tunics and, thanks to his success as a cattle merchant,
+due in no small part to his expertise in the intricacies of Roman commercial
+law, he has been able to build a Roman-style villa. Yet, even though he can
+recite Book III of Virgil’s Georgics by heart, the Romans still treat him as
+though he’s semi-barbarian.
+
+In some cases the processes of acculturation and assimilation eventually broke
+down the barriers between the newcomers and the old elite.
+
+All the subjects of Rome eventually, after centuries of imperial rule, were
+granted Roman citizenship. Non-Romans rose to occupy the top ranks in the
+officer corps of the Roman legions and were appointed to the Senate.
+
+In AD 48 the emperor Claudius admitted to the Senate several Gallic notables,
+who, he noted in a speech, through ‘customs, culture, and the ties of marriage
+have blended with ourselves’.
+
+Snobbish senators protested introducing these former enemies into the heart of
+the Roman political system. Claudius reminded them of an inconvenient
+truth. Most of their own senatorial families descended from Italian tribes who
+once fought against Rome, and were later granted Roman citizenship. Indeed, the
+emperor reminded them, his own family was of Sabine ancestry.5
+
+Emperor Septimius Severus (193–211) was the scion of a Punic family from
+Libya. Elagabalus (218–22) was a Syrian. Emperor Philip (244–9) was known
+colloquially as ‘Philip the Arab’. The empire’s new citizens adopted Roman
+imperial culture with such zest that, for centuries and even millennia after the
+empire itself collapsed, they continued to speak the empire’s language, to
+believe in the Christian God that the empire had adopted from one of its
+Levantine provinces, and to live by the empire’s laws.
+
+A similar process occurred in the Arab Empire. When it was established in the
+mid-seventh century AD, it was based on a sharp division between the ruling
+Arab–Muslim elite and the subjugated Egyptians, Syrians, Iranians and Berbers,
+who were neither Arabs nor Muslim.
+
+Many of the empire’s subjects gradually adopted the Muslim faith, the Arabic
+language and a hybrid imperial culture.
+
+Eventually they got their way. Egyptians, Syrians and Mesopotamians were
+increasingly seen as ‘Arabs’. Arabs, in their turn – whether ‘authentic’ Arabs
+from Arabia or newly minted Arabs from Egypt and Syria – came to be increasingly
+dominated by non-Arab Muslims, in particular by Iranians, Turks and Berbers.
+
+The great success of the Arab imperial project was that the imperial culture it
+created was wholeheartedly adopted by numerous non-Arab people, who continued to
+uphold it, develop it and spread it – even after the original empire collapsed
+and the Arabs as an ethnic group lost their dominion.
+
+For the vast majority of empires were founded on blood, and maintained their
+power through oppression and war. Yet most of today’s cultures are based on
+imperial legacies. If empires are by definition bad, what does that say about
+us?
+
+Whatever path we take, the first step is to acknowledge the complexity of the
+dilemma and to accept that simplistically dividing the past into good guys and
+bad guys leads nowhere. Unless, of course, we are willing to admit that we
+usually follow the lead of the bad guys.
+
+As of 2014, the world is still politically fragmented, but states are fast
+losing their independence. Not one of them is really able to execute independent
+economic policies, to declare and wage wars as it pleases, or even to run its
+own internal affairs as it sees fit.
+
+Today religion is often considered a source of discrimination, disagreement and
+disunion. Yet, in fact, religion has been the third great unifier of humankind,
+alongside money and empires.
+
+Since all social orders and hierarchies are imagined, they are all fragile, and
+the larger the society, the more fragile it is.
+
+Religion can thus be defined as a system of human norms and values that is
+founded on a belief in a superhuman order.
+
+Religions hold that there is a superhuman order, which is not the product of
+human whims or agreements.
+
+As far as we know, universal and missionary religions began to appear only in
+the first millennium BC.
+
+the first religious effect of the Agricultural Revolution was to turn plants and
+animals from equal members of a spiritual round table into property.
+
+As long as people lived their entire lives within limited territories of a few
+hundred square miles, most of their needs could be met by local spirits. But
+once kingdoms and trade networks expanded, people needed to contact entities
+whose power and authority encompassed a whole kingdom or an entire trade basin.
+
+Animists thought that humans were just one of many creatures inhabiting the
+world. Polytheists, on the other hand, increasingly saw the world as a
+reflection of the relationship between gods and humans.
+
+Polytheism does not necessarily dispute the existence of a single power or law
+governing the entire universe. In fact, most polytheist and even animist
+religions recognised such a supreme power that stands behind all the different
+gods, demons and holy rocks.
+
+The fundamental insight of polytheism, which distinguishes it from monotheism,
+is that the supreme power governing the world is devoid of interests and biases,
+and therefore it is unconcerned with the mundane desires, cares and worries of
+humans.
+
+Polytheism is inherently open-minded, and rarely persecutes ‘heretics’ and
+‘infidels’.
+
+Even when polytheists conquered huge empires, they did not try to convert their
+subjects. The Egyptians, the Romans and the Aztecs did not send missionaries to
+foreign lands to spread the worship of Osiris, Jupiter or Huitzilopochtli (the
+chief Aztec god), and they certainly didn’t dispatch armies for that purpose.
+
+In the Aztec Empire, subject peoples were obliged to build temples for
+Huitzilopochtli, but these temples were built alongside those of local gods,
+rather than in their stead.
+
+In many cases the imperial elite itself adopted the gods and rituals of subject
+people. The Romans happily added the Asian goddess Cybele and the Egyptian
+goddess Isis to their pantheon.
+
+The only god that the Romans long refused to tolerate was the monotheistic and
+evangelising god of the Christians.
+
+The Roman Empire did not require the Christians to give up their beliefs and
+rituals, but it did expect them to pay respect to the empire’s protector gods
+and to the divinity of the emperor.
+
+When the Christians vehemently refused to do so, and went on to reject all
+attempts at compromise, the Romans reacted by persecuting what they understood
+to be a politically subversive faction.
+
+In the 300 years from the crucifixion of Christ to the conversion of Emperor
+Constantine, polytheistic Roman emperors initiated no more than four general
+persecutions of Christians.
+
+Still, if we combine all the victims of all these persecutions, it turns out
+that in these three centuries, the polytheistic Romans killed no more than a few
+thousand Christians.1
+
+In contrast, over the course of the next 1,500 years, Christians slaughtered
+Christians by the millions to defend slightly different interpretations of the
+religion of love and compassion.
+
+Protestants believed that the divine love is so great that God was incarnated in
+flesh and allowed Himself to be tortured and crucified, thereby redeeming the
+original sin and opening the gates of heaven to all those who professed faith in
+Him. Catholics maintained that faith, while essential, was not enough. To enter
+heaven, believers had to participate in church rituals and do good deeds.
+
+These theological disputes turned so violent that during the sixteenth and
+seventeenth centuries, Catholics and Protestants killed each other by the
+hundreds of thousands.
+
+On 23 August 1572, French Catholics who stressed the importance of good deeds
+attacked communities of French Protestants who highlighted God’s love for
+humankind. In this attack, the St Bartholomew’s Day Massacre, between 5,000 and
+10,000 Protestants were slaughtered in less than twenty-four hours.
+
+When the pope in Rome heard the news from France, he was so overcome by joy that
+he organised festive prayers to celebrate the occasion and commissioned Giorgio
+Vasari to decorate one of the Vatican’s rooms with a fresco of the massacre (the
+room is currently off-limits to visitors).
+
+The first monotheist religion known to us appeared in Egypt, c.1350 BC, when
+Pharaoh Akhenaten declared that one of the minor deities of the Egyptian
+pantheon, the god Aten, was, in fact, the supreme power ruling the universe.
+
+The big breakthrough came with Christianity. This faith began as an esoteric
+Jewish sect that sought to convince Jews that Jesus of Nazareth was their
+long-awaited messiah. However, one of the sect’s first leaders, Paul of Tarsus,
+reasoned that if the supreme power of the universe has interests and biases, and
+if He had bothered to incarnate Himself in the flesh and to die on the cross for
+the salvation of humankind, then this is something everyone should hear about,
+not just Jews.
+
+In one of history’s strangest twists, this esoteric Jewish sect took over the
+mighty Roman Empire.
+
+Christian success served as a model for another monotheist religion that
+appeared in the Arabian peninsula in the seventh century – Islam.
+
+Like Christianity, Islam, too, began as a small sect in a remote corner of the
+world, but in an even stranger and swifter historical surprise it managed to
+break out of the deserts of Arabia and conquer an immense empire stretching from
+the Atlantic Ocean to India.
+
+Monotheists have tended to be far more fanatical and missionary than
+polytheists. A religion that recognises the legitimacy of other faiths implies
+either that its god is not the supreme power of the universe, or that it
+received from God just part of the universal truth.
+
+At the beginning of the first century AD, there were hardly any monotheists in
+the world. Around AD 500, one of the world’s largest empires – the Roman Empire
+– was a Christian polity, and missionaries were busy spreading Christianity to
+other parts of Europe, Asia and Africa.
+
+By the end of the first millennium AD, most people in Europe, West Asia and
+North Africa were monotheists, and empires from the Atlantic Ocean to the
+Himalayas claimed to be ordained by the single great God.
+
+By the early sixteenth century, monotheism dominated most of Afro-Asia, with the
+exception of East Asia and the southern parts of Africa, and it began extending
+long tentacles towards South Africa, America and Oceania.
+
+Today most people outside East Asia adhere to one monotheist religion or
+another, and the global political order is built on monotheistic foundations.
+
+Just as the god Jupiter defended Rome and Huitzilopochtli protected the Aztec
+Empire, so every Christian kingdom had its own patron saint who helped it
+overcome difficulties and win wars. England was protected by St George, Scotland
+by St Andrew, Hungary by St Stephen, and France had St Martin.
+
+Cities and towns, professions, and even diseases – each had their own saint. The
+city of Milan had St Ambrose, while St Mark watched over Venice. St Florian
+protected chimney cleaners, whereas St Mathew lent a hand to tax collectors in
+distress. If you suffered from headaches you had to pray to St Agathius, but if
+from toothaches, then St Apollonia was a much better audience.
+
+The Christian saints did not merely resemble the old polytheistic gods. Often
+they were these very same gods in disguise.
+
+For example, the chief goddess of Celtic Ireland prior to the coming of
+Christianity was Brigid. When Ireland was Christianised, Brigid too was
+baptised. She became St Brigit, who to this day is the most revered saint in
+Catholic Ireland.
+
+Dualistic religions espouse the existence of two opposing powers: good and
+evil. Unlike monotheism, dualism believes that evil is an independent power,
+neither created by the good God, nor subordinate to it.
+
+Dualism explains that the entire universe is a battleground between these two
+forces, and that everything that happens in the world is part of the struggle.
+
+Monotheists have to practise intellectual gymnastics to explain how an
+all-knowing, all-powerful and perfectly good God allows so much suffering in the
+world.
+
+One well-known explanation is that this is God’s way of allowing for human free
+will.
+
+Freedom of will allows humans to choose evil. Many indeed choose evil and,
+according to the standard monotheist account, this choice must bring divine
+punishment in its wake.
+
+If God knew in advance that a particular person would use her free will to
+choose evil, and that as a result she would be punished for this by eternal
+tortures in hell, why did God create her?
+
+For dualists, it’s easy to explain evil. Bad things happen even to good people
+because the world is not governed single-handedly by a good God.
+
+Dualism has its own drawbacks. While solving the Problem of Evil, it is unnerved
+by the Problem of Order. If the world was created by a single God, it’s clear
+why it is such an orderly place, where everything obeys the same laws. But if
+Good and Evil battle for control of the world, who enforces the laws governing
+this cosmic war?
+
+A missile launched from Pakistan can hit targets in India because gravity works
+the same way in both countries. When Good and Evil fight, what common laws do
+they obey, and who decreed these laws?
+
+So, monotheism explains order, but is mystified by evil. Dualism explains evil,
+but is puzzled by order. There is one logical way of solving the riddle: to
+argue that there is a single omnipotent God who created the entire universe –
+and He’s evil. But nobody in history has had the stomach for such a belief.
+
+Dualistic religions flourished for more than a thousand years. Sometime between
+1500 BC and 1000 BC a prophet named Zoroaster (Zarathustra) was active somewhere
+in Central Asia.
+
+His creed passed from generation to generation until it became the most
+important of dualistic religions – Zoroastrianism. Zoroastrians saw the world as
+a cosmic battle between the good god Ahura Mazda and the evil god Angra Mainyu.
+
+Zoroastrianism was an important religion during the Achaemenid Persian Empire
+(550–330 BC) and later became the official religion of the Sassanid Persian
+Empire (AD 224–651). It exerted a major influence on almost all subsequent
+Middle Eastern and Central Asian religions, and it inspired a number of other
+dualist religions, such as Gnosticism and Manichaeanism.
+
+During the third and fourth centuries AD, the Manichaean creed spread from China
+to North Africa, and for a moment it appeared that it would beat Christianity to
+achieve dominance in the Roman Empire.
+
+Yet the Manichaeans lost the soul of Rome to the Christians, the Zoroastrian
+Sassanid Empire was overrun by the monotheistic Muslims, and the dualist wave
+subsided. Today only a handful of dualist communities survive in India and the
+Middle East.
+
+Nevertheless, the rising tide of monotheism did not really wipe out
+dualism. Jewish, Christian and Muslim monotheism absorbed numerous dualist
+beliefs and practices, and some of the most basic ideas of what we call
+‘monotheism’ are, in fact, dualist in origin and spirit.
+
+Countless Christians, Muslims and Jews believe in a powerful evil force – like
+the one Christians call the Devil or Satan – who can act independently, fight
+against the good God, and wreak havoc without God’s permission.
+
+How can a monotheist adhere to such a dualistic belief (which, by the way, is
+nowhere to be found in the Old Testament)? Logically, it is impossible. Either
+you believe in a single omnipotent God or you believe in two opposing powers,
+neither of which is omnipotent.
+
+Still, humans have a wonderful capacity to believe in contradictions.
+
+So it should not come as a surprise that millions of pious Christians, Muslims
+and Jews manage to believe at one and the same time in an omnipotent God and an
+independent Devil.
+
+Countless Christians, Muslims and Jews have gone so far as to imagine that the
+good God even needs our help in its struggle against the Devil, which inspired
+among other things the call for jihads and crusades.
+
+Another key dualistic concept, particularly in Gnosticism and Manichaeanism, was
+the sharp distinction between body and soul, between matter and spirit.
+
+Gnostics and Manichaeans argued that the good god created the spirit and the
+soul, whereas matter and bodies are the creation of the evil god. Man, according
+to this view, serves as a battleground between the good soul and the evil body.
+
+From a monotheistic perspective, this is nonsense – why distinguish so sharply
+between body and soul, or matter and spirit? And why argue that body and matter
+are evil? After all, everything was created by the same good God.
+
+So such oppositions eventually became cornerstones of Christian and Muslim
+thought. Belief in heaven (the realm of the good god) and hell (the realm of the
+evil god) was also dualist in origin.
+
+There is no trace of this belief in the Old Testament, which also never claims
+that the souls of people continue to live after the death of the body.
+
+In fact, monotheism, as it has played out in history, is a kaleidoscope of
+monotheist, dualist, polytheist and animist legacies, jumbling together under a
+single divine umbrella.
+
+The average Christian believes in the monotheist God, but also in the dualist
+Devil, in polytheist saints, and in animist ghosts.
+
+Scholars of religion have a name for this simultaneous avowal of different and
+even contradictory ideas and the combination of rituals and practices taken from
+different sources. It’s called syncretism. Syncretism might, in fact, be the
+single great world religion.
+
+During the first millennium BC, religions of an altogether new kind began to
+spread through Afro-Asia. The newcomers, such as Jainism and Buddhism in India,
+Daoism and Confucianism in China, and Stoicism, Cynicism and Epicureanism in the
+Mediterranean basin, were characterised by their disregard of gods.
+
+Some of these natural-law religions continued to espouse the existence of gods,
+but their gods were subject to the laws of nature no less than humans, animals
+and plants were.
+
+The central figure of Buddhism is not a god but a human being, Siddhartha
+Gautama. According to Buddhist tradition, Gautama was heir to a small Himalayan
+kingdom, sometime around 500 BC.
+
+At the age of twenty-nine Gautama slipped away from his palace in the middle of
+the night, leaving behind his family and possessions. He travelled as a homeless
+vagabond throughout northern India, searching for a way out of suffering.
+
+He spent six years meditating on the essence, causes and cures for human
+anguish. In the end he came to the realisation that suffering is not caused by
+ill fortune, by social injustice, or by divine whims. Rather, suffering is
+caused by the behaviour patterns of one’s own mind.
+
+When the mind experiences something distasteful it craves to be rid of the
+irritation. When the mind experiences something pleasant, it craves that the
+pleasure will remain and will intensify. Therefore, the mind is always
+dissatisfied and restless.
+
+But how do you get the mind to accept things as they are, without craving? To
+accept sadness as sadness, joy as joy, pain as pain? Gautama developed a set of
+meditation techniques that train the mind to experience reality as it is,
+without craving.
+
+According to Buddhist tradition, Gautama himself attained nirvana and was fully
+liberated from suffering. Henceforth he was known as ‘Buddha’, which means ‘The
+Enlightened One’. Buddha spent the rest of his life explaining his discoveries
+to others so that everyone could be freed from suffering.
+
+He encapsulated his teachings in a single law: suffering arises from craving;
+the only way to be fully liberated from suffering is to be fully liberated from
+craving; and the only way to be liberated from craving is to train the mind to
+experience reality as it is. This law, known as dharma or dhamma, is seen by
+Buddhists as a universal law of nature.
+
+Buddhists are people who believe in this law and make it the fulcrum of all
+their activities. Belief in gods, on the other hand, is of minor importance to
+them.
+
+The first principle of monotheist religions is ‘God exists. What does He want
+from me?’ The first principle of Buddhism is ‘Suffering exists. How do I escape
+it?’
+
+Buddhism told people that they should aim for the ultimate goal of complete
+liberation from suffering, rather than for stops along the way such as economic
+prosperity and political power.
+
+However, 99 per cent of Buddhists did not attain nirvana, and even if they hoped
+to do so in some future lifetime, they devoted most of their present lives to
+the pursuit of mundane achievements. So they continued to worship various gods,
+such as the Hindu gods in India, the Bon gods in Tibet, and the Shinto gods in
+Japan.
+
+Moreover, as time went by several Buddhist sects developed pantheons of Buddhas
+and bodhisattvas. These are human and non-human beings with the capacity to
+achieve full liberation from suffering but who forego this liberation out of
+compassion, in order to help the countless beings still trapped in the cycle of
+misery.
+
+Instead of worshipping gods, many Buddhists began worshipping these enlightened
+beings, asking them for help not only in attaining nirvana, but also in dealing
+with mundane problems.
+
+The last 300 years are often depicted as an age of growing secularism, in which
+religions have increasingly lost their importance. If we are talking about
+theist religions, this is largely correct.
+
+But if we take into consideration natural-law religions, then modernity turns
+out to be an age of intense religious fervour, unparalleled missionary efforts,
+and the bloodiest wars of religion in history.
+
+The modern age has witnessed the rise of a number of new natural-law religions,
+such as liberalism, Communism, capitalism, nationalism and Nazism.
+
+Just as a Buddhist could worship Hindu deities, and just as a monotheist could
+believe in the existence of Satan, so the typical American nowadays is
+simultaneously a nationalist (she believes in the existence of an American
+nation with a special role to play in history), a free-market capitalist (she
+believes that open competition and the pursuit of self-interest are the best
+ways to create a prosperous society), and a liberal humanist (she believes that
+humans have been endowed by their creator with certain inalienable rights).
+
+Humanism is a belief that Homo sapiens has a unique and sacred nature, which is
+fundamentally different from the nature of all other animals and of all other
+phenomena.
+
+Humanists believe that the unique nature of Homo sapiens is the most important
+thing in the world, and it determines the meaning of everything that happens in
+the universe.
+
+The supreme good is the good of Homo sapiens. The rest of the world and all
+other beings exist solely for the benefit of this species.
+
+All humanists worship humanity, but they do not agree on its definition.
+
+Today, the most important humanist sect is liberal humanism, which believes that
+‘humanity’ is a quality of individual humans, and that the liberty of
+individuals is therefore sacrosanct.
+
+According to liberals, the sacred nature of humanity resides within each and
+every individual Homo sapiens. The inner core of individual humans gives meaning
+to the world, and is the source for all ethical and political authority.
+
+If we encounter an ethical or political dilemma, we should look inside and
+listen to our inner voice – the voice of humanity.
+
+The chief commandments of liberal humanism are meant to protect the liberty of
+this inner voice against intrusion or harm. These commandments are collectively
+known as ‘human rights’.
+
+Attending gruesome executions was a favourite pastime for Londoners and
+Parisians in the era of Shakespeare and Molière. In today’s Europe, murder is
+seen as a violation of the sacred nature of humanity. In order to restore order,
+present-day Europeans do not torture and execute criminals.
+
+Even though liberal humanism sanctifies humans, it does not deny the existence
+of God, and is, in fact, founded on monotheist beliefs. The liberal belief in
+the free and sacred nature of each individual is a direct legacy of the
+traditional Christian belief in free and eternal individual souls.
+
+Without recourse to eternal souls and a Creator God, it becomes embarrassingly
+difficult for liberals to explain what is so special about individual Sapiens.
+
+Another important sect is socialist humanism. Socialists believe that ‘humanity’
+is collective rather than individualistic. They hold as sacred not the inner
+voice of each individual, but the species Homo sapiens as a whole.
+
+Whereas liberal humanism seeks as much freedom as possible for individual
+humans, socialist humanism seeks equality between all humans.
+
+According to socialists, inequality is the worst blasphemy against the sanctity
+of humanity, because it privileges peripheral qualities of humans over their
+universal essence.
+
+Like liberal humanism, socialist humanism is built on monotheist
+foundations. The idea that all humans are equal is a revamped version of the
+monotheist conviction that all souls are equal before God.
+
+The only humanist sect that has actually broken loose from traditional
+monotheism is evolutionary humanism, whose most famous representatives are the
+Nazis. What distinguished the Nazis from other humanist sects was a different
+definition of ‘humanity’, one deeply influenced by the theory of evolution.
+
+In contrast to other humanists, the Nazis believed that humankind is not
+something universal and eternal, but rather a mutable species that can evolve or
+degenerate. Man can evolve into superman, or degenerate into a subhuman.
+
+The main ambition of the Nazis was to protect humankind from degeneration and
+encourage its progressive evolution. This is why the Nazis said that the Aryan
+race, the most advanced form of humanity, had to be protected and fostered,
+while degenerate kinds of Homo sapiens like Jews, Roma, homosexuals and the
+mentally ill had to be quarantined and even exterminated.
+
+Biologists have since debunked Nazi racial theory. In particular, genetic
+research conducted after 1945 has demonstrated that the differences between the
+various human lineages are far smaller than the Nazis postulated.
+
+Given the state of scientific knowledge in 1933, Nazi beliefs were hardly
+outside the pale. The existence of different human races, the superiority of the
+white race, and the need to protect and cultivate this superior race were widely
+held beliefs among most Western elites.
+
+At the dawn of the third millennium, the future of evolutionary humanism is
+unclear. For sixty years after the end of the war against Hitler it was taboo to
+link humanism with evolution and to advocate using biological methods to
+‘upgrade’ Homo sapiens.
+
+At the same time, a huge gulf is opening between the tenets of liberal humanism
+and the latest findings of the life sciences, a gulf we cannot ignore much
+longer.
+
+Our liberal political and judicial systems are founded on the belief that every
+individual has a sacred inner nature, indivisible and immutable, which gives
+meaning to the world, and which is the source of all ethical and political
+authority.
+
+Yet over the last 200 years, the life sciences have thoroughly undermined this
+belief. Scientists studying the inner workings of the human organism have found
+no soul there. They increasingly argue that human behaviour is determined by
+hormones, genes and synapses, rather than by free will – the same forces that
+determine the behaviour of chimpanzees, wolves, and ants.
+
+When Constantine assumed the throne in 306, Christianity was little more than an
+esoteric Eastern sect. If you were to suggest then that it was about to become
+the Roman state religion, you’d have been laughed out of the room just as you
+would be today if you were to suggest that by the year 2050 Hare Krishna would
+be the state religion of the USA.
+
+Indeed, had the Byzantine army been able to repel the initial onslaught, Islam
+would probably have remained an obscure cult of which only a handful of
+cognoscenti were aware.
+
+Scholars would then have a very easy job explaining why a faith based on a
+revelation to a middle-aged Meccan merchant could never have caught on.
+
+To acknowledge that history is not deterministic is to acknowledge that it is
+just a coincidence that most people today believe in nationalism, capitalism and
+human rights.
+
+Chaotic systems come in two shapes. Level one chaos is chaos that does not react
+to predictions about it. The weather, for example, is a level one chaotic
+system. Though it is influenced by myriad factors, we can build computer models
+that take more and more of them into consideration, and produce better and
+better weather forecasts.
+
+Level two chaos is chaos that reacts to predictions about it, and therefore can
+never be predicted accurately. Markets, for example, are a level two chaotic
+system. What will happen if we develop a computer program that forecasts with
+100 per cent accuracy the price of oil tomorrow? The price of oil will
+immediately react to the forecast, which would consequently fail to materialise.
+
+It may well be that we’d all be better off if Christianity and Islam had been
+forgotten or defeated.
+
+When Pakistan buys advanced aeroplanes, India responds in kind. When India
+develops nuclear bombs, Pakistan follows suit. When Pakistan enlarges its navy,
+India counters. At the end of the process, the balance of power may remain much
+as it was, but meanwhile billions of dollars that could have been invested in
+education or health are spent on weapons.
+
+Around AD 1500, history made its most momentous choice, changing not only the
+fate of humankind, but arguably the fate of all life on earth. We call it the
+Scientific Revolution. It began in western Europe, a large peninsula on the
+western tip of Afro-Asia, which up till then played no important role in
+history.
+
+In the year 1500, there were about 500 million Homo sapiens in the entire
+world. Today, there are 7 billion.1
+
+The total value of goods and services produced by humankind in the year 1500 is
+estimated at $250 billion, in today’s dollars.2 Nowadays the value of a year of
+human production is close to $60 trillion.3
+
+Prior to the sixteenth century, no human had circumnavigated the earth. This
+changed in 1522, when Magellan’s expedition returned to Spain after a journey of
+44,000 miles. It took three years and cost the lives of almost all the crew
+members, Magellan included.
+
+In 1873, Jules Verne could imagine that Phileas Fogg, a wealthy British
+adventurer, might just be able to make it around the world in eighty days. Today
+anyone with a middle-class income can safely and easily circumnavigate the globe
+in just forty-eight hours.
+
+During the previous 4 billion years of evolution, no organism managed even to
+leave the earth’s atmosphere, and certainly none left a foot or tentacle print
+on the moon.
+
+For most of history, humans knew nothing about 99.99 per cent of the organisms
+on the planet – namely, the microorganisms.
+
+They are our best friends, and deadliest enemies. Some of them digest our food
+and clean our guts, while others cause illnesses and epidemics.
+
+Yet it was only in 1674 that a human eye first saw a microorganism, when Anton
+van Leeuwenhoek took a peek through his home-made microscope and was startled to
+see an entire world of tiny creatures milling about in a drop of water.
+
+But the single most remarkable and defining moment of the past 500 years came at
+05:29:45 on 16 July 1945. At that precise second, American scientists detonated
+the first atomic bomb at Alamogordo, New Mexico. From that point onward,
+humankind had the capability not only to change the course of history, but to
+end it.
+
+Modern science is based on the Latin injunction ignoramus – ‘we do not know’. It
+assumes that we don’t know everything. Even more critically, it accepts that the
+things that we think we know could be proven wrong as we gain more knowledge. No
+concept, idea or theory is sacred and beyond challenge.
+
+The great discovery that launched the Scientific Revolution was the discovery
+that humans do not know the answers to their most important questions.
+
+Premodern traditions of knowledge such as Islam, Christianity, Buddhism and
+Confucianism asserted that everything that is important to know about the world
+was already known.
+
+Even science itself has to rely on religious and ideological beliefs to justify
+and finance its research.
+
+In 1687, Isaac Newton published The Mathematical Principles of Natural
+Philosophy, arguably the most important book in modern history.
+
+The greatness of Newton’s theory was its ability to explain and predict the
+movements of all bodies in the universe, from falling apples to shooting stars,
+using three very simple mathematical laws:
+
+In medieval Europe, logic, grammar and rhetoric formed the educational core,
+while the teaching of mathematics seldom went beyond simple arithmetic and
+geometry.
+
+In 1620 Francis Bacon published a scientific manifesto titled The New
+Instrument. In it he argued that ‘knowledge is power’. The real test of
+‘knowledge’ is not whether it is true, but whether it empowers us.
+
+In fact, the relationship between science and technology is a very recent
+phenomenon. Prior to 1500, science and technology were totally separate fields.
+
+A good historian can find precedent for everything.
+
+Here and there people did develop new technologies, but these were usually
+created by uneducated craftsmen using trial and error, not by scholars pursuing
+systematic scientific research.
+
+The world’s military forces initiate, fund and steer a large part of humanity’s
+scientific research and technological development.
+
+The most important military invention in the history of China was gunpowder. Yet
+to the best of our knowledge, gunpowder was invented accidentally, by Daoist
+alchemists searching for the elixir of life.
+
+The Napoleonic military machine that crushed the armies of the European powers
+at Austerlitz (1805) was armed with more or less the same weaponry that the army
+of Louis XVI had used.
+
+The story of the Tower of Babel, the story of Icarus, the story of the Golem and
+countless other myths taught people that any attempt to go beyond human
+limitations would inevitably lead to disappointment and disaster.
+
+According to the New Testament, shortly before the crucifixion a woman anointed
+Christ with precious oil worth 300 denarii. Jesus’ disciples scolded the woman
+for wasting such a huge sum of money instead of giving it to the poor, but Jesus
+defended her, saying that ‘The poor you will always have with you, and you can
+help them any time you want. But you will not always have me’ (Mark 14:7).
+
+In fact, in many societies more people are in danger of dying from obesity than
+from starvation.
+
+The best minds were busy giving meaning to death, not trying to escape it.
+
+For men of science, death is not an inevitable destiny, but merely a technical
+problem. People die not because the gods decreed it, but due to various
+technical failures – a heart attack, cancer, an infection.
+
+In 1199, King Richard the Lionheart was struck by an arrow in his left
+shoulder. Today we’d say he incurred a minor injury. But in 1199, in the absence
+of antibiotics and effective sterilisation methods, this minor flesh wound
+turned infected and gangrene set in.
+
+As recently as the nineteenth century, the best doctors still did not know how
+to prevent infection and stop the putrefaction of tissues. In field hospitals
+doctors routinely cut off the hands and legs of soldiers who received even minor
+limb injuries, fearing gangrene.
+
+The first anaesthetics – ether, chloroform and morphine – entered regular usage
+in Western medicine only in the middle of the nineteenth century.
+
+On the morning after the battle of Waterloo (1815), heaps of sawn-off hands and
+legs could be seen adjacent to the field hospitals. In those days, carpenters
+and butchers who enlisted to the army were often sent to serve in the medical
+corps, because surgery required little more than knowing your way with knives
+and saws.
+
+The average life expectancy jumped from around twenty-five to forty years, to
+around sixty-seven in the entire world, and to around eighty years in the
+developed world.8
+
+Until the twentieth century, between a quarter and a third of the children of
+agricultural societies never reached adulthood.
+
+In seventeenth-century England, 150 out of every 1,000 newborns died during
+their first year, and a third of all children were dead before they reached
+fifteen.9
+
+Today, only five out of 1,000 English babies die during their first year, and
+only seven out of 1,000 die before age fifteen.10
+
+A good example is the family of King Edward I of England (1237–1307) and his
+wife, Queen Eleanor (1241–90). Their children enjoyed the best conditions and
+the most nurturing surroundings that could be provided in medieval Europe. They
+lived in palaces, ate as much food as they liked, had plenty of warm clothing,
+well-stocked fireplaces, the cleanest water available, an army of servants and
+the best doctors. The sources mention sixteen children that Queen Eleanor bore
+between 1255 and 1284:
+
+In other words, it took Eleanor sixteen tries to carry out the most fundamental
+mission of an English queen – to provide her husband with a male heir.
+
+Nevertheless, ten out of the sixteen – 62 per cent – died during childhood. Only
+six managed to live beyond the age of eleven, and only three – just 18 per cent
+– lived beyond the age of forty. In addition to these births, Eleanor most
+likely had a number of pregnancies that ended in miscarriage.
+
+A few serious scholars suggest that by 2050, some humans will become a-mortal
+(not immortal, because they could still die of some accident, but a-mortal,
+meaning that in the absence of fatal trauma their lives could be extended
+indefinitely).
+
+The only modern ideology that still awards death a central role is
+
+nationalism.
+
+Most scientific studies are funded because somebody believes they can help
+attain some political, economic or religious goal.
+
+At the time, ships that set sail to distant shores knew that more than half
+their crew members would die on the journey. The nemesis was not angry natives,
+enemy warships or homesickness. It was a mysterious ailment called scurvy. Men
+who came down with the disease grew lethargic and depressed, and their gums and
+other soft tissues bled.
+
+Between the sixteenth and eighteenth centuries, scurvy is estimated to have
+claimed the lives of about 2 million sailors.
+
+The turning point came in 1747, when a British physician, James Lind, conducted
+a controlled experiment on sailors who suffered from the disease.
+
+One of the test groups was instructed to eat citrus fruits, a common folk remedy
+for scurvy. The patients in this group promptly recovered. Lind did not know
+what the citrus fruits had that the sailors’ bodies lacked, but we now know that
+it is vitamin C.
+
+Cook claimed for Britain many of the islands and lands he ‘discovered’, most
+notably Australia. The Cook expedition laid the foundation for the British
+occupation of the south-western Pacific Ocean; for the conquest of Australia,
+Tasmania and New Zealand; for the settlement of millions of Europeans in the new
+colonies; and for the extermination of their native cultures and most of their
+native populations.2
+
+The native population dropped by up to 90 per cent and the survivors were
+subjected to a harsh regime of racial oppression. For the Aborigines of
+Australia and the Maoris of New Zealand, the Cook expedition was the beginning
+of a catastrophe from which they have never recovered.
+
+An even worse fate befell the natives of Tasmania. Having survived for 10,000
+years in splendid isolation, they were completely wiped out, to the last man,
+woman and child, within a century of Cook’s arrival.
+
+Even the Roman Empire – the only important premodern European empire – derived
+most of its wealth from its North African, Balkan and Middle Eastern provinces.
+
+The early modern era was a golden age for the Ottoman Empire in the
+Mediterranean, the Safavid Empire in Persia, the Mughal Empire in India, and the
+Chinese Ming and Qing dynasties.
+
+The global centre of power shifted to Europe only between 1750 and 1850, when
+Europeans humiliated the Asian powers in a series of wars and conquered large
+parts of Asia.
+
+By 1900 Europeans firmly controlled the world’s economy and most of its
+territory. In 1950 western Europe and the United States together accounted for
+more than half of global production, whereas China’s portion had been reduced to
+5 per cent.4
+
+Today all humans are, to a much greater extent than they usually want to admit,
+European in dress, thought and taste.
+
+The world’s first commercial railroad opened for business in 1830, in
+Britain. By 1850, Western nations were criss-crossed by almost 25,000 miles of
+railroads – but in the whole of Asia, Africa and Latin America there were only
+2,500 miles of tracks.
+
+In 1880, the West boasted more than 220,000 miles of railroads, whereas in the
+rest of the world there were but 22,000 miles of train lines (and most of these
+were laid by the British in India).
+
+The first railroad in China opened only in 1876. It was 15 miles long and built
+by Europeans – the Chinese government destroyed it the following year.
+
+In 1880 the Chinese Empire did not operate a single railroad.
+
+The first railroad in Persia was built only in 1888, and it connected Tehran
+with a Muslim holy site about 6 miles south of the capital. It was constructed
+and operated by a Belgian company.
+
+In 1950, the total railway network of Persia still amounted to a meagre 1,500
+miles, in a country seven times the size of Britain.6
+
+The Chinese and Persians did not lack technological inventions such as steam
+engines (which could be freely copied or bought). They lacked the values, myths,
+judicial apparatus and sociopolitical structures that took centuries to form and
+mature in the West and which could not be copied and internalised rapidly.
+
+Europeans were used to thinking and behaving in a scientific and capitalist way
+even before they enjoyed any significant technological advantages.
+
+The Far East and the Islamic world produced minds as intelligent and curious as
+those of Europe. However, between 1500 and 1950 they did not produce anything
+that comes even close to Newtonian physics or Darwinian biology.
+
+When Napoleon invaded Egypt in 1798, he took 165 scholars with him. Among other
+things, they founded an entirely new discipline, Egyptology, and made important
+contributions to the study of religion, linguistics and botany.
+
+After several professional geologists refused his invitation, the captain
+offered the job to a twenty-two-year-old Cambridge graduate, Charles Darwin.
+
+The captain spent his time on the voyage drawing military maps while Darwin
+collected the empirical data and formulated the insights that would eventually
+become the theory of evolution.
+
+There is poetic justice in the fact that a quarter of the world, and two of its
+seven continents, are named after a little-known Italian whose sole claim to
+fame is that he had the courage to say, ‘We don’t know.’
+
+Thus the Romans conquered Etruria in order to defend Rome (c.350–300 BC). They
+then conquered the Po Valley in order to defend Etruria (c.200 BC). They
+subsequently conquered Provence to defend the Po Valley (c.120 BC), Gaul to
+defend Provence (c.50 BC), and Britain in order to defend Gaul (c. AD 50).
+
+It took them 400 years to get from Rome to London. In 350 BC, no Roman would
+have conceived of sailing directly to Britain and conquering it.
+
+Around 1517, Spanish colonists in the Caribbean islands began to hear vague
+rumours about a powerful empire somewhere in the centre of the Mexican
+mainland. A mere four years later, the Aztec capital was a smouldering ruin, the
+Aztec Empire was a thing of the past, and Hernán Cortés lorded over a vast new
+Spanish Empire in Mexico.
+
+Yet within little more than ten years of the Spanish conquest of Mexico,
+Francisco Pizarro had discovered the Inca Empire in South America, vanquishing
+it in 1532.
+
+Within twenty years, almost the entire native Caribbean population was wiped
+out. The Spanish colonists began importing African slaves to fill the vacuum.
+
+When the Spaniards first arrived in Mexico, natives bearing incense burners were
+assigned to accompany them wherever they went. The Spaniards thought it was a
+mark of divine honour. We know from native sources that they found the
+newcomers’ smell unbearable.)
+
+Within a century of the landing at Vera Cruz, the native population of the
+Americas had shrunk by about 90 per cent, due mainly to unfamiliar diseases that
+reached America with the invaders. The survivors found themselves under the
+thumb of a greedy and racist regime that was far worse than that of the Aztecs.
+
+Even puny European kingdoms such as Scotland and Denmark sent a few
+explore-and-conquer expeditions to America, but not one expedition of either
+exploration or conquest was ever sent to America from the Islamic world, India
+or China.
+
+The first non-European power that tried to send a military expedition to America
+was Japan.
+
+That happened in June 1942, when a Japanese expedition conquered Kiska and Attu,
+two small islands off the Alaskan coast, capturing in the process ten US
+soldiers and a dog. The Japanese never got any closer to the mainland.
+
+The resources that sent Zheng He from China to East Africa in the 1420s should
+have been enough to reach America. The Chinese just weren’t interested. The
+first Chinese world map to show America was not issued until 1602 – and then by
+a European missionary!
+
+Only in the twentieth century did non-European cultures adopt a truly global
+vision.
+
+Thus in the Algerian War of Independence (1954–62), Algerian guerrillas defeated
+a French army with an overwhelming numerical, technological and economic
+advantage. The Algerians prevailed because they were supported by a global
+anti-colonial network, and because they worked out how to harness the world’s
+media to their cause – as well as public opinion in France itself.
+
+When the Muslims conquered India, they did not bring along archaeologists to
+systematically study Indian history, anthropologists to study Indian cultures,
+geologists to study Indian soils, or zoologists to study Indian fauna.
+
+When the British conquered India, they did all of these things.
+
+Another telling example of British scientific curiosity was the deciphering of
+cuneiform script. This was the main script used throughout the Middle East for
+close to 3,000 years, but the last person able to read it probably died sometime
+in the early first millennium AD.
+
+Cuneiform came to the attention of Europeans in 1618, when the Spanish
+ambassador in Persia went sightseeing in the ruins of ancient Persepolis, where
+he saw inscriptions that nobody could explain to him.
+
+In 1657 European scholars published the first transcription of a cuneiform text
+from Persepolis.
+
+Without the efforts of modern European imperialists such as Rawlinson, we would
+not have known much about the fate of the ancient Middle Eastern empires.
+
+Throughout the nineteenth and early twentieth centuries, fewer than 5,000
+British officials, about 40,000–70,000 British soldiers, and perhaps another
+100,000 British business people, hangers-on, wives and children were sufficient
+to conquer and rule up to 300 million Indians.9
+
+They created the world as we know it, including the ideologies we use in order
+to judge them.
+
+For better or worse, in sickness and in health, the modern economy has been
+growing like a hormone-soused teenager. It eats up everything it can find and
+puts on inches faster than you can count.
+
+In 1500, global production of goods and services was equal to about $250
+billion; today it hovers around $60 trillion.
+
+More importantly, in 1500, annual per capita production averaged $550, while
+today every man, woman and child produces, on the average, $8,800 a year.1
+
+Banks are allowed to loan $10 for every dollar they actually possess, which
+means that 90 per cent of all the money in our bank accounts is not covered by
+actual coins and notes.2
+
+If all of the account holders at Barclays Bank suddenly demand their money,
+Barclays will promptly collapse (unless the government steps in to save it). The
+same is true of Lloyds, Deutsche Bank, Citibank, and all other banks in the
+world.
+
+What enables banks – and the entire economy – to survive and flourish is our
+trust in the future.
+
+Credit arrangements of one kind or another have existed in all known human
+cultures, going back at least to ancient Sumer.
+
+‘It is easier for a camel to pass through the eye of a needle than for a rich
+man to enter into the kingdom of God’ (Matthew 19:24).
+
+In 1776 the Scottish economist Adam Smith published The Wealth of Nations,
+probably the most important economics manifesto of all time.
+
+Yet Smith’s claim that the selfish human urge to increase private profits is the
+basis for collective wealth is one of the most revolutionary ideas in human
+history – revolutionary not just from an economic perspective, but even more so
+from a moral and political perspective.
+
+What Smith says is, in fact, that greed is good, and that by becoming richer I
+benefit everybody, not just myself. Egoism is altruism.
+
+‘The profits of production must be reinvested in increasing production.’
+
+Capital consists of money, goods and resources that are invested in
+production. Wealth, on the other hand, is buried in the ground or wasted on
+unproductive activities.
+
+Ask a capitalist how to bring justice and political freedom to a place like
+Zimbabwe or Afghanistan, and you are likely to get a lecture on how economic
+affluence and a thriving middle class are essential for stable democratic
+institutions, and about the need therefore to inculcate Afghan tribesmen in the
+values of free enterprise, thrift
+
+and self-reliance.
+
+Capitalism played a decisive role not only in the rise of modern science, but
+also in the emergence of European imperialism.
+
+And it was European imperialism that created the capitalist credit system in the
+first place.
+
+Remember, too, that until the late eighteenth century, Asia was the world’s
+economic powerhouse, meaning that Europeans had far less capital at their
+disposal than the Chinese, Muslims or Indians.
+
+The empires built by bankers and merchants in frock coats and top hats defeated
+the empires built by kings and noblemen in gold clothes and shining armour.
+
+Yet within eighty years the Dutch had not only secured their independence from
+Spain, but had managed to replace the Spaniards and their Portuguese allies as
+masters of the ocean highways, build a global Dutch empire, and become the
+richest state in Europe.
+
+The secret of Dutch success was credit. The Dutch burghers, who had little taste
+for combat on land, hired mercenary armies to fight the Spanish for them.
+
+Capital trickles away from dictatorial states that fail to defend private
+individuals and their property. Instead, it flows into states upholding the rule
+of law and private property.
+
+Island after island fell to VOC mercenaries and a large part of Indonesia became
+a VOC colony. VOC ruled Indonesia for close to 200 years. Only in 1800 did the
+Dutch state assume control of Indonesia, making it a Dutch national colony for
+the following 150 years.
+
+Today some people warn that twenty-first-century corporations are accumulating
+too much power. Early modern history shows just how far that can go if
+businesses are allowed to pursue their self-interest unchecked.
+
+While VOC operated in the Indian Ocean, the Dutch West Indies Company, or WIC,
+plied the Atlantic.
+
+In order to control trade on the important Hudson River, WIC built a settlement
+called New Amsterdam on an island at the river’s mouth. The colony was
+threatened by Indians and repeatedly attacked by the British, who eventually
+captured it in 1664. The British changed its name to New York.
+
+The remains of the wall built by WIC to defend its colony against Indians and
+British are today paved over by the world’s most famous street – Wall Street.
+
+In 1717 the Mississippi Company, chartered in France, set out to colonise the
+lower Mississippi valley, establishing the city of New Orleans in the process.
+
+In 1717 the lower Mississippi valley offered few attractions besides swamps and
+alligators, yet the Mississippi Company spread tales of fabulous riches and
+boundless opportunities.
+
+Initially, shares were offered at 500 livres apiece. On 1 August 1719, shares
+traded at 2,750 livres. By 30 August, they were worth 4,100 livres, and on 4
+September, they reached 5,000 livres. On 2 December the price of a Mississippi
+share crossed the threshold of 10,000 livres.
+
+The Mississippi Bubble was one of history’s most spectacular financial
+crashes. The royal French financial system never recuperated fully from the
+blow. The way in which the Mississippi Company used its political clout to
+manipulate share prices and fuel the buying frenzy caused the public to lose
+faith in the French banking system and in the financial wisdom of the French
+king.
+
+Like the Dutch Empire before it, the British Empire was established and run
+largely by private joint-stock companies based in the London stock exchange.
+
+The first English settlements in North America were established in the early
+seventeenth century by joint-stock companies such as the London Company, the
+Plymouth Company, the Dorchester Company and the Massachusetts Company.
+
+The Indian subcontinent too was conquered not by the British state, but by the
+mercenary army of the British East India Company. This company outperformed even
+the VOC. From its headquarters in Leadenhall Street, London, it ruled a mighty
+Indian empire for about a century, maintaining a huge military force of up to
+350,000 soldiers, considerably outnumbering the armed forces of the British
+monarchy.
+
+Only in 1858 did the British crown nationalise India along with the company’s
+private army.
+
+Napoleon made fun of the British, calling them a nation of shopkeepers.
+
+Yet these shopkeepers defeated Napoleon himself, and their empire was the
+largest the world has ever seen.
+
+The nationalisation of Indonesia by the Dutch crown (1800) and of India by the
+British crown (1858) hardly ended the embrace of capitalism and empire.
+
+Joint-stock companies no longer needed to establish and govern private colonies
+– their managers and large shareholders now pulled the strings of power in
+London, Amsterdam and Paris, and they could count on the state to look after
+their interests.
+
+The most notorious example of how governments did the bidding of big money was
+the First Opium War, fought between Britain and China (1840–42).
+
+In the first half of the nineteenth century, the British East India Company and
+sundry British business people made fortunes by exporting drugs, particularly
+opium, to China.
+
+In the late 1830s the Chinese government issued a ban on drug trafficking, but
+British drug merchants simply ignored the law. Chinese authorities began to
+confiscate and destroy drug cargos.
+
+The drug cartels had close connections in Westminster and Downing Street – many
+MPs and Cabinet ministers in fact held stock in the drug companies – so they
+pressured the government to take action.
+
+In 1840 Britain duly declared war on China in the name of ‘free trade’.
+
+Under the subsequent peace treaty, China agreed not to constrain the activities
+of British drug merchants and to compensate them for damages inflicted by the
+Chinese police.
+
+Furthermore, the British demanded and received control of Hong Kong, which they
+proceeded to use as a secure base for drug trafficking (Hong Kong remained in
+British hands until 1997).
+
+In the late nineteenth century, about 40 million Chinese, a tenth of the
+country’s population, were opium addicts.3
+
+These were hardly the only wars fought in the interests of investors. In fact,
+war itself could become a commodity, just like opium.
+
+In 1821 the Greeks rebelled against the Ottoman Empire.
+
+But London financiers saw an opportunity as well. They proposed to the rebel
+leaders the issue of tradable Greek Rebellion Bonds on the London stock
+exchange. The Greeks would promise to repay the bonds, plus interest, if and
+when they won their independence.
+
+The Turks gradually gained the upper hand. With a rebel defeat imminent, the
+bondholders faced the prospect of losing their trousers. The bondholders’
+interest was the national interest, so the British organised an international
+fleet that, in 1827, sank the main Ottoman flotilla in the Battle of Navarino.
+
+After centuries of subjugation, Greece was finally free. But freedom came with a
+huge debt that the new country had no way of repaying. The Greek economy was
+mortgaged to British creditors for decades to come.
+
+After the Battle of Navarino, British capitalists were more willing to invest
+their money in risky overseas deals. They had seen that if a foreign debtor
+refused to repay loans, Her Majesty’s army would get their money back.
+
+At the end of the Middle Ages, slavery was almost unknown in Christian Europe.
+
+From the sixteenth to the nineteenth centuries, about 10 million African slaves
+were imported to America.
+
+Private slave-trading companies sold shares on the Amsterdam, London and Paris
+stock exchanges.
+
+Only forty years passed between the moment Einstein determined that any kind of
+mass could be converted into energy – that’s what E = mc² means – and the moment
+atom bombs obliterated Hiroshima and Nagasaki and nuclear power stations
+mushroomed all over the globe.
+
+Petroleum had been known for thousands of years, and was used to waterproof
+roofs and lubricate axles. Yet until just a century ago nobody thought it was
+useful for much more than that.
+
+Every few decades we discover a new energy source, so that the sum total of
+energy at our disposal just keeps growing.
+
+Only a tiny proportion of the sun’s energy reaches us, yet it amounts to
+3,766,800 exajoules of energy each year (a joule is a unit of energy in the
+metric system, about the amount you expend to lift a small apple one yard
+straight up; an exajoule is a billion billion joules – that’s a lot of apples).
+
+All the world’s plants capture only about 3,000 of those solar exajoules through
+the process of photosynthesis.3
+
+All human activities and industries put together consume about 500 exajoules
+annually, equivalent to the amount of energy earth receives from the sun in just
+ninety minutes.4
+
+Chemists discovered aluminium only in the 1820s, but separating the metal from
+its ore was extremely difficult and costly.
+
+For decades, aluminium was much more expensive than gold.
+
+In the 1860s, Emperor Napoleon III of France commissioned aluminium cutlery to
+be laid out for his most distinguished guests. Less important visitors had to
+make do with the gold knives and forks.5
+
+But at the end of the nineteenth century chemists discovered a way to extract
+immense amounts of cheap aluminium, and current global production stands at 30
+million tons per year.
+
+Around the time that Homo sapiens was elevated to divine status by humanist
+religions, farm animals stopped being viewed as living creatures that could feel
+pain and distress, and instead came to be treated as machines.
+
+Many dairy cows live almost all their allotted years inside a small enclosure;
+standing, sitting and sleeping in their own urine and excrement.
+
+Chicks on a conveyor belt in a commercial hatchery. Male chicks and imperfect
+female chicks are picked off the conveyor belt and are then asphyxiated in gas
+chambers, dropped into automatic shredders, or simply thrown into the rubbish,
+where they are crushed to death. Hundreds of millions of chicks die each year in
+such hatcheries.
+
+The tragedy of industrial agriculture is that it takes great care of the
+objective needs of animals, while neglecting their subjective needs.
+
+The modern capitalist economy must constantly increase production if it is to
+survive, like a shark that must swim or suffocate. Yet it’s not enough just to
+produce. Somebody must also buy the products, or industrialists and investors
+alike will go bust.
+
+Consumerism has worked very hard, with the help of popular psychology (‘Just do
+it!’) to convince people that indulgence is good for you, whereas frugality is
+self-oppression.
+
+Each year the US population spends more money on diets than the amount needed to
+feed all the hungry people in the rest of the world.
+
+There are about 80,000 giraffes in the world, compared to 1.5 billion cattle;
+only 200,000 wolves, compared to 400 million domesticated dogs; only 250,000
+chimpanzees – in contrast to billions of humans. Humankind really has taken over
+the world.1
+
+The future may see Sapiens gaining control of a cornucopia of new materials and
+energy sources, while simultaneously destroying what remains of the natural
+habitat and driving most other species to extinction.
+
+If a lost time traveller popped up in a medieval village and asked a passerby,
+‘What year is this?’ the villager would be as bewildered by the question as by
+the stranger’s ridiculous clothing.
+
+Finally, in 1880, the British government took the unprecedented step of
+legislating that all timetables in Britain must follow Greenwich.
+
+For the first time in history, a country adopted a national time and obliged its
+population to live according to an artificial clock rather than local ones or
+sunrise-to-sunset cycles.
+
+Each news programme opened with a live broadcast of Big Ben tolling the hour –
+the magical sound of freedom. Ingenious German physicists found a way to
+determine the weather conditions in London based on tiny differences in the tone
+of the broadcast ding-dongs.
+
+When neighbours in a high-rise apartment building cannot even agree on how much
+to pay their janitor, how can we expect them to resist the state?
+
+Even more money is transferred to the bank accounts of fashion designers, gym
+managers, dieticians, cosmeticians and plastic surgeons, who help us arrive at
+the café looking as similar as possible to the market’s ideal of beauty.
+
+Consumerism and nationalism work extra hours to make us imagine that millions of
+strangers belong to the same community as ourselves, that we all have a common
+past, common interests and a common future. This isn’t a lie. It’s imagination.
+
+As long as millions of Germans believe in the existence of a German nation, get
+excited at the sight of German national symbols, retell German national myths,
+and are willing to sacrifice money, time and limbs for the German nation,
+Germany will remain one of the strongest powers in the world.
+
+The nation does its best to hide its imagined character. Most nations argue that
+they are a natural and eternal entity, created in some primordial epoch by
+mixing the soil of the motherland with the blood of the people.
+
+Most existing nations evolved only after the Industrial Revolution.
+
+The Syrian, Lebanese, Jordanian and Iraqi nations are the product of haphazard
+borders drawn in the sand by French and British diplomats who ignored local
+history, geography and economy.
+
+In the year 2000, wars caused the deaths of 310,000 individuals, and violent
+crime killed another 520,000.
+
+Yet from a macro perspective these 830,000 victims comprised only 1.5 per cent
+of the 56 million people who died in 2000.
+
+That year 1.26 million people died in car accidents (2.25 per cent of total
+mortality) and 815,000 people committed suicide (1.45 per cent).
+
+The figures for 2002 are even more surprising. Out of 57 million dead, only
+172,000 people died in war and 569,000 died of violent crime (a total of 741,000
+victims of human violence). In contrast, 873,000 people committed suicide.
+
+It turns out that in the year following the 9/11 attacks, despite all the talk
+of terrorism and war, the average person was more likely to kill himself than to
+be killed by a terrorist, a soldier or a drug dealer.
+
+Today the global average is only nine murders a year per 100,000 people, and
+most of these murders take place in weak states such as Somalia and Colombia.
+
+In the centralised states of Europe, the average is one murder a year per
+100,000 people.7
+
+At least some of the praise usually heaped on Mahatma Gandhi for his non-violent
+creed is actually owed to the British Empire. Despite many years of bitter and
+often violent struggle, when the end of the Raj came, the Indians did not have
+to fight the British in the streets of Delhi and Calcutta.
+
+Since 1945, no independent country recognised by the UN has been conquered and
+wiped off the map. Limited international wars still occur from time to time, and
+millions still die in wars, but wars are no longer the norm.
+
+We seldom think of the Arab world as particularly peaceful. Yet only once since
+the Arab countries won their independence has one of them mounted a full-scale
+invasion of another (the Iraqi invasion of Kuwait in 1990).
+
+There have been quite a few border clashes (e.g. Syria vs Jordan in 1970), many
+armed interventions of one in the affairs of another (e.g. Syria in Lebanon),
+numerous civil wars (Algeria, Yemen, Libya) and an abundance of coups and
+revolts.
+
+Since African states won their independence in the 1960s and 1970s, very few
+countries have invaded one another in the hope of conquest.
+
+The Nobel Peace Prize to end all peace prizes should have been given to Robert
+Oppenheimer and his fellow architects of the atomic bomb.
+
+Nuclear weapons have turned war between superpowers into collective suicide, and
+made it impossible to seek world domination by force of arms.
+
+Nothing in the comfortable lives of the urban middle class can approach the wild
+excitement and sheer joy experienced by a forager band on a successful mammoth
+hunt.
+
+The majority of humans began to enjoy the fruits of modern medicine no earlier
+than 1850, and the drastic drop in child mortality is a twentieth-century
+phenomenon.
+
+Mass famines continued to blight much of humanity up to the middle of the
+twentieth century.
+
+During Communist China’s Great Leap Forward of 1958–61, somewhere between 10 and
+50 million human beings starved to death.
+
+If we accept a mere tenth of what animal-rights activists are claiming, then
+modern industrial agriculture might well be the greatest crime in history.
+
+People are made happy by one thing and one thing only – pleasant sensations in
+their bodies.
+
+Happiness and misery play a role in evolution only to the extent that they
+encourage or discourage survival and reproduction.
+
+We tend to believe that if we could just change our workplace, get married,
+finish writing that novel, buy a new car or repay the mortgage, we would be on
+top of the world. Yet when we get what we desire we don’t seem to be any
+happier.
+
+Today, when we finally realise that the keys to happiness are in the hands of
+our biochemical system, we can stop wasting our time on politics and social
+reforms, putsches and ideologies, and focus instead on the only thing that can
+make us truly happy: manipulating our biochemistry.
+
+As Nietzsche put it, if you have a why to live, you can bear almost any how. A
+meaningful life can be extremely satisfying even in the midst of hardship,
+whereas a meaningless life is a terrible ordeal no matter how comfortable it is.
+
+As far as we can tell, from a purely scientific viewpoint, human life has
+absolutely no meaning.
+
+Humans are the outcome of blind evolutionary processes that operate without goal
+or purpose.
+
+Our actions are not part of some divine cosmic plan, and if planet Earth were to
+blow up tomorrow morning, the universe would probably keep going about its
+business as usual.
+
+Hence any meaning that people ascribe to their lives is just a delusion.
+
+So perhaps happiness is synchronising one’s personal delusions of meaning with
+the prevailing collective delusions.
+
+As long as my personal narrative is in line with the narratives of the people
+around me, I can convince myself that my life is meaningful, and find happiness
+in that conviction.
+
+Liberal politics is based on the idea that the voters know best, and there is no
+need for Big Brother to tell us what is good for us.
+
+Liberal art declares that beauty is in the eye of the beholder.
+
+Students in liberal schools and universities are taught to think for themselves.
+
+From a Christian viewpoint, the vast majority of people are in more or less the
+same situation as heroin addicts.
+
+A microorganism belonging to one species can incorporate genetic codes from a
+completely different species into its cell and thereby gain new capabilities,
+such as resistance to antibiotics.
+
+Biological engineering is deliberate human intervention on the biological level
+(e.g. implanting a gene) aimed at modifying an organism’s shape, capabilities,
+needs or desires, in order to realise some preconceived cultural idea, such as
+the artistic predilections of Eduardo Kac.
+
+Humans also castrated their own young males to create soprano singers with
+enchanting voices and eunuchs who could safely be entrusted with overseeing the
+sultan’s harem.
+
+For example, lines of E. coli, a bacterium that lives symbiotically in the human
+gut (and which makes headlines when it gets out of the gut and causes deadly
+infections), have been genetically engineered to produce biofuel.2
+
+E. coli and several species of fungi have also been engineered to produce
+insulin, thereby lowering the cost of diabetes treatment.3
+
+A gene extracted from an Arctic fish has been inserted into potatoes, making the
+plants more frost-resistant.4
+
+Professor George Church of Harvard University recently suggested that, with the
+completion of the Neanderthal Genome Project, we can now implant reconstructed
+Neanderthal DNA into a Sapiens ovum, thus producing the first Neanderthal child
+in 30,000 years.
+
+Church claimed that he could do the job for a paltry $30 million. Several women
+have already volunteered to serve as surrogate mothers.10
+
+(The mouse genome contains about 2.5 billion nucleobases, the Sapiens genome
+about 2.9 billion bases – meaning the latter is only 14 per cent larger.)
+
+The Cognitive Revolution that turned Homo sapiens from an insignificant ape into
+the master of the world did not require any noticeable change in physiology or
+even in the size and external shape of the Sapiens brain.
+
+It apparently involved no more than a few small changes to internal brain
+structure.
+
+Perhaps another small change would be enough to ignite a Second Cognitive
+Revolution, create a completely new type of consciousness, and transform Homo
+sapiens into something altogether different.
+
+Tinkering with our genes won’t necessarily kill us. But we might fiddle with
+Homo sapiens to such an extent that we would no longer be Homo sapiens.
+
+Retina Implant, a government-sponsored German company, is developing a retinal
+prosthesis that may allow blind people to gain partial vision.
+
+At present the technology allows patients to orientate themselves in space,
+identify letters, and even recognise faces.15
+
+Many programmers dream of creating a program that could learn and evolve
+completely independently of its creator.
+
+The Human Brain Project, founded in 2005, hopes to recreate a complete human
+brain inside a computer, with electronic circuits in the computer emulating
+neural networks in the brain.
+
+Mapping the first human genome required fifteen years and $3 billion.
+
+Today you can map a person’s DNA within a few weeks and at the cost of a few
+hundred dollars.20
+
+The era of personalised medicine – medicine that matches treatment to DNA – has
+begun.
+
+Throughout history, the upper classes always claimed to be smarter, stronger and
+generally better than the underclass. They were usually deluding themselves.
+
+A baby born to a poor peasant family was likely to be as intelligent as the
+crown prince. With the help of new medical capabilities, the pretensions of the
+upper classes might soon become an objective reality.
+
+Physicists define the Big Bang as a singularity. It is a point at which all the
+known laws of nature did not exist. Time too did not exist. It is thus
+meaningless to say that anything existed ‘before’ the Big Bang.
+
+We may be fast approaching a new singularity, when all the concepts that give
+meaning to our world – me, you, men, women, love and hate – will become
+irrelevant. Anything happening beyond that point is meaningless to us.
+
+Unless some nuclear or ecological catastrophe intervenes, so goes the story, the
+pace of technological development will soon lead to the replacement of Homo
+sapiens by completely different beings who possess not only different physiques,
+but also very different cognitive and emotional worlds.
+
+We seek comfort in the fantasy that Dr Frankenstein can create only terrible
+monsters, whom we would have to destroy in order to save the world.
+
+We like to tell the story that way because it implies that we are the best of
+all beings, that there never was and never will be something better than us.
+
+Any attempt to improve us will inevitably fail, because even if our bodies might
+be improved, you cannot touch the human spirit.
+
+When the nuclear age erupted in the 1940s, many forecasts were made about the
+future nuclear world of the year 2000.
+
+When sputnik and Apollo II fired the imagination of the world, everyone began
+predicting that by the end of the century, people would be living in space
+colonies on Mars and Pluto.
+
+On the other hand, nobody foresaw the Internet.
+
+What we should take seriously is the idea that the next stage of history will
+include not only technological and organisational transformations, but also
+fundamental transformations in human consciousness and identity.
+
+After all, today’s debate between today’s religions, ideologies, nations and
+classes will in all likelihood disappear along with Homo sapiens.
+
+If our successors indeed function on a different level of consciousness (or
+perhaps possess something beyond consciousness that we cannot even conceive), it
+seems doubtful that Christianity or Islam will be of interest to them, that
+their social organisation could be Communist or capitalist, or that their
+genders could be male or female.
+
+The only thing we can try to do is to influence the direction scientists are
+taking. But since we might soon be able to engineer our desires too, the real
+question facing us is not ‘What do we want to become?’, but ‘What do we want to
+want?’ Those who are not spooked by this question probably haven’t given it
+enough thought.
+
+SEVENTY THOUSAND YEARS AGO, HOMO sapiens was still an insignificant animal
+minding its own business in a corner of Africa.
+
+In the following millennia it transformed itself into the master of the entire
+planet and the terror of the ecosystem.
+
+Today it stands on the verge of becoming a god, poised to acquire not only
+eternal youth, but also the divine abilities of creation and destruction.
+
+Unfortunately, the Sapiens regime on earth has so far produced little that we
+can be proud of.
+
+Time and again, massive increases in human power did not necessarily improve the
+well-being of individual Sapiens, and usually caused immense misery to other
+animals.
+
+We are more powerful than ever before, but have very little idea what to do with
+all that power. Worse still, humans seem to be more irresponsible than ever.
+
+Is there anything more dangerous than dissatisfied and irresponsible gods who
+don’t know what they want?
