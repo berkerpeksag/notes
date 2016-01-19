@@ -466,5 +466,16 @@ relationships.
 * Avoid the gorilla banana problem (“what you wanted was a banana, what you got
   was a gorilla holding the banana, and the entire jungle”).
 
-
 **Reference:** https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+
+## Factory functions vs. constructor functions
+
+In JavaScript, factory functions are simply constructor functions minus the
+`new` requirement, global pollution danger and awkward limitations.
+
+JavaScript doesn’t need constructor functions because *any function can return
+a new object*. With dynamic object extension, object literals and
+`Object.create()`, we have everything we need.
+
+**Reference:** https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
