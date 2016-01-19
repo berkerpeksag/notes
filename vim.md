@@ -23,6 +23,12 @@ bu belgede toplayacağım.
 * Type `gq` (and use `move up` or `move down`) to emulate `fill-paragraph`
 * Duplicate a line: `Y` and `P`
 * Go to line: `42G`
+* Delete a word: `dw`
+* Repeat the last change: `.`
+* Delete the character under the cursor: `x`
+* Delete the whole line: `dd`
+* Move cursor to end of the line and switch to insert mode: `A`
+* Move cursor to end of the line, switch to insert mode and press `<CR>`: `o`
 
 ## Bağlantılar
 
