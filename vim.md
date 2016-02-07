@@ -30,12 +30,22 @@ bu belgede toplayacağım.
 * Move cursor to end of the line and switch to insert mode: `A`
 * Move cursor to end of the line, switch to insert mode and press `<CR>`: `o`
 
+## Searching
+
+* `/pattern`: search forward for pattern
+* `?pattern`: search backward
+* `n`: repeat forward search
+* `N`: repeat backward
+* `:%s/search_for_this/replace_with_this/`: search whole file and replace
+* `:%s/search_for_this/replace_with_this/c`: confirm each replace
+
 ## Bağlantılar
 
 * http://vimhelp.appspot.com/vim_faq.txt.html
 * Vim Tips: http://vim.wikia.com/wiki/Vim_Tips_Wiki
 * http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know
 * http://lucumr.pocoo.org/2010/7/29/sharing-vim-tricks/
+* https://www.cs.swarthmore.edu/help/vim/searching.html
 
 ### Plugin Yazmak
 
