@@ -28,6 +28,46 @@ method calls. The first corresponds to `__setattr__` and `__getattr__`, the
 second to `__setitem__` and `__getitem__`.
 
 
+## Types
+
+[...] An object’s type determines the operations that the object supports
+(e.g., "does it have a length?") and also defines the possible values for
+objects of that type.
+
+Every object in Python has a type. The type is an object too, so it has a type
+of its own, which is called `type`.
+
+
+## Classes
+
+```py
+>>> class Joe: pass
+...
+>>> j = Joe()
+>>> type(j)
+<class '__main__.Joe'>
+```
+
+Using the class mechanism, we've created `Joe` - a user-defined type. `j` is
+an instance of the class `Joe`. In other words, it's an object and its type is
+`Joe`.
+
+As any other type, `Joe` is an object itself, and it has a type too:
+
+```py
+>>> type(type(j))
+<class 'type'>
+```
+
+
+## Instances
+
+Objects are instances of types. So, "42 is an instance of the type int" is
+equivalent to "42 is an int object".
+
+**Reference:** http://eli.thegreenplace.net/2012/03/30/python-objects-types-classes-and-instances-a-glossary
+
+
 ## Names
 
 An object can have any number of names, or no name at all.
