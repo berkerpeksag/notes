@@ -295,6 +295,16 @@ Python.
 Reference: https://mail.python.org/pipermail/python-ideas/2014-August/029128.html
 
 
+### Guido's thoughts on `staticmethod`s
+
+> Honestly, staticmethod was something of a mistake -- I was trying to
+> do something like Java class methods but once it was released I found
+> what was really needed was classmethod. But it was too late to get rid
+> of staticmethod.
+
+Reference: https://mail.python.org/pipermail/python-ideas/2016-July/041189.html
+
+
 ## What `range` really is in Python 3?
 
 It's a full sequence type (specifically, a calculated tuple). The only immutable
