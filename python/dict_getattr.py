@@ -9,9 +9,11 @@ class Dict(dict):
 def main():
     d = {'a': 'A', 'b': 'B'}
     e = Dict(d)
-    print e.a
+    print(e.a)
     e.c = 'C'
-    print e.c
+    print(e.c)
+    del e.b
+    print('b' not in d)
 
 if __name__ == '__main__':
     main()
