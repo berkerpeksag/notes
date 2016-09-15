@@ -11,10 +11,6 @@
 
 ## Types
 
-* **Integers:** You declare integers with the `int` keyword, and print them with
-  `%d`.
-* **Floating Point:** Declared with `float` or `double` depending on how big
-  they need to be (**double is bigger**), and printed with `%f`.
 * **Character:** Declared with `char`, written with a `'` (single-quote)
   character around the char, and then printed with `%c`.
 
@@ -28,6 +24,16 @@
 > double-quote for `char[]` or strings.
 
 ## Misc
+
+### Pointer analogy
+
+```c
+house_t my_house;  // a house
+house_t *house_ptr;  // sign that says where some house is
+// update house_ptr to point to my house. &my_house being the address of my house
+house_ptr = &my_house;
+```
+([Source](https://www.reddit.com/r/C_Programming/comments/529uzo/for_anyone_who_is_having_issues_with_pointers_i/d7j6uxl))
 
 ### Nul byte
 
