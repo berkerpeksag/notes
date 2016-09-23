@@ -1,0 +1,2270 @@
+%!PS-Adobe-2.0
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%DocumentFonts: (atend)
+%%EndComments
+%
+% FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
+% Copyright (c) 1986,87,89,90,91 by Frame Technology Corporation.
+% All rights reserved.
+%
+% Known Problems:
+%	Due to bugs in Transcript, the 'PS-Adobe-' is omitted from line 1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Local adjustment --- SCCS keyword info
+%
+% File    : postscript_prolog.sgi_92
+% Version : 1.2
+% Modified: 3/24/93 12:07:15
+% Maint.  : Jan van der Steen (jansteen@cwi.nl)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Local adjustment --- incorporate the CWI logo definitions
+%
+% Jan van der Steen
+% Fri Sep 11 18:06:30 MET DST 1992
+%
+%%BeginProcSet: CWIdict.ps
+/CWIdict 30 dict def
+CWIdict begin
+
+/color	systemdict /colorimage		 known
+	systemdict /currentcolortransfer known or def
+
+/cwiscale	  1.0	def
+/cwiR	16#80 255 div	def		% Silver (808d97)
+/cwiG	16#8d 255 div	def
+/cwiB	16#97 255 div	def
+
+/char_I {
+    %
+    % Caption character I
+    % (starting point is lower left corner)
+    %
+    0 0 m
+	 30  165 r
+	 47    0 r
+	-30 -165 r
+    c f
+} def
+
+/char_W {
+    %
+    % Caption character W
+    % (starting point is lower left corner)
+    %
+    0 0 m
+	  40    0 r
+	  35  110 r
+	   0 -110 r
+	  40    0 r
+	  64  165 r
+	 -50    0 r
+	 -30  -98 r
+	   0   98 r
+	 -35    0 r
+	 -30  -98 r
+	   0   98 r
+	 -48    0 r
+    c f
+} def
+
+/char_C {
+    %
+    % Caption character C
+    % (starting point is lower right corner)
+    %
+    -4 40 m
+	%
+	% Inner curve
+	%
+	-100 -10		% control 1
+	-70  150		% control 2
+	-10  115 curveto	% endpoint
+	  5   40 r
+	%
+	% Outer curve
+	%
+	-145  185		% control 1
+	-145  -70		% control 2
+	   0    0 curveto	% endpoint
+    c f
+} def
+
+/caption {
+    %
+    % Caption has three characters: C, W and I
+    %
+    S 144 53 t char_C R
+    S 162 42 t char_W R
+    S 320 42 t char_I R
+} def
+
+/RR 250 def
+/dR 20 def
+
+/outside { upperside lowerside } def
+/outsidepath {
+    gsave
+	0 setgray
+	setlinewidth
+	0 0 RR 0 90 arc stroke
+	newpath
+	    0 0 RR dR add 90 180 arc
+	    0 0 RR dR sub 180 90 arcn
+	closepath
+	gsave
+	    12 setlinewidth
+	    stroke
+	grestore
+	setgray fill
+    grestore
+} def
+/upperside {
+    gsave
+	1.00 6 outsidepath
+    grestore
+} def
+/lowerside {
+    gsave
+	180 rotate
+	0.00 6 outsidepath	% Actually Red
+    grestore
+} def
+
+%
+% Shorthands
+%
+/m {   moveto} def
+/l {   lineto} def
+/r {  rlineto} def
+/c {closepath} def
+/f {     fill} def
+/t {translate} def
+/S {    gsave} def
+/R { grestore} def
+
+/CWIlogo {
+    newpath
+    S
+	color false and {
+	    %
+	    % Color devices --- currently disabled
+	    %
+	    cwiR
+	    cwiG
+	    cwiB setrgbcolor
+	}{
+	    %
+	    % Black and white devices
+	    %
+	    0 setgray
+	} ifelse
+	1 setlinejoin
+	.65 dup scale
+	cwiscale dup scale
+	144 246 translate		% Make the lowerleft corner (0,0)
+	gsave
+	    1.02 dup scale
+	    caption				% CWI in a mysterious font
+	grestore
+	220 125 translate
+	outside
+    R
+} def
+end	% CWIdict
+%%EndProcSet
+% End Local adjustment
+%------------------------------------------------------------------------
+/FMversion (3.0) def 
+% Set up Color vs. Black-and-White
+	/FMPrintInColor systemdict /colorimage known
+		systemdict /currentcolortransfer known or def
+% Uncomment this line to force b&w on color printer
+%   /FMPrintInColor false def
+/FrameDict 295 dict def 
+systemdict /errordict known not {/errordict 10 dict def
+		errordict /rangecheck {stop} put} if
+% The readline in 23.0 doesn't recognize cr's as nl's on AppleTalk
+FrameDict /tmprangecheck errordict /rangecheck get put 
+errordict /rangecheck {FrameDict /bug true put} put 
+FrameDict /bug false put 
+mark 
+% Some PS machines read past the CR, so keep the following 3 lines together!
+currentfile 5 string readline
+00
+0000000000
+cleartomark 
+errordict /rangecheck FrameDict /tmprangecheck get put 
+FrameDict /bug get { 
+	/readline {
+		/gstring exch def
+		/gfile exch def
+		/gindex 0 def
+		{
+			gfile read pop 
+			dup 10 eq {exit} if 
+			dup 13 eq {exit} if 
+			gstring exch gindex exch put 
+			/gindex gindex 1 add def 
+		} loop
+		pop 
+		gstring 0 gindex getinterval true 
+		} def
+	} if
+/FMVERSION {
+	FMversion ne {
+		/Times-Roman findfont 18 scalefont setfont
+		100 100 moveto
+		(FrameMaker version does not match postscript_prolog!)
+		dup =
+		show showpage
+		} if
+	} def 
+/FMLOCAL {
+	FrameDict begin
+	0 def 
+	end 
+	} def 
+	/gstring FMLOCAL
+	/gfile FMLOCAL
+	/gindex FMLOCAL
+	/orgxfer FMLOCAL
+	/orgproc FMLOCAL
+	/organgle FMLOCAL
+	/orgfreq FMLOCAL
+	/yscale FMLOCAL
+	/xscale FMLOCAL
+	/manualfeed FMLOCAL
+	/paperheight FMLOCAL
+	/paperwidth FMLOCAL
+/FMDOCUMENT { 
+	array /FMfonts exch def 
+	/#copies exch def
+	FrameDict begin
+	0 ne dup {setmanualfeed} if
+	/manualfeed exch def
+	/paperheight exch def
+	/paperwidth exch def
+	/yscale exch def
+	/xscale exch def
+	currenttransfer cvlit /orgxfer exch def
+	currentscreen cvlit /orgproc exch def
+	/organgle exch def /orgfreq exch def
+	setpapername 
+	manualfeed {true} {papersize} ifelse 
+	{manualpapersize} {false} ifelse 
+	{desperatepapersize} if
+	end 
+	} def 
+	/pagesave FMLOCAL
+	/orgmatrix FMLOCAL
+	/landscape FMLOCAL
+/FMBEGINPAGE { 
+	FrameDict begin 
+	/pagesave save def
+	3.86 setmiterlimit
+	/landscape exch 0 ne def
+	landscape { 
+		90 rotate 0 exch neg translate pop 
+		}
+		{pop pop}
+		ifelse
+	xscale yscale scale
+	/orgmatrix matrix def
+	gsave 
+	} def 
+/FMENDPAGE {
+	grestore 
+	pagesave restore
+	end 
+	showpage
+	} def 
+/FMFONTDEFINE { 
+	FrameDict begin
+	findfont 
+	ReEncode 
+	1 index exch 
+	definefont 
+	FMfonts 3 1 roll 
+	put
+	end 
+	} def 
+/FMFILLS {
+	FrameDict begin
+	array /fillvals exch def
+	end 
+	} def 
+/FMFILL {
+	FrameDict begin
+	 fillvals 3 1 roll put
+	end 
+	} def 
+/FMNORMALIZEGRAPHICS { 
+	newpath
+	0.0 0.0 moveto
+	1 setlinewidth
+	0 setlinecap
+	0 0 0 sethsbcolor
+	0 setgray 
+	} bind def
+	/fx FMLOCAL
+	/fy FMLOCAL
+	/fh FMLOCAL
+	/fw FMLOCAL
+	/llx FMLOCAL
+	/lly FMLOCAL
+	/urx FMLOCAL
+	/ury FMLOCAL
+/FMBEGINEPSF { 
+	end 
+	/FMEPSF save def 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	[/fy /fx /fh /fw /ury /urx /lly /llx] {exch def} forall 
+	fx fy translate 
+	rotate
+	fw urx llx sub div fh ury lly sub div scale 
+	llx neg lly neg translate 
+	} bind def
+/FMENDEPSF {
+	FMEPSF restore
+	FrameDict begin 
+	} bind def
+FrameDict begin 
+/setmanualfeed {
+%%BeginFeature *ManualFeed True
+	 statusdict /manualfeed true put
+%%EndFeature
+	} def
+/max {2 copy lt {exch} if pop} bind def
+/min {2 copy gt {exch} if pop} bind def
+/inch {72 mul} def
+/pagedimen { 
+	paperheight sub abs 16 lt exch 
+	paperwidth sub abs 16 lt and
+	{/papername exch def} {pop} ifelse
+	} def
+	/papersizedict FMLOCAL
+/setpapername { 
+	/papersizedict 14 dict def 
+	papersizedict begin
+	/papername /unknown def 
+		/Letter 8.5 inch 11.0 inch pagedimen
+		/LetterSmall 7.68 inch 10.16 inch pagedimen
+		/Tabloid 11.0 inch 17.0 inch pagedimen
+		/Ledger 17.0 inch 11.0 inch pagedimen
+		/Legal 8.5 inch 14.0 inch pagedimen
+		/Statement 5.5 inch 8.5 inch pagedimen
+		/Executive 7.5 inch 10.0 inch pagedimen
+		/A3 11.69 inch 16.5 inch pagedimen
+		%
+		% Overrule Letter with A4 paper size --- jansteen
+		%
+		/A4 8.5 inch 11.0 inch pagedimen
+		/A4 8.26 inch 11.69 inch pagedimen
+		/A4Small 7.47 inch 10.85 inch pagedimen
+		/B4 10.125 inch 14.33 inch pagedimen
+		/B5 7.16 inch 10.125 inch pagedimen
+	end
+	} def
+/papersize {
+	papersizedict begin
+		/Letter {lettertray letter} def
+		/LetterSmall {lettertray lettersmall} def
+		/Tabloid {11x17tray 11x17} def
+		/Ledger {ledgertray ledger} def
+		/Legal {legaltray legal} def
+		/Statement {statementtray statement} def
+		/Executive {executivetray executive} def
+		/A3 {a3tray a3} def
+		%
+		% Don't waste film on the Compugraphic --- jansteen
+		%
+		% /A4 {a4tray a4} def
+		/A4 {} def
+		/A4Small {a4tray a4small} def
+		/B4 {b4tray b4} def
+		/B5 {b5tray b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	/FMdicttop countdictstack 1 add def 
+	statusdict begin stopped end 
+	countdictstack -1 FMdicttop {pop end} for 
+	} def
+/manualpapersize {
+	papersizedict begin
+		/Letter {letter} def
+		/LetterSmall {lettersmall} def
+		/Tabloid {11x17} def
+		/Ledger {ledger} def
+		/Legal {legal} def
+		/Statement {statement} def
+		/Executive {executive} def
+		/A3 {a3} def
+		%
+		% Don't waste film on the Compugraphic --- jansteen
+		%
+		% /A4 {a4} def
+		/A4 {} def
+		/A4Small {a4small} def
+		/B4 {b4} def
+		/B5 {b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	stopped 
+	} def
+/desperatepapersize {
+	statusdict /setpageparams known
+		{
+		paperwidth paperheight 0 1 
+		statusdict begin
+		{setpageparams} stopped pop 
+		end
+		} if
+	} def
+/savematrix {
+	orgmatrix currentmatrix pop
+	} bind def
+/restorematrix {
+	orgmatrix setmatrix
+	} bind def
+/dmatrix matrix def
+/dpi    72 0 dmatrix defaultmatrix dtransform
+    dup mul exch   dup mul add   sqrt def
+/freq dpi 18.75 div 8 div round dup 0 eq {pop 1} if 8 mul dpi exch div def
+/sangle 1 0 dmatrix defaultmatrix dtransform exch atan def
+/DiacriticEncoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl
+/numbersign /dollar /percent /ampersand /quotesingle /parenleft
+/parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
+/two /three /four /five /six /seven /eight /nine /colon /semicolon
+/less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K
+/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h
+/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar
+/braceright /asciitilde /.notdef /Adieresis /Aring /Ccedilla /Eacute
+/Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis
+/atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis
+/iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve
+/ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex
+/udieresis /dagger /.notdef /cent /sterling /section /bullet
+/paragraph /germandbls /registered /copyright /trademark /acute
+/dieresis /.notdef /AE /Oslash /.notdef /.notdef /.notdef /.notdef
+/yen /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/ordfeminine /ordmasculine /.notdef /ae /oslash /questiondown
+/exclamdown /logicalnot /.notdef /florin /.notdef /.notdef
+/guillemotleft /guillemotright /ellipsis /.notdef /Agrave /Atilde
+/Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright
+/quoteleft /quoteright /.notdef /.notdef /ydieresis /Ydieresis
+/fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl
+/periodcentered /quotesinglbase /quotedblbase /perthousand
+/Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute
+/Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /.notdef /Ograve
+/Uacute /Ucircumflex /Ugrave /dotlessi /circumflex /tilde /macron
+/breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron
+] def
+/ReEncode { 
+	dup 
+	length 
+	dict begin 
+	{
+	1 index /FID ne 
+		{def} 
+		{pop pop} ifelse 
+	} forall 
+	0 eq {/Encoding DiacriticEncoding def} if 
+	currentdict 
+	end 
+	} bind def
+/graymode true def
+	/bwidth FMLOCAL
+	/bpside FMLOCAL
+	/bstring FMLOCAL
+	/onbits FMLOCAL
+	/offbits FMLOCAL
+	/xindex FMLOCAL
+	/yindex FMLOCAL
+	/x FMLOCAL
+	/y FMLOCAL
+/setpattern {
+	 /bwidth  exch def
+	 /bpside  exch def
+	 /bstring exch def
+	 /onbits 0 def  /offbits 0 def
+	 freq sangle landscape {90 add} if 
+		{/y exch def
+		 /x exch def
+		 /xindex x 1 add 2 div bpside mul cvi def
+		 /yindex y 1 add 2 div bpside mul cvi def
+		 bstring yindex bwidth mul xindex 8 idiv add get
+		 1 7 xindex 8 mod sub bitshift and 0 ne
+		 {/onbits  onbits  1 add def 1}
+		 {/offbits offbits 1 add def 0}
+		 ifelse
+		}
+		setscreen
+	 {} settransfer
+	 offbits offbits onbits add div FMsetgray
+	/graymode false def
+	} bind def
+/grayness {
+	FMsetgray
+	graymode not {
+		/graymode true def
+		orgxfer cvx settransfer
+		orgfreq organgle orgproc cvx setscreen
+		} if
+	} bind def
+	/HUE FMLOCAL
+	/SAT FMLOCAL
+	/BRIGHT FMLOCAL
+	/Colors FMLOCAL
+FMPrintInColor 
+	
+	{
+	/HUE 0 def
+	/SAT 0 def
+	/BRIGHT 0 def
+	% array of arrays Hue and Sat values for the separations [HUE BRIGHT]
+	/Colors   
+	[[0    0  ]    % black
+	 [0    0  ]    % white
+	 [0.00 1.0]    % red
+	 [0.37 1.0]    % green
+	 [0.60 1.0]    % blue
+	 [0.50 1.0]    % cyan
+	 [0.83 1.0]    % magenta
+	 [0.16 1.0]    % comment / yellow
+	 ] def
+      
+	/BEGINBITMAPCOLOR { 
+		BITMAPCOLOR} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPCOLORc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUECOLOR } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUECOLORc } def
+	/K { 
+		Colors exch get dup
+		0 get /HUE exch store 
+		1 get /BRIGHT exch store
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} def
+	/FMsetgray { 
+		/SAT exch 1.0 exch sub store 
+		  HUE 0 eq BRIGHT 0 eq and
+			{1.0 SAT sub setgray}
+			{HUE SAT BRIGHT sethsbcolor} 
+		  ifelse
+		} bind def
+	}
+	
+	{
+	/BEGINBITMAPCOLOR { 
+		BITMAPGRAY} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPGRAYc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUEGRAY } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUEGRAYc } def
+	/FMsetgray {setgray} bind def
+	/K { 
+		pop
+		} def
+	}
+ifelse
+/normalize {
+	transform round exch round exch itransform
+	} bind def
+/dnormalize {
+	dtransform round exch round exch idtransform
+	} bind def
+/lnormalize { 
+	0 dtransform exch cvi 2 idiv 2 mul 1 add exch idtransform pop
+	} bind def
+/H { 
+	lnormalize setlinewidth
+	} bind def
+/Z {
+	setlinecap
+	} bind def
+	/fillvals FMLOCAL
+/X { 
+	fillvals exch get
+	dup type /stringtype eq
+	{8 1 setpattern} 
+	{grayness}
+	ifelse
+	} bind def
+/V { 
+	gsave eofill grestore
+	} bind def
+/N { 
+	stroke
+	} bind def
+/M {newpath moveto} bind def
+/E {lineto} bind def
+/D {curveto} bind def
+/O {closepath} bind def
+	/n FMLOCAL
+/L { 
+ 	/n exch def
+	newpath
+	normalize
+	moveto 
+	2 1 n {pop normalize lineto} for
+	} bind def
+/Y { 
+	L 
+	closepath
+	} bind def
+	/x1 FMLOCAL
+	/x2 FMLOCAL
+	/y1 FMLOCAL
+	/y2 FMLOCAL
+	/rad FMLOCAL
+/R { 
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	x1 y1
+	x2 y1
+	x2 y2
+	x1 y2
+	4 Y 
+	} bind def
+
+% The following commented out code did not work for tangent lines of zero
+% length.  The code following it was provided by Frame to patch this error.
+%
+% And then the story continues since the provided bug fix doesn't fix
+% things at all :).
+% Let's restore the original code and _AGAIN_ apply the patch
+% which I already mailed to Frame long time ago btw.
+%
+% Jan van der Steen (jansteen@cwi.nl)
+%
+/RR { 
+	/rad exch def
+	normalize
+	/y2 exch def
+	/x2 exch def
+	normalize
+	/y1 exch def
+	/x1 exch def
+	%
+	% Avoid bug when rounded boxes are being scaled down
+	% (when using the thumbnail option) making the sides
+	% of the rectangle get smaller than twice the radius.
+	%
+	% jansteen@cwi.nl
+	%
+	x2 x1 sub 2 div abs dup rad lt { /rad exch def }{ pop } ifelse
+	y2 y1 sub 2 div abs dup rad lt { /rad exch def }{ pop } ifelse
+	%
+	% The following test is necessary due to low-resolution devices
+	% such as screens. This might cause x1-x2 or y1-y2 to become 0
+	%
+	newpath
+	    rad 0 ne {
+		x1 y1 rad add moveto
+		x1 y2 x2 y2 rad arcto
+		x2 y2 x2 y1 rad arcto
+		x2 y1 x1 y1 rad arcto
+		x1 y1 x1 y2 rad arcto
+		16 {pop} repeat
+	    }{
+		x1 y1 moveto
+		x2 y2 lineto
+	    } ifelse
+	closepath
+	} bind def
+%/rarc
+%    {rad
+%     {arcto} stopped
+%    } bind def
+%/RR {
+%    /rad exch def
+%    normalize
+%    /y2 exch def
+%    /x2 exch def
+%    normalize
+%    /y1 exch def
+%    /x1 exch def
+%    mark
+%    newpath
+%    x1 y1 rad add moveto
+%    x1 y2 x2 y2 rarc
+%    x2 y2 x2 y1 rarc
+%    x2 y1 x1 y1 rarc
+%    x2 y1 x1 y1 rarc
+%    x1 y1 x1 y2 rarc
+%    closepath
+%    cleartomark
+%    } bind def
+
+/C { 
+	grestore
+	gsave
+	R 
+	clip
+	} bind def
+	/FMpointsize FMLOCAL
+/F { 
+	FMfonts exch get
+	FMpointsize scalefont
+	setfont
+	} bind def
+/Q { 
+	/FMpointsize exch def
+	F 
+	} bind def
+/T { 
+	moveto show
+	} bind def
+/RF { 
+	rotate
+	0 ne {-1 1 scale} if
+	} bind def
+/TF { 
+	gsave
+	moveto 
+	RF
+	show
+	grestore
+	} bind def
+/P { 
+	moveto
+	0 32 3 2 roll widthshow
+	} bind def
+/PF { 
+	gsave
+	moveto 
+	RF
+	0 32 3 2 roll widthshow
+	grestore
+	} bind def
+/S { 
+	moveto
+	0 exch ashow
+	} bind def
+/SF { 
+	gsave
+	moveto
+	RF
+	0 exch ashow
+	grestore
+	} bind def
+/B { 
+	moveto
+	0 32 4 2 roll 0 exch awidthshow
+	} bind def
+/BF { 
+	gsave
+	moveto
+	RF
+	0 32 4 2 roll 0 exch awidthshow
+	grestore
+	} bind def
+/G { 
+	gsave
+	newpath
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath fill
+	grestore
+	} bind def
+/A { 
+	gsave
+	savematrix
+	newpath
+	2 index 2 div add exch 3 index 2 div sub exch 
+	normalize 2 index 2 div sub exch 3 index 2 div add exch 
+	translate 
+	scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	restorematrix
+	stroke
+	grestore
+	} bind def
+	/x FMLOCAL
+	/y FMLOCAL
+	/w FMLOCAL
+	/h FMLOCAL
+	/xx FMLOCAL
+	/yy FMLOCAL
+	/ww FMLOCAL
+	/hh FMLOCAL
+	/FMsaveobject FMLOCAL
+	/FMoptop FMLOCAL
+	/FMdicttop FMLOCAL
+/BEGINPRINTCODE { 
+	/FMdicttop countdictstack 1 add def 
+	/FMoptop count 4 sub def 
+	/FMsaveobject save def
+	userdict begin 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	3 index neg 3 index neg translate
+	} bind def
+/ENDPRINTCODE {
+	count -1 FMoptop {pop pop} for 
+	countdictstack -1 FMdicttop {pop end} for 
+	FMsaveobject restore 
+	} bind def
+/gn { 
+	0 
+	{	46 mul 
+		cf read pop 
+		32 sub 
+		dup 46 lt {exit} if 
+		46 sub add 
+		} loop
+	add 
+	} bind def
+	/str FMLOCAL
+/cfs { 
+	/str sl string def 
+	0 1 sl 1 sub {str exch val put} for 
+	str def 
+	} bind def
+/ic [ 
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0
+	{0 hx} {1 hx} {2 hx} {3 hx} {4 hx} {5 hx} {6 hx} {7 hx} {8 hx} {9 hx}
+	{10 hx} {11 hx} {12 hx} {13 hx} {14 hx} {15 hx} {16 hx} {17 hx} {18 hx}
+	{19 hx} {gn hx} {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {12}
+	{13} {14} {15} {16} {17} {18} {19} {gn} {0 wh} {1 wh} {2 wh} {3 wh}
+	{4 wh} {5 wh} {6 wh} {7 wh} {8 wh} {9 wh} {10 wh} {11 wh} {12 wh}
+	{13 wh} {14 wh} {gn wh} {0 bl} {1 bl} {2 bl} {3 bl} {4 bl} {5 bl} {6 bl}
+	{7 bl} {8 bl} {9 bl} {10 bl} {11 bl} {12 bl} {13 bl} {14 bl} {gn bl}
+	{0 fl} {1 fl} {2 fl} {3 fl} {4 fl} {5 fl} {6 fl} {7 fl} {8 fl} {9 fl}
+	{10 fl} {11 fl} {12 fl} {13 fl} {14 fl} {gn fl}
+	] def
+	/sl FMLOCAL
+	/val FMLOCAL
+	/ws FMLOCAL
+	/im FMLOCAL
+	/bs FMLOCAL
+	/cs FMLOCAL
+	/len FMLOCAL
+	/pos FMLOCAL
+/ms { 
+	/sl exch def 
+	/val 255 def 
+	/ws cfs 
+	/im cfs 
+	/val 0 def 
+	/bs cfs 
+	/cs cfs 
+	} bind def
+400 ms 
+/cip { 
+	is 
+	0 
+	cf cs readline pop 
+	{	ic exch get exec 
+		add 
+		} forall 
+	pop 
+
+    /tot w 1 sub def
+    0 1 tot {
+        /indx exch def
+        /indxa is indx get def
+        /placer nredt indxa get def
+        /placeg ngreent indxa get def
+        /placeb nbluet indxa get def
+        cris indx placer 255 mul cvi put
+        cgis indx placeg 255 mul cvi put
+        cbis indx placeb 255 mul cvi put
+    } for pop cris
+
+	
+	} bind def
+/ip { 
+	is 
+	0 
+	cf cs readline pop 
+	{	ic exch get exec 
+		add 
+		} forall 
+	pop 
+
+	} bind def
+/wh { 
+	/len exch def 
+	/pos exch def 
+	ws 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/bl { 
+	/len exch def 
+	/pos exch def 
+	bs 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/s1 1 string def
+/fl { 
+	/len exch def 
+	/pos exch def 
+	/val cf s1 readhexstring pop 0 get def
+	pos 1 pos len add 1 sub {im exch val put} for
+	pos len 
+	} bind def
+/hx { 
+	3 copy getinterval 
+	cf exch readhexstring pop pop 
+	} bind def
+	/h FMLOCAL
+	/w FMLOCAL
+	/d FMLOCAL
+	/lb FMLOCAL
+	/bitmapsave FMLOCAL
+	/is FMLOCAL
+	/cf FMLOCAL
+/wbytes { 
+	dup 
+	8 eq {pop} {1 eq {7 add 8 idiv} {3 add 4 idiv} ifelse} ifelse
+	} bind def
+/BEGINBITMAPBWc { 
+	1 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAPGRAYc { 
+	8 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAP2BITc { 
+	2 {} COMMONBITMAPc
+	} bind def
+/COMMONBITMAPc { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	r                    
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} image 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BEGINBITMAPBW { 
+	1 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAPGRAY { 
+	8 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAP2BIT { 
+	2 {} COMMONBITMAP
+	} bind def
+/COMMONBITMAP { 
+	/r exch def
+	/d exch def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	r                    
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} image
+	bitmapsave restore 
+	grestore
+	} bind def
+	/proc1 FMLOCAL
+	/proc2 FMLOCAL
+	/newproc FMLOCAL
+/Fmcc {
+    /proc2 exch cvlit def
+    /proc1 exch cvlit def
+    /newproc proc1 length proc2 length add array def
+    newproc 0 proc1 putinterval
+    newproc proc1 length proc2 putinterval
+    newproc cvx
+} bind def
+/ngrayt 256 array def
+/nredt 256 array def
+/nbluet 256 array def
+/ngreent 256 array def
+	/gryt FMLOCAL
+	/blut FMLOCAL
+	/grnt FMLOCAL
+	/redt FMLOCAL
+	/indx FMLOCAL
+	/cynu FMLOCAL
+	/magu FMLOCAL
+	/yelu FMLOCAL
+	/k FMLOCAL
+	/u FMLOCAL
+/colorsetup {
+    currentcolortransfer
+    /gryt exch def
+    /blut exch def
+    /grnt exch def
+    /redt exch def
+    0 1 255 {
+        /indx exch def
+        /cynu 1 red indx get 255 div sub def
+        /magu 1 green indx get 255 div sub def
+        /yelu 1 blue indx get 255 div sub def
+        /k cynu magu min yelu min def
+        nredt indx 1 0 cynu max sub redt exec put
+        ngreent indx 1 0 magu max sub grnt exec put
+        nbluet indx 1 0 yelu max sub blut exec put
+        ngrayt indx 1 k sub gryt exec put
+    } for
+	} bind def
+	/tran FMLOCAL
+/fakecolorsetup {
+	/tran 256 string def
+	0 1 255 {/indx exch def 
+		tran indx
+		red indx get 77 mul
+		green indx get 151 mul
+		blue indx get 28 mul
+		add add 256 idiv put} for
+	currenttransfer
+	{255 mul cvi tran exch get 255.0 div}
+	exch Fmcc settransfer
+} bind def
+/BITMAPCOLOR { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/bitmapsave save def 
+	colorsetup
+	/is w d wbytes string def
+    /ris w d wbytes string def
+    /gis w d wbytes string def
+    /bis w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop
+    /tot w 1 sub def
+    0 1 tot {
+        /indx exch def
+        /indxa is indx get def
+        /placer nredt indxa get def
+        /placeg ngreent indxa get def
+        /placeb nbluet indxa get def
+        ris indx placer 255 mul cvi put
+        gis indx placeg 255 mul cvi put
+        bis indx placeb 255 mul cvi put
+    } for pop ris}
+	{gis} {bis} true 3 colorimage 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPCOLORc { 
+	/d 8 def
+	gsave
+	translate rotate scale /h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	colorsetup
+	/is im 0 lb getinterval def 
+    /cris lb string def
+    /cgis lb string def
+    /cbis lb string def
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cip} {cgis} {cbis} true 3 colorimage
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPTRUECOLORc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip} {gip} {bip} true 3 colorimage
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUECOLOR { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop } 
+        { cf gis readhexstring pop } 
+        { cf bis readhexstring pop } 
+        true 3 colorimage 
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUEGRAYc { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        
+        /is w string def
+        
+        ws 0 w getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {ip gip bip w gray} image
+        bitmapsave restore 
+        grestore
+        } bind def
+/ww FMLOCAL
+/r FMLOCAL
+/g FMLOCAL
+/b FMLOCAL
+/i FMLOCAL
+/gray { 
+        /ww exch def
+        /b exch def
+        /g exch def
+        /r exch def
+        0 1 ww 1 sub { /i exch def r i get .299 mul g i get .587 mul
+			b i get .114 mul add add r i 3 -1 roll floor cvi put } for
+        r
+        } bind def
+/BITMAPTRUEGRAY { 
+        gsave
+        translate rotate scale /h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop 
+          cf gis readhexstring pop 
+          cf bis readhexstring pop w gray}  image
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPGRAY { 
+	8 {fakecolorsetup} COMMONBITMAP
+	} bind def
+/BITMAPGRAYc { 
+	8 {fakecolorsetup} COMMONBITMAPc
+	} bind def
+/ENDBITMAP {
+	} bind def
+end 
+	/ALDsave FMLOCAL
+	/ALDmatrix matrix def ALDmatrix currentmatrix pop
+/StartALD {
+	/ALDsave save def
+	 savematrix
+	 ALDmatrix setmatrix
+	} bind def
+/InALD {
+	 restorematrix
+	} bind def
+/DoneALD {
+	 ALDsave restore
+	} bind def
+%%EndProlog
+%%BeginSetup
+(3.0) FMVERSION
+1 1 595.28 841.89 0 1 13 FMDOCUMENT
+0 0 /Times-Roman FMFONTDEFINE
+1 0 /Helvetica FMFONTDEFINE
+2 0 /Helvetica-Oblique FMFONTDEFINE
+3 0 /Helvetica-Bold FMFONTDEFINE
+4 0 /Times-Bold FMFONTDEFINE
+5 0 /Courier-Bold FMFONTDEFINE
+6 0 /Courier FMFONTDEFINE
+7 0 /Times-Italic FMFONTDEFINE
+32 FMFILLS
+0 0 FMFILL
+1 0.1 FMFILL
+2 0.3 FMFILL
+3 0.5 FMFILL
+4 0.7 FMFILL
+5 0.9 FMFILL
+6 0.97 FMFILL
+7 1 FMFILL
+8 <0f1e3c78f0e1c387> FMFILL
+9 <0f87c3e1f0783c1e> FMFILL
+10 <cccccccccccccccc> FMFILL
+11 <ffff0000ffff0000> FMFILL
+12 <8142241818244281> FMFILL
+13 <03060c183060c081> FMFILL
+14 <8040201008040201> FMFILL
+16 1 FMFILL
+17 0.9 FMFILL
+18 0.7 FMFILL
+19 0.5 FMFILL
+20 0.3 FMFILL
+21 0.1 FMFILL
+22 0.03 FMFILL
+23 0 FMFILL
+24 <f0e1c3870f1e3c78> FMFILL
+25 <f0783c1e0f87c3e1> FMFILL
+26 <3333333333333333> FMFILL
+27 <0000ffff0000ffff> FMFILL
+28 <7ebddbe7e7dbbd7e> FMFILL
+29 <fcf9f3e7cf9f3f7e> FMFILL
+30 <7fbfdfeff7fbfdfe> FMFILL
+%%EndSetup
+%%Page: "1" 1
+%%BeginPaperSize: A4
+%%EndPaperSize
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (1) 519.92 56.36 S
+1 18 Q
+(An Introduction to Python for UNIX/C Programmers) 93.68 744.85 T
+1 12 Q
+(Guido van Rossum) 246.65 700.85 T
+2 F
+(CWI, P) 181.76 676.85 T
+(.O. Box 94079, 1090 GB Amsterdam) 218.19 676.85 T
+(Email:) 242.23 656.85 T
+(guido@cwi.nl) 281.55 656.85 T
+3 F
+(Abstract) 273.32 612.85 T
+1 10 Q
+-0.06 (Python is an interpreted, object-oriented language suitable for many purposes. It has a) 106.87 594.18 P
+0.5 (clear) 106.87 582.18 P
+0.5 (, intuitive syntax, powerful high-level data structures, and a \337exible dynamic type) 127.97 582.18 P
+-0.04 (system. Python can be used interactively) 106.87 570.18 P
+-0.04 (, in stand-alone scripts, for large programs, or) 287.04 570.18 P
+2.62 (as an extension language for existing applications. The language runs on UNIX,) 106.87 558.18 P
+5.11 (Macintosh, and DOS machines. Source and documentation are available by) 106.87 546.18 P
+(anonymous ftp.) 106.87 534.18 T
+1.78 (Python is easily extensible through modules written in C or C++, and can also be) 106.87 518.18 P
+1.93 (embedded in applications as a library) 106.87 506.18 P
+1.93 (. Existing extensions provide access to most) 280.75 506.18 P
+0.98 (standard UNIX library functions and system calls \050including processes management,) 106.87 494.18 P
+-0.23 (socket and ioctl operations\051, as well as to large packages like X1) 106.87 482.18 P
+-0.23 (1/Motif. There are also) 389.11 482.18 P
+1.32 (a number of system-speci\336c extensions, e.g. to interface to the Sun and SGI audio) 106.87 470.18 P
+(hardware. A large library of standard modules written in Python also exists.) 106.87 458.18 T
+0.36 (Compared to C, Python programs are much shorter) 106.87 442.18 P
+0.36 (, and consequently much faster to) 336.6 442.18 P
+2.05 (write. In comparison with Perl, Python code is easier to read, write and maintain.) 106.87 430.18 P
+(Relative to TCL, Python is better suited for larger or more complicated programs.) 106.87 418.18 T
+4 12 Q
+(1.  Intr) 70.87 388.85 T
+(oduction) 106.29 388.85 T
+0 11 Q
+0.33 (Python is a new kind of scripting language, and as most scripting languages it is built around an inter-) 70.87 371.52 P
+0.09 (preter) 70.87 358.52 P
+0.09 (. Many traditional scripting and interpreted languages have sacri\336ced syntactic clarity to simplify) 95.88 358.52 P
+-0.08 (parser construction; consider e.g. the painful syntax needed to calculate the value of simple expressions) 70.87 345.52 P
+(like a+b*c in Lisp, Smalltalk or the Bourne shell. Others, e.g. APL and Perl, support arithmetic expres-) 70.87 332.52 T
+-0.09 (sions and other conveniences, but have made cryptic one-liners into an art form, turning program main-) 70.87 319.52 P
+-0.23 (tenance into a nightmare. Python programs, on the other hand, are neither hard to write nor hard to read,) 70.87 306.52 P
+0.74 (and its expressive power is comparable to the languages mentioned above. Y) 70.87 293.52 P
+0.74 (et Python is not big: the) 416.01 293.52 P
+(entire interpreter \336ts in 200 kilobytes on a Macintosh, and this even includes a windowing interface!) 70.87 280.52 T
+0 9 Q
+(1) 512.09 284.92 T
+0 11 Q
+0.64 (Python is used or proposed as an application development language and as an extension language for) 70.87 263.52 P
+0.95 (non-expert programmers by several commercial software vendors. It has also been used successfully) 70.87 250.52 P
+-0.2 (for several lar) 70.87 237.52 P
+-0.2 (ge non-commercial software projects \050one a continent away from the author) 131.28 237.52 P
+-0.2 (\325) 463.46 237.52 P
+-0.2 (s institute\051. It) 466.52 237.52 P
+(is also in use to teach programming concepts to computer science students.) 70.87 224.52 T
+1.71 (The language comes with a source debugger \050implemented entirely in Python\051, several windowing) 70.87 207.52 P
+2.43 (interfaces \050one portable between platforms\051, a sophisticated GNU Emacs editing mode, complete) 70.87 194.52 P
+(source and documentation, and lots of examples and demos.) 70.87 181.52 T
+1.47 (This paper does not claim to be a complete description of Python; rather) 70.87 164.52 P
+1.47 (, it tries to give a taste of) 405.46 164.52 P
+0.51 (Python programming through examples, discusses the construction of extensions to Python, and com-) 70.87 151.52 P
+(pares the language to some of its competitors.) 70.87 138.52 T
+70.87 112.54 524.41 128.54 C
+69.87 120.54 213.87 120.54 2 L
+0.25 H
+2 Z
+0 X
+0 K
+N
+0 0 595.28 841.89 C
+0 10 Q
+0 X
+0 K
+(1.  Figures for modern UNIX systems are higher because RISC instruction sets and lar) 70.87 105.87 T
+(ge libraries tend to cause) 416.28 105.87 T
+-0.3 (lar) 70.87 94.87 P
+-0.3 (ger binaries. The Macintosh \336gure is actually comparable to that for a CISC processor like the V) 81.23 94.87 P
+-0.3 (AX \050remember) 461.74 94.87 P
+(those? :-\051) 70.87 83.87 T
+FMENDPAGE
+%%EndPage: "1" 2
+%%Page: "2" 2
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (2) 519.92 56.36 S
+4 12 Q
+(2.  Examples of Python code) 70.87 748.85 T
+0 11 Q
+0.14 (Let\325) 70.87 731.52 P
+0.14 (s have a look at some simple examples of Python code. For clarity) 88.57 731.52 P
+0.14 (, reserved words of the language) 380.93 731.52 P
+(are printed in bold.) 70.87 718.52 T
+(Our \336rst example program lists the current UNIX directory:) 70.87 701.52 T
+5 F
+(import) 99.21 684.52 T
+6 F
+( os                # operating system interface) 138.76 684.52 T
+(names = os.listdir\050\325.\325\051  # get directory contents) 99.21 671.52 T
+(names.sort\050\051             # sort the list alphabetically) 99.21 658.52 T
+5 F
+(for) 99.21 645.52 T
+6 F
+( n) 118.99 645.52 T
+5 F
+(in) 138.76 645.52 T
+6 F
+( names:          # loop over the list of names) 151.95 645.52 T
+5 F
+(if) 125.58 632.52 T
+6 F
+( n[0] != \325.\325:      # select non-hidden names) 138.76 632.52 T
+5 F
+(print) 151.95 619.52 T
+6 F
+( n          # and print them) 184.91 619.52 T
+0 F
+0.24 (The Bourne shell script for this is simply \322) 70.87 602.52 P
+6 F
+0.56 (ls) 260.12 602.52 P
+0 F
+0.24 (\323, but an equivalent C program would likely require sev-) 273.31 602.52 P
+1.13 (eral pages, especially considering the necessity to build and sort an arbitrarily long list of strings of) 70.87 589.52 P
+(arbitrary length. Some explanations:) 70.87 576.52 T
+(\245) 70.87 559.52 T
+0.01 (The) 85.04 559.52 P
+5 F
+0.02 (import) 104.88 559.52 P
+0 F
+0.01 ( statement is Python\325) 144.43 559.52 P
+0.01 (s \322moral equivalent\323 of C\325) 236.33 559.52 P
+0.01 (s) 352.31 559.52 P
+6 F
+0.02 (#include) 359.34 559.52 P
+0 F
+0.01 ( statement. Functions and) 412.08 559.52 P
+-0.12 (variables de\336ned in an imported) 85.04 546.52 P
+7 F
+-0.12 (module) 228.76 546.52 P
+0 F
+-0.12 ( can be referenced by pre\336xing them with the module name.) 261.1 546.52 P
+(\245) 70.87 529.52 T
+0.2 (V) 85.04 529.52 P
+0.2 (ariables in Python are not declared before they are used; instead, assignment to an unde\336ned vari-) 91.75 529.52 P
+(able initializes it. \050) 85.04 516.52 T
+7 F
+(Use) 166.82 516.52 T
+0 F
+( of an unde\336ned variable is a run-time error however) 183.9 516.52 T
+(.\051) 415.48 516.52 T
+(\245) 70.87 499.52 T
+(Python\325) 85.04 499.52 T
+(s) 119.23 499.52 T
+5 F
+(for) 126.25 499.52 T
+0 F
+( loop iterates over an arbitrary list.) 146.02 499.52 T
+(\245) 70.87 482.52 T
+(Python uses indentation for statement grouping \050see also the next example\051.) 85.04 482.52 T
+(\245) 70.87 465.52 T
+1.48 (The module) 85.04 465.52 P
+6 F
+3.55 (os) 143.54 465.52 P
+0 F
+1.48 ( de\336nes many functions that are direct interfaces to UNIX system calls, such as) 156.72 465.52 P
+6 F
+0.41 (unlink\050\051) 85.04 452.52 P
+0 F
+0.17 ( and) 137.77 452.52 P
+6 F
+0.41 (stat\050\051) 159.47 452.52 P
+0 F
+0.17 (.) 199.02 452.52 P
+0.17 (The function used here,) 208.77 452.52 P
+6 F
+0.41 (os.listdir\050\051) 315.93 452.52 P
+0 F
+0.17 (, is a higher) 395.03 452.52 P
+0.17 (-level interface to) 446.58 452.52 P
+(the UNIX calls) 85.04 439.52 T
+6 F
+(opendir\050\051) 154.3 439.52 T
+0 F
+(,) 213.62 439.52 T
+6 F
+( readdir\050\051) 216.37 439.52 T
+0 F
+( and) 282.29 439.52 T
+6 F
+(closedir\050\051) 303.64 439.52 T
+0 F
+(.) 369.56 439.52 T
+(\245) 70.87 422.52 T
+6 F
+0.72 (.sort\050\051) 85.04 422.52 P
+0 F
+0.3 ( is a) 131.18 422.52 P
+7 F
+0.3 (method) 152.53 422.52 P
+0 F
+0.3 ( of list objects. It sorts the list in place \050here in dictionary order since the list) 184.87 422.52 P
+(items are strings\051.) 85.04 409.52 T
+(And here is a simple program to print the \336rst 100 prime numbers:) 70.87 392.52 T
+6 F
+(primes = [2]                    # make a list of prime numbers) 99.21 375.52 T
+5 F
+(print) 99.21 362.52 T
+6 F
+( 2                         # print the f) 132.17 362.52 T
+(irst prime) 395.84 362.52 T
+(i = 3                           # initialize candidate) 99.21 349.52 T
+5 F
+(while) 99.21 336.52 T
+6 F
+( len\050primes\051 < 100:        # loop until 100 primes found) 132.17 336.52 T
+5 F
+(for) 125.58 323.52 T
+6 F
+( p) 145.35 323.52 T
+5 F
+(in) 165.13 323.52 T
+6 F
+( primes:            # loop over known primes) 178.31 323.52 T
+5 F
+(if) 151.95 310.52 T
+6 F
+( i%p == 0) 165.13 310.52 T
+5 F
+(or) 231.05 310.52 T
+6 F
+( p*p > i: # look for possible divisors) 244.23 310.52 T
+5 F
+(break) 178.31 297.52 T
+6 F
+(               # cancel rest of for loop) 211.27 297.52 T
+5 F
+(if) 125.58 284.52 T
+6 F
+( i%p != 0:                # is i indeed a prime?) 138.76 284.52 T
+(        primes.append\050i\051        # add it to the list) 99.21 271.52 T
+5 F
+(print) 151.95 258.52 T
+6 F
+( i                 # and print it) 184.91 258.52 T
+(    i = i + 2                   # consider next candidate) 99.21 245.52 T
+0 F
+(Some clari\336cations again:) 70.87 228.52 T
+(\245) 70.87 211.52 T
+0.11 (Python\325) 85.04 211.52 P
+0.11 (s expression syntax is similar to that of C; however there are no assignment or pointer oper-) 119.23 211.52 P
+(ations, and Boolean operators \050and/or/not\051 are spelled as keywords.) 85.04 198.52 T
+(\245) 70.87 181.52 T
+-0.12 (The expression) 85.04 181.52 P
+6 F
+-0.29 ([2]) 154.36 181.52 P
+0 F
+-0.12 ( is a) 174.14 181.52 P
+7 F
+-0.12 (list constructor) 194.22 181.52 P
+0 F
+-0.12 (; it creates a new variable-length list object initially contain-) 260.94 181.52 P
+(ing a single item with value 2.) 85.04 168.52 T
+(\245) 70.87 151.52 T
+6 F
+(len\050\051) 85.04 151.52 T
+0 F
+( is a built-in function returning the length of lists and similar objects \050e.g. strings\051.) 118 151.52 T
+(\245) 70.87 134.52 T
+6 F
+0.88 (.append\050\051) 85.04 134.52 P
+0 F
+0.37 ( is another list object method; it modi\336es the list in place by appending a new item to) 144.37 134.52 P
+(the end.) 85.04 121.52 T
+0.38 (Here\325) 70.87 104.52 P
+0.38 (s another example, involving some simple I/O. It is intended as a shell interface to a trivial data-) 95.27 104.52 P
+0.02 (base of phone numbers maintained in the \336le) 70.87 91.52 P
+6 F
+0.05 ($HOME/.telbase) 271.19 91.52 P
+0 F
+0.02 (. Each line is a free format entry; the) 363.47 91.52 P
+FMENDPAGE
+%%EndPage: "2" 3
+%%Page: "3" 3
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (3) 519.92 56.36 S
+0 11 Q
+-0.04 (program simply prints the lines that match the command line ar) 70.87 749.52 P
+-0.04 (gument\050s\051. The program is thus more or) 349.19 749.52 P
+(less equivalent to the Bourne shell script \322) 70.87 736.52 T
+6 F
+(grep -i "$@" $HOME/.telbase) 256.7 736.52 T
+0 F
+(\323.) 434.68 736.52 T
+5 F
+(import) 99.21 719.52 T
+6 F
+( os, sys, string, regex) 138.76 719.52 T
+5 F
+(def) 99.21 693.52 T
+6 F
+( main\050\051:) 118.99 693.52 T
+(    pattern = string.join\050sys.argv[1:]\051) 99.21 680.52 T
+(    f) 99.21 667.52 T
+(ilename = os.environ[\325HOME\325] + \325/.telbase\325) 132.17 667.52 T
+(    prog = regex.compile\050pattern, regex.casefold\051) 99.21 654.52 T
+(    f = open\050f) 99.21 641.52 T
+(ilename, \325r\325\051) 191.5 641.52 T
+5 F
+(    while) 99.21 628.52 T
+6 F
+( 1:) 158.54 628.52 T
+(        line = f.readline\050\051) 99.21 615.52 T
+5 F
+(        if) 99.21 602.52 T
+(not) 171.72 602.52 T
+6 F
+( line:) 191.5 602.52 T
+5 F
+(break) 237.64 602.52 T
+6 F
+(  # End of f) 270.6 602.52 T
+(ile) 349.7 602.52 T
+5 F
+(        if) 99.21 589.52 T
+6 F
+( prog.search\050line\051 >= 0:) 165.13 589.52 T
+5 F
+(            print) 99.21 576.52 T
+6 F
+( string.strip\050line\051) 211.27 576.52 T
+(main\050\051) 99.21 550.52 T
+0 F
+(Some new Python features to be spotted in this example:) 70.87 533.52 T
+(\245) 70.87 516.52 T
+0.03 (Most code of the program is contained in a) 85.04 516.52 P
+7 F
+0.03 (function de\336nition) 276.65 516.52 P
+0 F
+0.03 (. This is a common way of structuring) 356.95 516.52 P
+0.81 (lar) 85.04 503.52 P
+0.81 (ger Python programs, as it makes it possible to write code in a top-down fashion. The function) 96.43 503.52 P
+6 F
+(main\050\051) 85.04 490.52 T
+0 F
+( is run by the call on the last line of the program.) 124.59 490.52 T
+(\245) 70.87 473.52 T
+0.55 (The expression) 85.04 473.52 P
+6 F
+1.31 (sys.argv[1:]) 155.7 473.52 P
+7 F
+0.55 ( slices) 234.8 473.52 P
+0 F
+0.55 ( the list) 262.5 473.52 P
+6 F
+1.31 (sys.argv) 299.24 473.52 P
+0 F
+0.55 (: it returns a new list with the \336rst ele-) 351.97 473.52 P
+(ment stripped.) 85.04 460.52 T
+(\245) 70.87 443.52 T
+(The) 85.04 443.52 T
+6 F
+(+) 104.87 443.52 T
+0 F
+( operator applied to strings concatenates its ar) 111.46 443.52 T
+(guments.) 312.33 443.52 T
+(\245) 70.87 426.52 T
+-0.14 (The built-in function) 85.04 426.52 P
+6 F
+-0.34 (open\050\051) 178.9 426.52 P
+0 F
+-0.14 ( returns an) 218.45 426.52 P
+7 F
+-0.14 (open \336le) 267.14 426.52 P
+0 F
+-0.14 ( object; its ar) 304.53 426.52 P
+-0.14 (guments are the same as those for the) 360.96 426.52 P
+0.45 (C standard I/O function) 85.04 413.52 P
+6 F
+1.09 (fopen\050\051) 193.65 413.52 P
+0 F
+0.45 (. Open \336le objects have several methods for I/O operations, e.g.) 239.79 413.52 P
+-0.15 (the) 85.04 400.52 P
+6 F
+-0.37 (.readline\050\051) 101.06 400.52 P
+0 F
+-0.15 ( method reads the next line from the \336le \050including the trailing) 173.57 400.52 P
+6 F
+-0.37 (\325\134n\325) 448.79 400.52 P
+0 F
+-0.15 ( character\051.) 475.16 400.52 P
+(\245) 70.87 383.52 T
+-0.23 (Python has no Boolean data type. Extending C\325) 85.04 383.52 P
+-0.23 (s use of integers for Booleans, any object can be used) 291.52 383.52 P
+0.71 (as a truth value. For numbers, non-zero is true; for lists, strings and so on, values with a non-zero) 85.04 370.52 P
+(length are true.) 85.04 357.52 T
+0.2 (This program also begins to show some of the power of the standard and built-in modules provided by) 70.87 340.52 P
+(Python:) 70.87 327.52 T
+(\245) 70.87 310.52 T
+0.36 (W) 85.04 310.52 P
+0.36 (e\325ve already met the) 94.53 310.52 P
+6 F
+0.88 (os) 188.12 310.52 P
+0 F
+0.36 ( module. The variable) 201.3 310.52 P
+6 F
+0.88 (os.environ) 301.92 310.52 P
+0 F
+0.36 ( is a) 367.84 310.52 P
+7 F
+0.36 (dictionary) 389.38 310.52 P
+0 F
+0.36 ( \050an aggregate value) 434.55 310.52 P
+(indexed by arbitrary values, in this case strings\051 providing access to UNIX environment variables.) 85.04 297.52 T
+(\245) 70.87 280.52 T
+0.57 (The module) 85.04 280.52 P
+6 F
+1.37 (sys) 141.72 280.52 P
+0 F
+0.57 ( collects a number of useful variables and functions through which a Python pro-) 161.49 280.52 P
+2.02 (gram can interact with the Python interpreter and its surroundings; e.g.) 85.04 267.52 P
+6 F
+4.85 (sys.argv) 420.64 267.52 P
+0 F
+2.02 ( contains a) 473.38 267.52 P
+(script\325) 85.04 254.52 T
+(s command line ar) 112.5 254.52 T
+(guments.) 193.17 254.52 T
+(\245) 70.87 237.52 T
+4.92 (The) 85.04 237.52 P
+6 F
+11.8 (string) 109.79 237.52 P
+0 F
+4.92 ( module de\336nes a number of additional string manipulation functions; e.g.) 149.34 237.52 P
+6 F
+2.68 (string.join\050\051) 85.04 224.52 P
+0 F
+1.12 ( concatenates a list of strings with spaces between them;) 170.73 224.52 P
+6 F
+2.68 (string.strip\050\051) 432.12 224.52 P
+0 F
+(removes leading and trailing whitespace.) 85.04 211.52 T
+(\245) 70.87 194.52 T
+-0.01 (The) 85.04 194.52 P
+6 F
+-0.03 (regex) 104.86 194.52 P
+0 F
+-0.01 ( module de\336nes an interface to the GNU Emacs regular expression library) 137.82 194.52 P
+-0.01 (. The function) 462.5 194.52 P
+6 F
+1.34 (regex.compile\050\051) 85.04 181.52 P
+0 F
+0.56 ( takes a pattern and returns a compiled regular expression object; this object) 183.92 181.52 P
+1.55 (has a method) 85.04 168.52 P
+6 F
+3.72 (.search\050\051) 150.41 168.52 P
+0 F
+1.55 ( returning the position where the \336rst match is found. The ar) 209.74 168.52 P
+1.55 (gument) 491.45 168.52 P
+6 F
+1.8 (regex.casefold) 85.04 155.52 P
+0 F
+0.75 ( passed to) 177.32 155.52 P
+6 F
+1.8 (regex.compile\050\051) 225.65 155.52 P
+0 F
+0.75 ( is a magic value which causes the search to) 324.53 155.52 P
+(ignore case dif) 85.04 142.52 T
+(ferences.) 149.52 142.52 T
+1.06 (The next example is an introduction to using X1) 70.87 125.52 P
+1.06 (1/Motif from Python; it uses two optional \050and still) 291.32 125.52 P
+2.01 (somewhat experimental\051 modules that together provide access to many features of the Motif GUI) 70.87 112.52 P
+(toolkit. An equivalent C program would be several pages long...) 70.87 99.52 T
+FMENDPAGE
+%%EndPage: "3" 4
+%%Page: "4" 4
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (4) 519.92 56.36 S
+5 11 Q
+(import) 99.21 749.52 T
+6 F
+( sys # Python system interface) 138.76 749.52 T
+5 F
+(import) 99.21 736.52 T
+6 F
+( Xt  # X toolkit intrinsics) 138.76 736.52 T
+5 F
+(import) 99.21 723.52 T
+6 F
+( Xm  # Motif) 138.76 723.52 T
+5 F
+(def) 99.21 697.52 T
+6 F
+( main\050\051:) 118.99 697.52 T
+(    toplevel = Xt.Initialize\050\051) 99.21 684.52 T
+(    button = toplevel.CreateManagedWidget\050\325button\325,) 99.21 671.52 T
+(                                           Xm.PushButton, {}\051) 99.21 658.52 T
+(    button.labelString = \325Push me\325) 99.21 645.52 T
+(    button.AddCallback\050\325activateCallback\325, button_pushed, 0\051) 99.21 632.52 T
+(    toplevel.RealizeWidget\050\051) 99.21 619.52 T
+(    Xt.MainLoop\050\051) 99.21 606.52 T
+5 F
+(def) 99.21 580.52 T
+6 F
+( button_pushed\050widget, client_data, call_data\051:) 118.99 580.52 T
+(    sys.exit\0500\051) 99.21 567.52 T
+(main\050\051  # Call the main function) 99.21 541.52 T
+0 F
+(The program displays a button and quits when it is pressed. Just a few things to note about it:) 70.87 524.52 T
+(\245) 70.87 507.52 T
+-0.22 (X toolkit intrinsics functions that have a widget \336rst ar) 85.04 507.52 P
+-0.22 (gument in C are mapped to methods of) 322.98 507.52 P
+7 F
+-0.22 (widget) 495.11 507.52 P
+0 F
+(objects \050here,) 85.04 494.52 T
+6 F
+(toplevel) 146.97 494.52 T
+0 F
+( and) 199.7 494.52 T
+6 F
+(button) 221.06 494.52 T
+0 F
+(\051 in Python.) 260.61 494.52 T
+(\245) 70.87 477.52 T
+-0.26 (Most calls to) 85.04 477.52 P
+6 F
+-0.61 (XtSetValues\050\051) 143.79 477.52 P
+0 F
+-0.26 ( and) 229.48 477.52 P
+6 F
+-0.61 (XtGetValues\050\051) 250.32 477.52 P
+0 F
+-0.26 ( in C can be replaced to assignments or ref-) 336.02 477.52 P
+(erences to widget attributes \050e.g.) 85.04 464.52 T
+6 F
+(button.labelString) 230.57 464.52 T
+0 F
+(\051 in Python.) 349.23 464.52 T
+0.29 (Much Python code takes the form of modules containing one or more class de\336nitions. Here is a \050triv-) 70.87 447.52 P
+(ial\051 class de\336nition:) 70.87 434.52 T
+5 F
+(class) 99.21 417.52 T
+6 F
+( Counter:) 132.17 417.52 T
+5 F
+(def) 125.58 404.52 T
+6 F
+( __init__\050self\051: # constructor) 145.35 404.52 T
+(        self.value = 0) 99.21 391.52 T
+5 F
+(def) 125.58 378.52 T
+6 F
+( show\050self\051:) 145.35 378.52 T
+5 F
+(print) 151.95 365.52 T
+6 F
+( self.value) 184.91 365.52 T
+5 F
+(def) 125.58 352.52 T
+6 F
+( incr\050self, amount\051:) 145.35 352.52 T
+(        self.value = self.value + amount) 99.21 339.52 T
+0 F
+(Assuming this class de\336nition is contained in module) 70.87 322.52 T
+6 F
+(Cnt) 308.3 322.52 T
+0 F
+(, a simple test program for it could be:) 328.08 322.52 T
+5 F
+(import) 99.21 305.52 T
+6 F
+( Cnt) 138.76 305.52 T
+(my_counter = Cnt.Counter\050\051 # constructor) 99.21 292.52 T
+(my_counter.show\050\051) 99.21 279.52 T
+(my_counter.incr\05014\051) 99.21 266.52 T
+(my_counter.show\050\051) 99.21 253.52 T
+4 12 Q
+(3.  Extending Python using C or C++) 70.87 223.85 T
+0 11 Q
+0.58 (It is quite easy to add new built-in modules \050a.k.a.) 70.87 206.52 P
+7 F
+0.58 (extension modules) 299.13 206.52 P
+0 F
+0.58 (\051 written in C to Python. If your) 380.57 206.52 P
+0.05 (Python binary supports dynamic loading \050a compile-time option for at least SGI and Sun systems\051, you) 70.87 193.52 P
+0.35 (don\325) 70.87 180.52 P
+0.35 (t even need to build a new Python binary: you can simply drop the object \336le in a directory along) 90.81 180.52 P
+0.52 (Python\325) 70.87 167.52 P
+0.52 (s module search path and it will be loaded by the \336rst) 105.06 167.52 P
+6 F
+1.24 (import) 348.65 167.52 P
+0 F
+0.52 ( statement that references it. If) 388.2 167.52 P
+0.63 (dynamic loading is not available, you will have to add some lines to the Python Make\336le and build a) 70.87 154.52 P
+(new Python binary incorporating the new module.) 70.87 141.52 T
+0.46 (The example below is written in C, but C++ can also be used. This is most useful when the extension) 70.87 124.52 P
+0.56 (must interface to existing code \050e.g. a library\051 written in C++. For this to work, it must be possible to) 70.87 111.52 P
+0.03 (call C functions from C++ and to generate C++ functions that can be called from C. Most C++ compil-) 70.87 98.52 P
+FMENDPAGE
+%%EndPage: "4" 5
+%%Page: "5" 5
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (5) 519.92 56.36 S
+0 11 Q
+0.04 (ers nowadays support this through the) 70.87 749.52 P
+6 F
+0.1 (extern) 240.77 749.52 P
+0.1 ("C") 283.11 749.52 P
+0 F
+0.04 ( mechanism. \050There may be restrictions on the use) 302.88 749.52 P
+(of statically allocated objects with constructors or destructors.\051) 70.87 736.52 T
+0.18 (The simplest form of extension module just de\336nes a number of functions. This is also the most useful) 70.87 719.52 P
+0.66 (kind, since most extensions are really \322wrappers\323 around libraries written for use from C. Extensions) 70.87 706.52 P
+0.66 (can also easily de\336ne constants. De\336ning your own \050opaque\051 data types is possible but requires more) 70.87 693.52 P
+(knowledge about internals of the Python interpreter) 70.87 680.52 T
+(.) 296.67 680.52 T
+2.06 (The following is a complete module which provides an interface to the UNIX C library function) 70.87 663.52 P
+7 F
+0.73 (system) 70.87 650.52 P
+0 F
+0.73 (\0503\051. T) 100.16 650.52 P
+0.73 (o add another function, you add a de\336nition similar to that for) 125.14 650.52 P
+6 F
+1.76 (demo_system\050\051) 408.27 650.52 P
+0 F
+0.73 (, and a) 493.96 650.52 P
+0.45 (line for it to the initializer for) 70.87 637.52 P
+6 F
+1.08 (demo_methods) 205.53 637.52 P
+0 F
+0.45 (. The run-time support functions) 284.63 637.52 P
+6 F
+1.08 (Py_ParseArgs\050\051) 432.12 637.52 P
+0 F
+0.88 (and) 70.87 624.52 P
+6 F
+2.12 (Py_BuildValue\050\051) 90.36 624.52 P
+0 F
+0.88 ( can be instructed to convert a variety of C data types to and from Python) 189.24 624.52 P
+(types.) 70.87 611.52 T
+0 9 Q
+(1) 96.81 615.92 T
+6 11 Q
+(/* File "demomodule.c" */) 99.21 594.52 T
+(#include <stdlib.h>) 99.21 568.52 T
+(#include <Py/Python.h>) 99.21 555.52 T
+(static PyObject *demo_system\050self, args\051) 99.21 529.52 T
+(    PyObject *self, *args;) 99.21 516.52 T
+({) 99.21 503.52 T
+(    char *command;) 99.21 490.52 T
+(    int sts;) 99.21 477.52 T
+(    if \050!Py_ParseArgs\050args, "s", &command\051\051) 99.21 464.52 T
+(        return NULL; /* Wrong argument list - not one string */) 99.21 451.52 T
+(    sts = system\050command\051;) 99.21 438.52 T
+(    return Py_BuildValue\050"i", sts\051; /* Return an integer */) 99.21 425.52 T
+(}) 99.21 412.52 T
+(static PyMethodDef demo_methods[] = {) 99.21 386.52 T
+(    {"system", demo_system},) 99.21 373.52 T
+(    {NULL, NULL} /* Sentinel */) 99.21 360.52 T
+(};) 99.21 347.52 T
+(void PyInit_demo\050\051) 99.21 321.52 T
+({) 99.21 308.52 T
+(    \050void\051 Py_InitModule\050"demo", demo_methods\051;) 99.21 295.52 T
+(}) 99.21 282.52 T
+4 12 Q
+(4.  Comparing Python to other languages) 70.87 252.85 T
+0 11 Q
+-0.2 (This section compares Python to some other languages that can be seen as its competitors or precursors.) 70.87 235.52 P
+1.19 (Three of the most well-known languages in this category are reviewed at some length, and a list of) 70.87 222.52 P
+(other in\337uences is given as well.) 70.87 209.52 T
+4 F
+(4.1.  C) 70.87 184.52 T
+0 F
+0.81 (One of the design rules for Python has always been to beg, borrow or steal whatever features I liked) 70.87 167.52 P
+0.58 (from existing languages, and even though the design of C is far from ideal, its in\337uence on Python is) 70.87 154.52 P
+0.01 (considerable. For instance, C\325) 70.87 141.52 P
+0.01 (s de\336nitions of literals, identi\336ers and operators and its expression syntax) 201.79 141.52 P
+3.88 (have been copied almost verbatim. Other areas where C has in\337uenced Python: the) 70.87 128.52 P
+6 F
+9.32 (break) 488.7 128.52 P
+0 F
+3.88 (,) 521.66 128.52 P
+70.87 101.54 524.41 117.54 C
+69.87 109.54 213.87 109.54 2 L
+0.25 H
+2 Z
+0 X
+0 K
+N
+0 0 595.28 841.89 C
+0 10 Q
+0 X
+0 K
+(1.  In the current release, the run-time support functions and types have dif) 70.87 94.87 T
+(ferent names. In version 1.0, they will) 369.07 94.87 T
+(be changed to those shown here in order to avoid namespace clashes with other libraries.) 70.87 83.87 T
+FMENDPAGE
+%%EndPage: "5" 6
+%%Page: "6" 6
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (6) 519.92 56.36 S
+6 11 Q
+-0.47 (continue) 70.87 749.52 P
+0 F
+-0.19 ( and) 123.6 749.52 P
+6 F
+-0.47 (return) 144.57 749.52 P
+0 F
+-0.19 ( statements; the semantics of mixed mode arithmetic \050e.g. 1/3 is 0, but 1/3.0 is) 184.12 749.52 P
+-0.08 (0.333333333333\051; the use of zero as a base for all indexing operations; the use of zero and non-zero for) 70.87 736.52 P
+-0.05 (false and true. \050A more \322high-level\323 in\337uence of C on Python is also distinguishable: the willingness to) 70.87 723.52 P
+0.2 (compromise the \322purity\323 of the language in favor of pragmatic solutions for real-world problems. This) 70.87 710.52 P
+(is a big dif) 70.87 697.52 T
+(ference with ABC [Geurts], in many ways Python\325) 117.36 697.52 T
+(s direct predecessor) 340.11 697.52 T
+(.\051) 426.14 697.52 T
+0.12 (On the other hand, the average Python program looks nothing like the average C program: there are no) 70.87 680.52 P
+0.73 (curly braces, fewer parentheses, and absolutely no declarations \050but more colons :-\051. Python does not) 70.87 667.52 P
+3.2 (have an equivalent of the C preprocessor; the) 70.87 654.52 P
+6 F
+7.68 (import) 297.85 654.52 P
+0 F
+3.2 ( statement is a perfect replacement for) 337.4 654.52 P
+6 F
+(#include) 70.87 641.52 T
+0 F
+(, and instead of) 123.6 641.52 T
+6 F
+(#def) 193.47 641.52 T
+(ine) 219.84 641.52 T
+0 F
+( one uses functions and variables.) 239.62 641.52 T
+1.39 (Because Python has no pointer data types, many common C \322idioms\323 do not translate directly into) 70.87 624.52 P
+0.46 (Python. In fact, much C code simply vanishes into a single operation on Python\325) 70.87 611.52 P
+0.46 (s more powerful data) 429.96 611.52 P
+(types, e.g. string operations, data copying, and table or list management.) 70.87 598.52 T
+0.18 (Since all built-in operations are coded in C, well-written Python programs often suf) 70.87 581.52 P
+0.18 (fer remarkably few) 439.87 581.52 P
+0.94 (speed penalties compared to the same code written out in C. Sometimes Python even outperforms C) 70.87 568.52 P
+0.71 (because all Python dictionary lookup uses a sophisticated hashing technique instead, where a simple-) 70.87 555.52 P
+(minded C program might use an algorithm that is easier to code but less ef) 70.87 542.52 T
+(\336cient.) 397.79 542.52 T
+-0.11 (Surely) 70.87 525.52 P
+-0.11 (, there are also areas where Python code will be clumsier or much slower than equivalent C code.) 98.84 525.52 P
+0.65 (This is especially the case with tight loops over the elements of a lar) 70.87 512.52 P
+0.65 (ge array that can\325) 379.12 512.52 P
+0.65 (t be mapped to) 457.45 512.52 P
+-0.12 (built-in operations. Also, lar) 70.87 499.52 P
+-0.12 (ge numbers of calls to functions containing small amounts of code will suf-) 194.5 499.52 P
+1.04 (fer a performance penalty) 70.87 486.52 P
+1.04 (. And of course, scripts that run for a very short time may suf) 186.45 486.52 P
+1.04 (fer an initial) 468.62 486.52 P
+(delay while the interpreter is loaded and the script is parsed.) 70.87 473.52 T
+1.1 (Beginning Python programmers should be aware of the alternatives available in Python to code that) 70.87 456.52 P
+-0.1 (will run slow when translated literally from C; there\325) 70.87 443.52 P
+-0.1 (s nothing like a regular look at some demo or stan-) 302.01 443.52 P
+(dard modules to get the right \322feeling\323 \050unless you happen to be a co-worker of the author :-\051.) 70.87 430.52 T
+0.99 (In summary) 70.87 413.52 P
+0.99 (, on modern-day machines, where a programmer) 123.93 413.52 P
+0.99 (\325) 343.81 413.52 P
+0.99 (s time is often more at a premium than) 346.86 413.52 P
+0.41 (CPU cycles or memory space, it is often worth while to write an application \050or at least lar) 70.87 400.52 P
+0.41 (ge portions) 474.87 400.52 P
+(thereof\051 in Python instead of in C.) 70.87 387.52 T
+4 F
+(4.2.  Perl) 70.87 362.52 T
+0 F
+0.46 (A well-known scripting language is Perl [W) 70.87 345.52 P
+0.46 (all]. It has some similarities with Python: powerful string,) 266.82 345.52 P
+-0.18 (list and dictionary data types, access to high- and low-level I/O and other system calls, syntax borrowed) 70.87 332.52 P
+0.24 (from C as well as other sources. Like Python, Perl is suited for small scripts or one-time programming) 70.87 319.52 P
+0.69 (tasks as well as for lar) 70.87 306.52 P
+0.69 (ger programs. It is also extensible with code written in C \050use as an embedded) 171.46 306.52 P
+(language is not envisioned though\051.) 70.87 293.52 T
+0.68 (Unlike Python, Perl has support for regular expression matching and formatted output built right into) 70.87 276.52 P
+-0.26 (the core of the language. Perl\325) 70.87 263.52 P
+-0.26 (s type system is less powerful than Python\325) 201.35 263.52 P
+-0.26 (s, e.g. lists and dictionaries can) 389.02 263.52 P
+0.95 (only contain strings and integers as elements. Perl pre\336xes variable names with special characters to) 70.87 250.52 P
+-0.11 (indicate their type, e.g. \322$foo\323 is a simple \050string or integer\051 variable, while \322@foo\323 is an array) 70.87 237.52 P
+-0.11 (. Combi-) 485.45 237.52 P
+-0.03 (nations of special characters are also used to invoke a host of built-in operations, e.g. \322$.\323 is the current) 70.87 224.52 P
+(input line number) 70.87 211.52 T
+(.) 148.39 211.52 T
+0.26 (In Perl, references to unde\336ned variables generally yield a default value, e.g. zero. This is often touted) 70.87 194.52 P
+0.54 (as a convenience, however it means that misspellings can cause nasty bugs in lar) 70.87 181.52 P
+0.54 (ger programs \050this is) 432.18 181.52 P
+(\322solved\323 by an interpreter option to complain about variables set only once and never used\051.) 70.87 168.52 T
+0.31 (Experienced Perl programmers often frown at Python: there is no built-in syntax for the use of regular) 70.87 151.52 P
+0.41 (expressions, the language seems verbose, there is no implied loop over standard input, and the lack of) 70.87 138.52 P
+0.63 (operators with assignment side ef) 70.87 125.52 P
+0.63 (fects in Python may require several lines of code to replace a single) 220.27 125.52 P
+(Perl expression.) 70.87 112.52 T
+0.2 (However) 70.87 95.52 P
+0.2 (, it takes a lot of time to gain suf) 110.69 95.52 P
+0.2 (\336cient Perl experience to be able to write ef) 254.47 95.52 P
+0.2 (fective Perl code,) 447.44 95.52 P
+-0.02 (and considerably more to be able to read code written by someone else! On the contrary) 70.87 82.52 P
+-0.02 (, getting started) 456.4 82.52 P
+FMENDPAGE
+%%EndPage: "6" 7
+%%Page: "7" 7
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (7) 519.92 56.36 S
+0 11 Q
+-0.08 (with Python is easy because there is a lot less \322magic\323 to learn, and its relative verbosity makes reading) 70.87 749.52 P
+(Python code much easier) 70.87 736.52 T
+(.) 180.41 736.52 T
+0.1 (There is lots of Perl code around using horrible \322tricks\323 or \322hacks\323 to work around missing features \321) 70.87 719.52 P
+1.03 (e.g. Perl doesn\325) 70.87 706.52 P
+1.03 (t have general pointer variables, but it is possibly to create recursive or cyclical data) 141.08 706.52 P
+1.03 (structures nevertheless; the code which does this looks contrived, and Perl programmers often try to) 70.87 693.52 P
+1.08 (avoid using recursive data structures even when a problem naturally lends itself to their use \050if they) 70.87 680.52 P
+(were available\051.) 70.87 667.52 T
+1.06 (In summary) 70.87 650.52 P
+1.06 (, Perl is probably more suitable for relatively small scripts, where a lar) 124 650.52 P
+1.06 (ge fraction of the) 445.88 650.52 P
+1.04 (code is concerned with regular expression matching and/or output formatting. Python wins for more) 70.87 637.52 P
+(traditional programming tasks that require more structure for the program and its data.) 70.87 624.52 T
+4 F
+(4.3.  TCL) 70.87 599.52 T
+0 F
+-0.13 (TCL [Ousterhout] is another extensible, interpreted language. TCL \050T) 70.87 582.52 P
+-0.13 (ool Command Language\051 is espe-) 376.63 582.52 P
+0.68 (cially designed to be easy to embed in applications, although a stand-alone interpreter \050) 70.87 569.52 P
+7 F
+0.68 (tcsh) 462.93 569.52 P
+0 F
+0.68 (, the TCL) 480.63 569.52 P
+-0.2 (shell\051 also exists. An important feature of TCL is the availability of) 70.87 556.52 P
+7 F
+-0.2 (tk) 367.17 556.52 P
+0 F
+-0.2 (, an X1) 375.1 556.52 P
+-0.2 (1-based GUI toolkit whose) 406.32 556.52 P
+(behavior can be controlled by TCL programs.) 70.87 543.52 T
+1.36 (TCL) 70.87 526.52 P
+1.36 (\325) 90.61 526.52 P
+1.36 (s power is its extreme simplicity: all statements have the form) 93.66 526.52 P
+7 F
+1.36 (keywor) 383.61 526.52 P
+1.36 (d ar) 414.93 526.52 P
+1.36 (gument ar) 433.9 526.52 P
+1.36 (gument ...) 479.71 526.52 P
+0 F
+0.57 (Quoting and substitution mechanisms similar to those used by the Bourne shell provide the necessary) 70.87 513.52 P
+0.03 (expressiveness. However) 70.87 500.52 P
+0.03 (, this simplicity is also its weakness when it is necessary to write lar) 181.51 500.52 P
+0.03 (ger pieces) 480.15 500.52 P
+0.26 (of code in TCL: since all data types are represented as strings, manipulating lists or even numeric data) 70.87 487.52 P
+0.01 (can be cumbersome, and loops over long lists tend to be slow) 70.87 474.52 P
+0.01 (. Also the syntax, with its abundant use of) 340.01 474.52 P
+0.35 (various quote characters and curly braces, becomes a nuisance when writing \050or reading!\051 lar) 70.87 461.52 P
+0.35 (ge pieces) 483.48 461.52 P
+-0.04 (of TCL code. On the other hand, when used as intended, as an embedded language used to send control) 70.87 448.52 P
+0.5 (messages to applications \050like tk\051, TCL) 70.87 435.52 P
+0.5 (\325) 245.06 435.52 P
+0.5 (s lack of speed and sophisticated data types are not much of a) 248.11 435.52 P
+(problem.) 70.87 422.52 T
+1.36 (Summarizing, TCL) 70.87 405.52 P
+1.36 (\325) 156.67 405.52 P
+1.36 (s application scope is more restricted than Python: TCL should be used only as) 159.73 405.52 P
+(directed.) 70.87 392.52 T
+4 F
+(4.4.  Other in\337uences) 70.87 367.52 T
+0 F
+(Here is an \050incomplete\051 list of \322lesser known\323 languages that have in\337uenced Python:) 70.87 350.52 T
+(\245) 70.87 333.52 T
+-0.04 (ABC was one of the greatest in\337uences on Python: it provided the use of indentation, the concept of) 85.04 333.52 P
+-0.04 (high-level data types, their implementation using reference counting, and the whole idea of an inter-) 85.04 320.52 P
+0.61 (preted language with an elegant syntax. Python goes beyond ABC in its object-oriented nature, its) 85.04 307.52 P
+0.75 (use of modules, its exception mechanism, and its extensibility) 85.04 294.52 P
+0.75 (, at the cost of only a little elegance) 362.51 294.52 P
+(\050Python was once summarized as \322ABC for hackers\323 :-\051.) 85.04 281.52 T
+(\245) 70.87 264.52 T
+0.29 (Modula-3 provided modules and exceptions \050both the) 85.04 264.52 P
+6 F
+0.7 (import) 325.41 264.52 P
+0 F
+0.29 ( and the) 364.96 264.52 P
+6 F
+0.7 (try) 403.37 264.52 P
+0 F
+0.29 ( statement syntax were) 423.15 264.52 P
+0.99 (borrowed almost unchanged\051, and suggested viewing method calls as syntactic sugar for function) 85.04 251.52 P
+(calls.) 85.04 238.52 T
+(\245) 70.87 221.52 T
+(Icon provided the slicing operations.) 85.04 221.52 T
+(\245) 70.87 204.52 T
+(C++ provided the constructor and destructor functions and user) 85.04 204.52 T
+(-de\336ned operators.) 363.28 204.52 T
+(\245) 70.87 187.52 T
+(Smalltalk provided the notions of classes as \336rst-class citizens and run-time type checking.) 85.04 187.52 T
+FMENDPAGE
+%%EndPage: "7" 8
+%%Page: "8" 8
+595.28 841.89 0 FMBEGINPAGE
+70.87 48.19 524.41 62.36 R
+7 X
+0 K
+V
+0 9 Q
+0 X
+(Python for Unix/C Programmers) 70.87 56.36 T
+(Copyright 1993 Guido van Rossum) 233.72 56.36 T
+0 (8) 519.92 56.36 S
+4 12 Q
+(5.  A) 70.87 748.85 T
+(vailability) 93.63 748.85 T
+0 11 Q
+0.37 (The Python source and documentation are freely available by ftp. It compiles and runs on most UNIX) 70.87 731.52 P
+0.43 (systems, Macintosh, and PCs and compatibles. For Macs and PCs, pre-built executables are available.) 70.87 718.52 P
+(The following information should be suf) 70.87 705.52 T
+(\336cient to access the ftp archive:) 249.18 705.52 T
+6 F
+(Host:          ftp.cwi.nl \050IP number: 192.16.184.180\051) 99.21 688.52 T
+(Login:         anonymous) 99.21 675.52 T
+(Password:      \050your email address\051) 99.21 662.52 T
+(Transfer mode: binary) 99.21 649.52 T
+(Directory:     /pub/python) 99.21 636.52 T
+(Files:         python0.9.9.tar.Z \050source, includes LaTeX docs\051) 99.21 623.52 T
+(               pythondoc-ps0.9.9.tar.Z \050docs in PostScript\051) 99.21 610.52 T
+(               MacPython0.9.9.hqx \050Mac binary\051) 99.21 597.52 T
+(               python.exe.Z \050DOS binary\051) 99.21 584.52 T
+0 F
+1.09 (The \3220.9.9\323 in the \336lenames may be replaced by a more recent version number by the time you are) 70.87 567.52 P
+(reading this. Fetch the \336le INDEX for an up-to-date description of the directory contents.) 70.87 554.52 T
+-0.08 (The 0.9.9 release of Python is also available on the CD-ROM pressed by the NLUUG for its November) 70.87 537.52 P
+0.41 (1993 conference. The next release will be labeled 1.0 and will be posted to a) 70.87 524.52 P
+6 F
+0.97 (comp.sources) 415.92 524.52 P
+0 F
+0.41 ( news-) 495.02 524.52 P
+(group before the end of 1993.) 70.87 511.52 T
+0.13 (The source code for the STDWIN window interface is not included in the Python source tree. It can be) 70.87 494.52 P
+(ftp\325ed from the same host, directory) 70.87 481.52 T
+6 F
+(/pub/stdwin) 231.66 481.52 T
+0 F
+(, \336le) 304.17 481.52 T
+6 F
+(stdwin0.9.8.tar.Z) 326.45 481.52 T
+0 F
+(.) 438.51 481.52 T
+4 12 Q
+(6.  Refer) 70.87 451.85 T
+(ences) 114.27 451.85 T
+0 11 Q
+([Geurts]) 70.87 434.52 T
+1.89 (Leo Geurts, Lambert Meertens and Steven Pemberton, \322ABC Programmer) 141.73 434.52 P
+1.89 (\325) 484.99 434.52 P
+1.89 (s Hand-) 488.04 434.52 P
+(book\323, Prentice-Hall, London, 1990.) 141.73 421.52 T
+([W) 70.87 404.52 T
+(all]) 84.02 404.52 T
+-0.17 (Larry W) 141.73 404.52 P
+-0.17 (all and Randall L. Schwartz, \322Programming perl\323, O\325Reilly & Associates, Inc.,) 178.21 404.52 P
+(1990-1992.) 141.73 391.52 T
+([Ousterhout]) 70.87 374.52 T
+(John Ousterhout, \322An Introduction to T) 141.73 374.52 T
+(cl and Tk\323, Addison W) 314.9 374.52 T
+(esley) 416.24 374.52 T
+(, 1993.) 438.1 374.52 T
+FMENDPAGE
+%%EndPage: "8" 9
+%%Trailer
+%%BoundingBox: 0 0 595.28 841.89
+%%Pages: 8 1
+%%DocumentFonts: Times-Roman
+%%+ Helvetica
+%%+ Helvetica-Oblique
+%%+ Helvetica-Bold
+%%+ Times-Bold
+%%+ Courier-Bold
+%%+ Courier
+%%+ Times-Italic
