@@ -1,1 +1,1 @@
-*.ps linguist-vendored
+python/history/*.ps linguist-vendored
