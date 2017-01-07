@@ -110,8 +110,7 @@ class Router:
         environ['myapp.config'] = self.config
         path = environ.get('PATH_INFO', '').lstrip('/')
         for regex, callback in self.handlers:
-            # TODO: pass an config object to
-            # these handlers
+            # TODO: pass a config object to these handlers
             match = re.search(regex, path)
             if match is not None:
                 environ['myapp.url_args'] = match.groups()
