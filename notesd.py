@@ -14,7 +14,7 @@ TODOs
   with a response objects.
 * Recursive directories
 * Add a factory for another WSGI servers
-* Use ExceptionMiddleware inside of Notesd
+* [x] Use ExceptionMiddleware inside of Notesd
 """
 
 import html
@@ -100,7 +100,7 @@ class DocumentHandler(BaseHandler):
         return self.render(content)
 
 
-class Notesd:
+class Router:
 
     def __init__(self, handlers, config):
         self.handlers = handlers
@@ -139,6 +139,17 @@ class ExceptionMiddleware:
             appiter.close()
 
 
+class Notesd:
+
+    def __init__(self, handlers, config):
+        self.handlers = handlers
+        self.config = config
+        self.app = Router(self.handlers, self.config)
+
+    def __call__(self, environ, start_response):
+        yield from ExceptionMiddleware(self.app)(environ, start_response)
+
+
 if __name__ == '__main__':
     import argparse
     import wsgiref.simple_server
@@ -153,7 +164,7 @@ if __name__ == '__main__':
         (r'^$', IndexHandler),
         (r'document/(.+)$', DocumentHandler),
     ]
-    application = ExceptionMiddleware(Notesd(handlers, config))
+    application = Notesd(handlers, config)
     httpd = wsgiref.simple_server.make_server('', options.port, application)
 
     print('Serving on port http://localhost:{}...'.format(options.port))
