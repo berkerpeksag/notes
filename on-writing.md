@@ -1,4 +1,4 @@
-# Notes
+## Ursula K. Le Guin
 
 * Try writing very short pieces, a paragraph, a page, not complete
   stories. Just describe a certain scene, or put a character into a
@@ -43,3 +43,16 @@
 * http://bookviewcafe.com/blog/2015/08/10/navigating-session-1/
 * http://bookviewcafe.com/blog/2015/10/05/navigating-the-ocean-of-story-session-1-part-5/
 * http://bookviewcafe.com/blog/2015/09/21/navigating-the-ocean-of-story-session-1-part-4/
+
+
+## George Orwell
+
+* A scrupulous writer, in every sentence that he writes, will ask himself
+  at least four questions, thus: What am I trying to say? What words will
+  express it? What image or idiom will make it clearer? Is this image fresh
+  enough to have an effect? And he will probably ask himself two more:
+  Could I put it more shortly? Have I said anything that is avoidably ugly?
+
+**References:**
+
+* *Politics and the English Language* - http://www.orwell.ru/library/essays/politics/english/e_polit/
