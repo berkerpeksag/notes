@@ -277,9 +277,4 @@ when trying to start programs.
 
 ---
 
-TODO: replace non-ASCII chars with ASCII ones
-TODO: replace Unix with Unix
-
----
-
 **Reference:** http://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/
