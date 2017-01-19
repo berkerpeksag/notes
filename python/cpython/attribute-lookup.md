@@ -212,8 +212,8 @@ _PyObject_GenericGetAttrWithDict(PyObject *obj, PyObject *name, PyObject *dict)
 
   ```c
   if (dict == NULL) {
-    dictptr = _PyObject_GetDictPtr(obj);
-    dict = *dictptr;
+      dictptr = _PyObject_GetDictPtr(obj);
+      dict = *dictptr;
   }
   ```
 * If the instance dictionary doesn't contain the attribute, but the attribute
