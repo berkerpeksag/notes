@@ -29,6 +29,13 @@ bu belgede toplayacağım.
 * Delete the whole line: `dd`
 * Move cursor to end of the line and switch to insert mode: `A`
 * Move cursor to end of the line, switch to insert mode and press `<CR>`: `o`
+* Move current line to after line *n*: `:m n`
+* To move a block of lines, use the same command but visually select the lines
+  before entering the move command.
+* Move lines 5, 6 and 7 to after line 21: `:5,7m 21`
+* Move lines from current to 7 to after line 21: `:.,7m 21`
+* Move current line to down: `<leader>mj`
+* Move current line to up: `<leader>mk`
 
 ## Searching
 
