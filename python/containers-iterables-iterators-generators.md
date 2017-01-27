@@ -56,9 +56,14 @@
   **Low level explanation:**
 
   1. `GET_ITER` opcode will call `PyObject_GetIter(iterable)` which is an
-     equivalent of `iter(iterable)`
+     equivalent of `iter(iterable)`. For example:
+
+     ```py
+     >>> iter((1, 2))
+     <tuple_iterator object at 0x7f9d6e4e5a90>
+     ```
   2. Then `FOR_ITER` opcode will call the function that the `tp_iternext`
-     slot of the type of the iterator points to:
+     slot of the type of the iterator (e.g. `tuple_iterator`) points to:
 
      ```c
      PyObject *next = (*iter->ob_type->tp_iternext)(iter);
@@ -66,6 +71,14 @@
 
      `tp_iternext` is an optional pointer to a function that returns the
      next item in an iterator.
+
+     For example, in the following example it will call the `tupleiter_next`
+     function in `Objects/tupleobject.c`:
+
+     ```py
+     for i in (1, 2):
+         print(i)
+     ```
 
   **High level explanation:**
 
