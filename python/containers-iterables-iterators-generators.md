@@ -64,11 +64,6 @@
      PyObject *next = (*iter->ob_type->tp_iternext)(iter);
      ```
 
-     `tp_iternext` defaults to `iter_iternext(PyObject *iterator)` in
-     `Objects/iterobject.c`. `tp_iternext` doesn't get its default
-     implementation from `PyTypeObject`. It gets it from the
-     `PyObject_GetIter(iterable)` call we described above.
-
      `tp_iternext` is an optional pointer to a function that returns the
      next item in an iterator.
 
