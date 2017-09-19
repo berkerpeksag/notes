@@ -339,18 +339,18 @@ their places in their eagerness to shout out the right answers, and at the same
 time not feeling the faintest interest in the meaning of the mysterious events
 they were naming.
 
-‘1587’
-‘Massacre of St Bartholomew!’
-‘1707?’
-‘Death of Aurangzeeb!’
-‘1713?’
-‘Treaty of Utrecht!’
-‘1773?’
-‘Boston Tea Party!’
-‘1520?’
-‘Oo, Mum, please, Mum—’
-‘Please, Mum, please Mum! Let me tell him, Mum!’
-‘Well! 1520?’
+‘1587’  
+‘Massacre of St Bartholomew!’  
+‘1707?’  
+‘Death of Aurangzeeb!’  
+‘1713?’  
+‘Treaty of Utrecht!’  
+‘1773?’  
+‘Boston Tea Party!’  
+‘1520?’  
+‘Oo, Mum, please, Mum—’  
+‘Please, Mum, please Mum! Let me tell him, Mum!’  
+‘Well! 1520?’  
 ‘Field of the Cloth of Gold!’
 
 And so on.
