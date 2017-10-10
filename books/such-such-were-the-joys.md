@@ -414,3 +414,80 @@ But it is difficult for a child to realize that a school is primarily
 a commercial venture. A child believes that the school exists to educate and
 that the school-master disciplines him either for his own good, or from a love
 of bullying.
+
+She had a hardly-varying vocabulary of praise and abuse, a whole series of set
+phrased, each of which promptly called forth the appropriate response. There
+was ‘Buck up, old chap!’, which inspired one to paroxysms of energy; there was
+‘Don't be such a fool!’ (or, ‘It's pathetic, isn't it?’), which made one feel
+a born idiot; and there was ‘It isn't very straight of you, is it?’, which
+always brought one to the brink of tears. And yet all the while, at the middle
+of one's heart, there seemed to stand an incorruptible inner self who knew that
+whatever one did — whether one laughed or snivelled or went into frenzies of
+gratitude for small favours — one's only true feeling was hatred.
+
+The various codes which were presented to you at St Cyprian's — religious,
+moral social and intellectual — contradicted one another if you worked out
+their implications. The essential conflict was between the tradition of
+nineteenth-century asceticism and the actually existing luxury and snobbery of
+the pre-1914 age. On the one side were low-church Bible Christianity, sex
+puritanism, insistence on hard work, respect for academic distinction,
+disapproval of self-indulgence: on the other, contempt for ‘braininess’, and
+worship of games, contempt for foreigners and the working class, an almost
+neurotic dread of poverty, and, above all, the assumption not only that money
+and privilege are the things that matter, but that it is better to inherit them
+than to have to work for them. Broadly, you were bidden to be at once
+a Christian and a social success, which is impossible.
+
+But it was clear that I could never find my way into that paradise, to which
+you did not really belong unless you were born into it. You could only make
+money, if at all by a mysterious operation called ‘going to the city’, and when
+you came out of the City, having won you £100,000, you were fat and old. But
+the truly enviable thing about the top-notchers was that they were rich while
+young. For people like me, the ambitious middle class, the examination-passers,
+only a bleak, laborious kind of success was possible. You clambered upwards on
+a ladder of scholarships into the Civil Service or the Indian Civil Service, or
+possibly you became a barrister. And if at any point you ‘slacked’ or ‘went
+off’ and missed one of the rungs in the ladder, you became ‘a little office boy
+at forty pounds a year’.
+
+You were supposed to love God, and I did not question this. Till the age of
+about fourteen I believed in God, and believed that the accounts given of him
+were true. But I was well aware that I did not love him. On the contrary,
+I hated him, just as I hated Jesus and the Hebrew patriarchs. If I had
+sympathetic feelings towards any character in the Old Testament, it was towards
+such people as Cain, Jezebel, Haman, Agag, Sisera: in the New Testament my
+friends, if any, were Ananias, Caiaphas, Judas and Pontius Pilate. But the
+whole business of religion seemed to be strewn with psychological
+impossibilities. The Prayer Book told you, for example, to love God and fear
+him: but how could you love someone whom you feared?
+
+At the time I could not see beyond the moral dilemma that is presented to the
+weak in a world governed by the strong: Break the rules, or perish. I did not
+see that in that case the weak have the right to make a different set of rules
+for themselves; because, even if such an idea had occurred to me, there was no
+one in my environment who could have confirmed me in it. I lived in a world
+of boys, gregarious animals questioning nothing, accepting the law of the
+stronger and avenging their own humiliations by passing them down to
+someone smaller. My situation was that of countless other boys, and if
+potentially I was more of a rebel than most, it was only because, by boyish
+standards, I was a poorer specimen. But I never did rebel intellectually,
+only emotionally. I had nothing to help me except my dumb selfishness, my
+inability — not, indeed, to despise myself, but to dislike myself — my
+instinct to survive.
+
+Looking back on my own childhood, after the infant years were over, I do not
+believe that I ever felt love for any mature person, except my mother, and even
+her I did not trust, in the sense that shyness made me conceal most of my real
+feelings from her. Love, the spontaneous, unqualified emotion of love, was
+something I could only feel for people who were young. Towards people who were
+old — and remember that ‘old’ to a child means over thirty, or even over
+twenty-five — I could feel reverence respect, admiration or compunction, but
+I seemed cut off from them by a veil of fear and shyness mixed up with physical
+distaste.
+
+All who have passed the age of thirty are joyless grotesques, endlessly fussing
+about things of no importance and staying alive without so far as the child can
+see, having anything to live for. Only child life is real life. The
+schoolmaster who imagines that he is loved and trusted by his boys is in fact
+mimicked and laughed at behind his back. An adult who does not seem dangerous
+nearly always seems ridiculous.
