@@ -52,7 +52,20 @@ class Fib:
         self.a, self.b = self.b, self.a + self.b
         return fib
 
+
+class LegacyIterator:
+
+    def __getitem__(self, i):
+        if i >= 10:
+            raise IndexError
+        return i
+
+
 if __name__ == '__main__':
+    it = LegacyIterator()
+    for i in it:
+        print(i)
+
     for n in Fib(1000):
         print(n, end=' ')
     print()

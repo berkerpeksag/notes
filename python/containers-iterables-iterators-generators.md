@@ -129,3 +129,33 @@
 **Reference:** The part about the difference between an iterator and an
 iterable taken from http://nvie.com/posts/iterators-vs-generators/ The rest of
 the document written by me.
+
+
+## Before the iterator protocol
+
+`__getitem__` predates the iterator protocol, and was in the past the only way
+to make things iterable. As such, it's still supported as a method of
+iterating. Essentially, the protocol for iteration is:
+
+1. Check for an `__iter__` method. If it exists, use the new iteration
+   protocol.
+2. Otherwise, try calling `__getitem__` with successively larger integer
+   values until it raises `IndexError`.
+
+**Example:**
+
+```py
+class LegacyIterator:
+
+    def __getitem__(self, i):
+        if i > 10:
+            raise IndexError
+        return i
+
+it = LegacyIterator()
+
+for i in it:
+    print(i)
+```
+
+**Reference:** http://stackoverflow.com/a/926649
