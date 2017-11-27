@@ -99,7 +99,9 @@ def main():
     print("JIT-compiling a native mul-function w/arg %d" % arg)
     function_type = make_multiplier(block, arg)
 
-    block_address = ctypes.c_uint64.from_buffer(block, 0)
+    block_address = ctypes.c_uint64.from_address(
+        ctypes.addressof(ctypes.c_uint64.from_buffer(block, 0))
+    )
     block_p = c_uint8_p(block_address)
     mul = function_type(ctypes.cast(block_p, ctypes.c_void_p).value)
 
@@ -111,9 +113,6 @@ def main():
             actual))
 
     print("Deallocating function")
-    # Release internal buffer to avoid getting a BufferError
-    # from 'block.close()'.
-    block_address._objects.release()
     block.close()
 
     # Unbind local variables
