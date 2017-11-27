@@ -2,8 +2,7 @@
 Provides a way to generate machine code and bind it to callable Python
 functions at runtime.
 
-You need a UNIX system with mmap, mprotect and so on. Tested on macOS and
-Linux.
+You need a UNIX system with mmap. Tested on macOS and Linux.
 
 See https://csl.name/post/python-jit/ for a write-up on how everything works!
 
@@ -12,20 +11,12 @@ Written by Christian Stigen Larsen
 
 import ctypes
 import ctypes.util
-import mmap as MMAP
+import mmap
 import os
 import sys
 
 # Load the C standard library
 libc = ctypes.CDLL(ctypes.util.find_library("c"))
-
-# A few constants
-MAP_FAILED = -1 # voidptr actually
-
-# Set up strerror
-strerror = libc.strerror
-strerror.argtypes = [ctypes.c_int]
-strerror.restype = ctypes.c_char_p
 
 # Get pagesize
 PAGESIZE = os.sysconf(os.sysconf_names["SC_PAGESIZE"])
@@ -33,47 +24,19 @@ PAGESIZE = os.sysconf(os.sysconf_names["SC_PAGESIZE"])
 # 8-bit unsigned pointer type
 c_uint8_p = ctypes.POINTER(ctypes.c_uint8)
 
-# Setup mmap
-mmap = libc.mmap
-mmap.argtypes = [ctypes.c_void_p,
-                 ctypes.c_size_t,
-                 ctypes.c_int,
-                 ctypes.c_int,
-                 ctypes.c_int,
-                 # Below is actually off_t, which is 64-bit on macOS
-                 ctypes.c_int64]
-mmap.restype = c_uint8_p
-
-# Setup munmap
-munmap = libc.munmap
-munmap.argtypes = [ctypes.c_void_p, ctypes.c_size_t]
-munmap.restype = ctypes.c_int
-
-# Set mprotect
-mprotect = libc.mprotect
-mprotect.argtypes = [ctypes.c_void_p, ctypes.c_size_t, ctypes.c_int]
-mprotect.restype = ctypes.c_int
 
 def create_block(size):
     """Allocated a block of memory using mmap."""
-    ptr = mmap(0, size, MMAP.PROT_WRITE | MMAP.PROT_READ,
-            MMAP.MAP_PRIVATE | MMAP.MAP_ANONYMOUS, 0, 0)
+    block = mmap.mmap(
+        0,
+        size,
+        mmap.MAP_PRIVATE | mmap.MAP_ANONYMOUS,
+        mmap.PROT_WRITE | mmap.PROT_READ | mmap.PROT_EXEC,
+        0,
+        0,
+    )
+    return block
 
-    if ptr == MAP_FAILED:
-        raise RuntimeError(strerror(ctypes.get_errno()))
-
-    return ptr
-
-def make_executable(block, size):
-    """Marks mmap'ed memory block as read-only and executable."""
-    if mprotect(block, size, MMAP.PROT_READ | MMAP.PROT_EXEC) != 0:
-        raise RuntimeError(strerror(ctypes.get_errno()))
-
-def destroy_block(block, size):
-    """Deallocated previously mmapped block."""
-    if munmap(block, size) == -1:
-        raise RuntimeError(strerror(ctypes.get_errno()))
-    del block
 
 def make_multiplier(block, multiplier):
     """JIT-compiles a function that multiplies its RDX argument with an
@@ -135,9 +98,9 @@ def main():
     print("JIT-compiling a native mul-function w/arg %d" % arg)
     function_type = make_multiplier(block, arg)
 
-    print("Making function block executable")
-    make_executable(block, PAGESIZE)
-    mul = function_type(ctypes.cast(block, ctypes.c_void_p).value)
+    block_address = ctypes.c_uint64.from_buffer(block, 0)
+    block_p = c_uint8_p(block_address)
+    mul = function_type(ctypes.cast(block_p, ctypes.c_void_p).value)
 
     print("Testing function")
     for i in range(10):
@@ -146,8 +109,10 @@ def main():
         print("%-4s mul(%d) = %d" % ("OK" if actual == expected else "FAIL", i,
             actual))
 
-    print("Deallocating function")
-    destroy_block(block, PAGESIZE)
+    # Release internal buffer to avoid getting a BufferError
+    # from 'block.close()'.
+    block_address._objects.release()
+    block.close()
 
     # Unbind local variables
     del block

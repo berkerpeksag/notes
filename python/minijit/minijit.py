@@ -38,7 +38,9 @@ class Assembler:
     @property
     def address(self):
         """Returns address of block in memory."""
-        return ctypes.cast(self.block, ctypes.c_void_p).value
+        block_address = ctypes.c_uint64.from_buffer(self.block, 0)
+        block_p = mj.c_uint8_p(block_address)
+        return ctypes.cast(block_p, ctypes.c_void_p).value
 
     def little_endian(self, n):
         """Converts 64-bit number to little-endian format."""
@@ -279,9 +281,6 @@ def compile_native(function, verbose=True):
     for name, a, b in ir:
         emit = getattr(assembler, name)
         emit(a, b)
-
-    # Make block executable and read-only
-    mj.make_executable(assembler.block, assembler.size)
 
     argcount = codeobj.co_argcount
 
