@@ -82,6 +82,7 @@ def make_multiplier(block, multiplier):
     function.restype = ctypes.c_uint64
     return function
 
+
 def main():
     # Fetch the constant to multiply with on the command line. If not
     # specified, use the default value of 11.
@@ -109,6 +110,7 @@ def main():
         print("%-4s mul(%d) = %d" % ("OK" if actual == expected else "FAIL", i,
             actual))
 
+    print("Deallocating function")
     # Release internal buffer to avoid getting a BufferError
     # from 'block.close()'.
     block_address._objects.release()
