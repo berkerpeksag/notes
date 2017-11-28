@@ -215,7 +215,7 @@ def optimize(ir):
         # Same as above, but with an in-between instruction
         if (op1 == "push" and op4 == "pop" and op2 not in ("push", "pop") and
                 op3 not in ("push", "pop")):
-            # Only do this if a3 is not mofidied in the middle instruction. An
+            # Only do this if a3 is not modified in the middle instruction. An
             # obvious improvement would be to allow an arbitrary number of
             # in-between instructions.
             if a2 != a4 and a3 != a4:
