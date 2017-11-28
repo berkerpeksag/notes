@@ -10,6 +10,11 @@ Written by Christian Stigen Larsen
 Put in the public domain by the author, 2017
 
 Modified by Berker Peksag
+
+TODO: Try to make a register allocator.
+TODO: Create more peephole optimizations.
+TODO: Add support for calling other functions, loops.
+TODO: Try to implement PEP 523.
 """
 
 import ctypes
@@ -23,7 +28,52 @@ PRE36 = sys.version_info[:2] < (3, 6)
 
 
 class Assembler:
-    """An x86-64 assembler."""
+    """
+    An x86-64 assembler.
+
+    To find the encoding of the instructions, I mainly used the
+    NASM assembler. Putting the following in a file sandbox.asm,
+
+        bits 64
+        section .text
+        mov rax, rcx
+        mov rax, rdx
+        mov rax, rbx
+        mov rax, rsp
+
+    I assembled it with
+
+        $ nasm -felf64 sandbox.asm -osandbox.o
+
+    (-fmacho64 for macOS) and dumped the machine code with
+
+        $ objdump -d sandbox.o
+
+    sandbox.o:     file format elf64-x86-64
+
+    Disassembly of section .text:
+
+    0000000000000000 <.text>:
+       0:   48 89 c8                mov    %rcx,%rax
+       3:   48 89 d0                mov    %rdx,%rax
+       6:   48 89 d8                mov    %rbx,%rax
+       9:   48 89 e0                mov    %rsp,%rax
+
+    It seems like the 64-bit movq (which we just call mov) is
+    encoded with the prefix 0x48 0x89 with the source and
+    destination registers stored in the last byte. Digging
+    into a few manuals, we see that they are encoded using
+    three bits each.
+
+        0x48, 0x29, 0xc0 | self.registers(b, a)
+
+    If self.registers(b, a) returns 2, the last byte will be
+
+        >>> 0xc0 | 2
+        0xc2
+
+    See the registers method for the implementation.
+    """
 
     def __init__(self, size):
         self.block = mj.create_block(size)
@@ -89,7 +139,61 @@ class Assembler:
 
 
 class Compiler:
-    """Compiles Python bytecode to intermediate representation (IR)."""
+    """
+    Compiles Python bytecode to intermediate representation (IR).
+
+    CPython is implemented as a stack machine. All the bytecode
+    instructions operate on a stack of objects.
+
+    A beautiful property of postfix systems is that operations
+    can be serialized:
+
+        2 2 * 3 3 * -
+
+    Moving from left to right, we push 2 on the stack, then
+    another 2. For the * operation we pop them both off and push
+    their product 4. Push 3 and 3, pop them off and push their
+    product 9. The stack will now contain 9 on the top and 4 at
+    the bottom. For the final subtraction, we pop them off,
+    perform the subtraction and push the result -5 on the stack.
+
+    In postfix form, the evaluation order becomes explicit:
+
+        push 2
+        push 2
+        call multiply
+        push 3
+        push 3
+        call multiply
+        call subtract
+
+    The multiply and subtract functions find their arguments on
+    the stack. For subtract, the two arguments consist of the
+    products 2*2 and 3*3.
+
+    The use of a stack makes it possible to execute instructions
+    linearly, and this is essentially how stack machines operate.
+
+    Our IR will consist of pseudo-assembly instructions in a
+    list, with a faint resemblance to three address codes (TAC).
+    For example:
+
+        ir = [("mov", "rax", 101),
+              ("push", "rax", None)]
+
+    Contrary to TAC, we put the operation first, followed by the
+    destination and source registers. We use None to indicate
+    unused registers and arguments.
+
+    We will reserve registers RAX and RBX for menial work like
+    arithmetic, pushing and popping. RAX must also hold the
+    return value, because that's the convention. The CPU already
+    has a stack, so we'll use that as our data stack mechanism.
+
+    Registers RDI, RSI, RDX and RCX will be reserved for variables
+    and arguments. Per AMD64 convention, we expect to see function
+    arguments passed in those registers, in that order.
+    """
 
     def __init__(self, bytecode, constants):
         self.bytecode = bytecode
@@ -97,11 +201,13 @@ class Compiler:
         self.index = 0
 
     def fetch(self):
+        """Retrieves the next bytecode."""
         byte = self.bytecode[self.index]
         self.index += 1
         return byte
 
     def decode(self):
+        """Fetches the opcode, look up its name and fetch any arguments."""
         opcode = self.fetch()
         opname = dis.opname[opcode]
         if opname.startswith(("UNARY", "BINARY", "INPLACE", "RETURN")):
