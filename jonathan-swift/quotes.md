@@ -1,5 +1,8 @@
 ## Quotes
 
+* "The bulk of your natives to be the most pernicious race of little odious
+  vermin that nature ever suffered to crawl upon the surface of the earth."
+  (*Gulliver's Travels*)
 * When a true genius appears in the world, you may know him by this sign; that
   the dunces are all in confederacy against him. *(Thoughts on Various
   Subjects)*
