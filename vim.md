@@ -36,6 +36,9 @@ bu belgede toplayacağım.
 * Move lines from current to 7 to after line 21: `:.,7m 21`
 * Move current line to down: `<leader>mj`
 * Move current line to up: `<leader>mk`
+* Increase the indentation from the current line until the end of the file:
+  `>G`
+
 
 ## Searching
 
