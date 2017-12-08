@@ -9,6 +9,13 @@ f.spam
 f.x
 ```
 
+**Note:** You can get the code object of the example above by running the
+following snippet:
+
+```py
+code_obj = compile(code, '<string>', 'exec')
+```
+
 As shown below, attribute lookup is initiated by the `LOAD_ATTR` bytecode.
 
 ```py
@@ -24,7 +31,8 @@ As shown below, attribute lookup is initiated by the `LOAD_ATTR` bytecode.
 ```
 
 What `LOAD_ATTR(namei)` does is replacing `TOS` (top-of-stack) with
-`getattr(TOS, co_names[namei])`
+`getattr(TOS, co_names[namei])`. `co_names` is a variable defined in
+`Python/ceval.c` that is storing the `code_obj.co_names` tuple.
 
 `Python/ceval.c`:
 
@@ -42,8 +50,11 @@ TARGET(LOAD_ATTR) {
 ```
 
 We get the value (TOS) by calling `TOP()` and the attribute name by calling
-`GETITEM(names, oparg)`.
+`GETITEM(names, oparg)`. `GETITEM` is a macro that is expanded to:
 
+```c
+#define GETITEM(v, i) PyTuple_GetItem((v), (i))
+```
 
 `Objects/object.c`:
 
