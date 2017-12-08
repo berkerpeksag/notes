@@ -23,7 +23,7 @@ Some objects don't have any methods at all.
 
 Even if they have methods, you can never change the type, nor the identity.
 
-**Note: **Things like `name.attr` and `name[index]` are just syntactic sugar for
+**Note:** Things like `name.attr` and `name[index]` are just syntactic sugar for
 method calls. The first corresponds to `__setattr__` and `__getattr__`, the
 second to `__setitem__` and `__getitem__`.
 

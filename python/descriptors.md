@@ -5,13 +5,7 @@
 
 *gutworth on #python-dev*
 
-### Simple Scheme
-
-* `obj.attribute` means `attribute.__get__(obj, type(obj))`
-* `obj.attribute = value` means `attribute.__set__(obj, value)`
-* `del obj.attribute` means `attribute.__delete__(obj)`
-
-### Functions are descriptors
+## Functions are descriptors
 
 ```py
 >>> def f(): pass
