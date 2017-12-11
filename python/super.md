@@ -288,7 +288,7 @@ oc = OrderedCounter('abracadabra')
   position = LoggingOD.__mro__.index
   assert position(LoggingDict) < position(OrderedDict)
   assert position(OrderedDict) < position(dict)
- ```
+  ```
 
 * Good write-ups for linearization algorithms can be found at [Python MRO
   documentation](http://www.python.org/download/releases/2.3/mro/)
