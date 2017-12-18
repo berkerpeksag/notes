@@ -8,7 +8,7 @@ değil, bu "baskı gören" gruplardan birine bile ait olmayan, aksine toplumun
 ayrıcalıklı kesimlerinden gelen ayrıcalıklı azınlıktır."siyaseten doğruculuk" en
 çok, yüksek maaşlarıyla güvenceli işleri olan ve çoğunluğunu orta sınıf
 ailelerden gelen heteroseksüel beyaz erkeklerin oluşturduğu üniversite
-profesötleri tarafından savunulur.
+profesörleri tarafından savunulur.
 24. [...] Bir insan, toplumunun ahlak kurallarına inanıp uyarsa ve o toplumun
 işleyen bir parçası olarak içinde yer alırsa, onun iyi sosyalleşmiş
 (toplumsallaşmış) olduğu söylenir. [...]
@@ -127,9 +127,9 @@ istediğimiz dine inanabiliriz. Güvenlik seks yaptığımız sürece istediğim
 kişiyle yatabiliriz. *Önemsiz* olduğu sürece istediğimiz şeyi yapabiliriz. Ama
 tüm *önemli* konularda sistem davranışlarımızı düzenlemeye gittikçe daha fazla
 dikkat ediyor.
-73. [not 14] Birisi, belirli bir durumda propagandaya başvuryı amaca uygun
+73\. [not 14] Birisi, belirli bir durumda propagandaya başvurmayı amaca uygun
 bulursa, bunu genelde eğitim olarak adlandırır ya da benzer bir edebi kelam
-kullanır. []...] Bize her gün işe gitmek ve patronumuzun emirlerine uymak
+kullanır. [...] Bize her gün işe gitmek ve patronumuzun emirlerine uymak
 zorunda  olduğumuzu söyleyen bir yasa yoktur. Yasal olarak, ilkel insanlar gibi
 gibi ormanda yaşamamızı veya kendi işimizi kurmamızı engelleyen hiçbir şey
 yoktur. Ama pratikte, çok az vahşi orman kaldı ve ekonomide de küçük çaplı iş
@@ -267,7 +267,7 @@ zamanı gözümün önüne getiriyorum ve makineleri destekliyorum."*
      bağımsız olarak canlılarıyla birlikte varlığını sürdürmesi ideali.
 184. [not 30] [...] Günümüzde, din ya dar, basiretsiz bir bencillik için
      kullanılmakta, ya kolay para kazanmak için sömürülmekte, ya kaba bir
-     irrasyoalizme sürüklenmekte, ya da sadece varlığını sürdürmektedir.
+     irrasyonalizme sürüklenmekte, ya da sadece varlığını sürdürmektedir.
 188. [...] Ucuz, özensiz propaganda bazen kısa vadeli kazanımlar sağlayabilir;
      ancak uzun vadede, daha iyi propaganda yapan birilerini görür görmez
      fikrini değiştirecek, düşünmeyen bir kaypak kalabalığı galeyana getirmek
@@ -283,7 +283,7 @@ zamanı gözümün önüne getiriyorum ve makineleri destekliyorum."*
      modern teknolojinin tasviyesinin her şeyden önemli tek amaç olması
      gerektiğidir, başka hiçbir amacın onunla rekabet etmesine izin
      verilmemelidir. Geri kalan her şey için, devrimcilerin tecrübeye dayalı bir
-     yaklaşım sergilemesi gerekir. Eğer yukarıdaki paragraflardsa geçen
+     yaklaşım sergilemesi gerekir. Eğer yukarıdaki paragraflarda geçen
      tavsiyelerden bazılarının iyi sonuçlar vermediği tecrübeyle kanıtlanırsa, o
      zaman bu tavsiyelerden vazgeçilmelidir.
 215. Anarşist de güç ister ama bireysel ya da küçük grup temelinde güç ister;
