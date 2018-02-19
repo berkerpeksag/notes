@@ -20,6 +20,21 @@
   küfürler, hiç işlemediği cinayetler. Gölge onun ruhunun karanlık yüzü, kabul
   edilmeyen ve kabul edilemez olan.
 
+* Gölgesi olmayan bir gövde nedir ki? Hiçbir şey, bir biçimsizlik, iki boyutlu
+  bir çizgi roman karakteri. Kötülükle olan derin ilişkimi inkar edersem, kendi
+  gerçekliğimi de inkar etmiş olurum.
+
+* Bir gencin bu evrenin kötürümleştirici kendini suçlama ve kendinden iğrenme
+  durumunu atlatabilmesinin tek yolu, o gölgeye gerçekten bakması, onunla
+  yüzleşmesi, siğilleri, dişleri, sivilceleri ve pençeleriyle onu kendisi
+  olarak, kendisinin bir *parçası* olarak kabul etmesidir.
+
+* Kendini bilmeye, yetişkinliğe, ışığa yapılan yolculuğun rehberidir gölge.
+
+* Hayvan akıl yürütmez, ama görür. Ve tereddütsüz davranır, "adaletle", uygun
+  bir şekilde. Tüm hayvanlar işte bu yüzden güzeldir. Yolu, eve giden yolu
+  hayvanlar bilir. Rehber içimizdeki hayvan, ilkel, kara kardeş, gölge ruhtur.
+
 * Frodo ve Gollum'un ortak yanları yalnızca ikisinin de hobbit olması değildir;
   aynı zamanda aynı kişidirler ve Frodo bunu bilir. Frodo ve Sam aydınlık
   yüzdürler. Smeagol-Gollum ise gölge yüzü. Sonuçta ikincil figürler olan Sam
