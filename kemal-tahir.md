@@ -6,3 +6,4 @@
 * Kurt Kanunu (İzmir Suikasti)
 * Bozkırdaki Çekirdek (Köy enstitüleri)
 * Rahmet Yolları Kesti (Erken dönem Cumhuriyet'inde köy hayatı)
+* Karılar Koğuşu (2. Dünya Savaşı yılları Türkiyesi)
