@@ -24,6 +24,14 @@ It's no sin to be a beginner or an intermediate. It's no sin to be a competent
 programmer instead of a leader. The sin is in how long you remain a beginner or
 intermediate after you know what you have to do to improve.
 
+### Chapter 33.4 Intellectual Honesty
+
+> We found that technical people, in general, were actually very good at
+> estimating project requirements and schedules. The problem they had was
+> defending their decisions; they needed to learn how to hold their ground.
+
+Bill Weimer, IBM (Weimer in Metzger and Boddie 1996)
+
 ### Chapter 32.5 Commenting Techniques
 
 **Avoid self-indulgent comments** &#8212; Many years ago, I heard the story of a
