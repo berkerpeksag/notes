@@ -150,7 +150,7 @@
   this oxygenation changed the chemistry of the oceans but later as oxygen
   leaked out into the atmosphere then an ozone layer could form, there was
   protection from the harmful ultraviolet radiation from the Sun and life could
-  then venture onto land. 
+  then venture onto land.
 
 * I had been helped in some of my early excavations by a local man named Stan
   Wood. Stan had first found extraordinary fossils of early animals in a dry
