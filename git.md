@@ -1,3 +1,11 @@
+## Tips on search in commit logs
+
+```sh
+git grep get_ $(git rev-list --all -- astor) -- astor
+```
+
+See https://stackoverflow.com/a/2929502 for more information.
+
 ## Difference between HEAD and master
 
 `master` is a reference to the end of a branch. `HEAD` is actually a special type
