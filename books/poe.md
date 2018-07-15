@@ -31,12 +31,44 @@
   tarafından yapılmış olan bu düzeltme ve doğrulama işlemi sayesinde tarihimiz
   yozlaşıp bir masala dönüşmekten kurtulurdu."
 
+## Girdaba İniş
+
+* "Helseggen" does exist but it is currently spelled "Hellsegga" and can be
+  found on any map of Lofoten.
+  ([Source](https://answers.yahoo.com/question/index?qid=1006042208746))
+
+* Lofoden, Moskoe, and Vurrgh are all real geographic places.
+
+* Vurrgh is an island located between the Norwegian Sea and a waterway called
+  the 'Vestfjorden.' The nearest mainland is at Lofoden. The island of Moskoe
+  is between Vurrgh and Lofoden.
+
+* Moskoe is an island located off of the coast of Lofoden, around which the
+  Maelstrom or 'Moskoestrom' occurs periodically.
+
+* Maelstrom (also called the 'Moskoestrom') is a naturally occurring whirlpool
+  located at approximately sixty-eight degrees latitude off of the western
+  coast of Norway near Lofoden. It is also called the 'Moskoestrom' because the
+  island of Moskoe is located in the middle of the sea area in which this
+  phenomenon occurs. In reality, this whirlpool is not as dramatic an event as
+  that described by Poe’s character. However, it has possibly inspired many
+  other stories such as those featuring the fabled 'Charybdis' from Homer’s The
+  Odyssey, and the more recent 20,000 Leagues Under the Sea by Jules Verne.
+  ([Source](http://www.bookrags.com/notes/poe/obj.html))
+
 ## Hatalar
 
 * http://derinhakikatler.blogspot.com.tr/2009/08/soluk-kesici-poe-cevirileri.html
 
 * sf. 718 - hacin devesi. Doğrusu hecin devesi hatta sadece hecin olmalı. Tek
   görgüçlüdür. İngilizcede dromedary olarak geçer.
+
+* sf. 186 - 'sevdikleri sevdikleri'
+
+* sf. 210 - Ve vücut şeklini pek *uzanan* seçemiyordum
+
+* sf. 234 - *Lofoden* bölgesi
+  [*Lofoten*](https://en.wikipedia.org/wiki/Lofoten) olmalı
 
 ## Sözlük
 
