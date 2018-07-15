@@ -164,3 +164,25 @@
 
 * Humans are, arguably, the only species that not only adapts to new
   environments but also adapts their environment to themselves.
+
+
+## [Belgium](https://fivebooks.com/best-books/belgium-history-martin-conway/)
+
+*Martin Conway*
+
+* One of the big features of Belgian history in the last couple of years has
+  been a large public history project that goes under the rather jokey title of
+  ‘Was Grandpa a Nazi?’ This is really an attempt by the Belgian authorities to
+  open up the archives and make it possible for people to discover their own
+  family history. The authorities are quite rightly aware that a lot of
+  grandchildren are keen to understand the choices their grandparents may have
+  made during the war—not necessarily about having been a fascist, but perhaps
+  about being a resistor, or a deported person. There are all different
+  versions of war experience.
+
+* > I just know her [Marguerite Yourcenar] as the first woman elected to the
+  > Académie française, so I presumed she was French.
+
+  Yes. The French are quite good at claiming Belgians as their own. One could
+  produce a whole series of 20th-century writers who were in fact Belgian and
+  not French.
