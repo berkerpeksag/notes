@@ -12,6 +12,104 @@
   peri kızlarına ve büyücülere de inanmazlar. Çünkü hem ejderhalara hem de
   M16'lara ve karadan karaya balistik füzelere aynı anda inanmak imkansızdır.
 
+## Rüyalar Kendilerini Açıklamalı
+
+* Üç küçük adaya çocuklarımın bebeklik adlarını verdim; bir dünyayı yoktan
+  varetme özgürlüğünü ele geçirince insan biraz dalgacı ve sorumsuz oluyor.
+  (İktidar insanın ahlakını bozar.)
+
+* [Ged adı üzerine konuşuyor.] Bu arada "Ced" diye okunmadığını da belirteyim.
+  Bu daha ziyade dağlarda yaşayan bir münzevinin adı olurdu. Çoğu kişi sorduğu
+  için söylüyorum, yazdılığı gibi okunuyor. İsim icat ederken bilinçli bir
+  biçimde müdahale ettiğim tek alan, ismin telaffuz edilebilir olması. Çok
+  korkutucu görünmesinler diye [...] okundukları gibi yazıyorum; ister
+  İngilizce seslilerle, isterse de İtalyanca seslilerle okunabilirler.
+
+* Sanırım *Yerdeniz Büyücüsü*'nün en çocuksu yanı, konusu: Büyümek.
+
+  Büyümek, benim yıllarımı alan bir süreç oldu; bu süreci otuz bir yaşımda
+  tamamladım - ne kadar tamamlanabilirse; o yüzden de çok önemsiyorum. Çoğu
+  genç de önemser. Ne de olsa esas işleri budur: Büyümek.
+
+## Amerikalılar Ejderhalardan Neden Korkar?
+
+* [...] iş adamının değerler sisteminde, eğer bir edim hemen ve elle tutulur
+  bir kar sağlamıyorsa, haklı gösterilemez. Dolayısıyla, Tolstoy veya Tolkien
+  okumak için tek mazereti olan kişi, bu iş için para alan İngilizce
+  öğretmenidir. İşadamımızsa, ara sıra kendine best-seller okumak için izin
+  verebilir: iyi bir kitap olduğu için değil, sadece çok sattığı, yani başarı
+  ve para kazanmış olduğu için. Para işleriyle uğraşan kişinin o tuhaf gizemli
+  zihninde bu başarı, o kitabın varoluşunu haklı çıkarır; best-seller okuyarak,
+  bir nebze de olsa, başarının iktidarını ve büyüsünü paylaştığını hisseder.
+  Laf aramızda, eğer buna da büyü denmezse, ben büyünün ne olduğunu bilmiyorum
+  demektir!
+
+* Amerika'da yaygın olarak erkek çocuk ve erkek, kendi erkekliğini tanımlarken
+  bazı eğilimleri, toplumumuzda "kadınca" veya "çocukça" olarak görülen bazı
+  insani yetileri ve potansiyelleri reddetmeye zorlanır. Bu eğilimlerden veya
+  potansiyellerden biri de, en gerçek ifadesiyle, insanın tamamiyle temel
+  melekelerinden biri olan hayal gücüdür.
+
+* Kelimenin gerçek anlamında, bir şeyi disiplin altına sokmak, onu baskı
+  altında tutmak değil, eğitmek, gelişmesi, harekete geçmesi, verimli olması
+  için teşvik etmesi demektir.
+
+* Hayal gücünün bastırılabileceğinden emin değilim. Eğer çocuktaki hayal
+  gücünün kökünü gerçekten kazıyabilirseniz, o çocuk büyüyünce bir patates
+  olur.
+
+* Sahte gerçekçilik zamanımızın kaçış edebiyatıdır. Bunun en aşırı örneği de,
+  o bütünüyle gerçekdışı şaheseri, günlük borsa raporlarını okumaktır.
+
+* [...] Çalışkan, düzgün, sorumlu bir yurttaş, eğitim görmüş, olgun bir kişi,
+  bakıyorsunuz ejderhalardan korkuyor, hobbitlerden korkuyor, perilerden ödü
+  patlıyor. Bu çok komik, ama aynı zamanda korkunç. Bir şeyler fena halde ters
+  gitmiş.
+
+* [...] "Hayal gücüyle yaratılmış kurmacanın yararı dünyayı, çevrendeki
+  kişileri, kendi duygularını ve kaderini daha derinlemesine anlamanı
+  sağlamaktır."
+
+* Hayali bir yanardağın içine sihirli bir yüzük atmaya çalışan hobbitin
+  sorunlarını okumakla öğrenebileceğimiz şeyin, sosyal konumunuz, maddi
+  başarınız ya da gelirinizle hiçbir ilgisi yoktur. Hatta bir ilişkisi varsa,
+  bu tam tersine bir ilişkidir. Fantazi ve para birbirleriyle ters orantılı
+  olarak gelişirler. İktisatçıların Le Guin Kanunu olarak bildikleri bir
+  kanundur bu.
+
+* Yetişkin bir insan ölü bir çocuk değil, yaşamayı başarmış bir çocuktur.
+
+* [...] fantazi elbette hakikidir. Olgulara dayanmaz, ama hakikidir. Çocuklar
+  bilir bunu. Yetişkinler de bilir, zaten çoğu bu yüzden fantaziden korkar.
+  Fantazideki hakikatin, yaşamaya mecbur edildikleri ve kabullendikleri hayatın
+  sahteliğine, kofluğuna, gereksizliğine, sıradanlığına karşı bir meydan okuma,
+  hatta tehdit oluşturduğunu bilirler. Ejderhalardan korkarlar, çünkü
+  özgürlükten korkarlar.
+
+## Çuval Kuramı ve Kurgu
+
+* İnsan haftada on beş saat çalışmayla hayatını kazanabiliyorsa, başka şeyler
+  için pek fazla zamanı kalıyor demektir. O kadar ki, belki de hayatlarını
+  renklendirecek çocukları, el işçiliği, aşçılık, şarkı söylemek gibi
+  yetenekleri ya da kafa yoracak pek enteresan düşünceleri olmayan huzursuz
+  tipler, bu zaman bolluğu yüzünden şöyle bir dolanıp mamut avlamaya karar
+  vermiş olabilirler. Sonra da, becerikli avcılar sırtlarında bir ton et, bol
+  bol fildişi ve bir hikaye taşıyarak yorgun argın geri dönüyorlardı. Hayatı
+  değiştiren şey et değildi burada. Hikayeydi.
+
+* Kültürün doğuşu ve gelişimi sokmaya, parçalamaya, öldürmeye yarayan uzun ve
+  sert aletlerin kullanımıyla açıklandığı müddetçe, kendime orada bir ne
+  görebilmiş, ne de istemiştim.
+
+## Bilimkurge ve Bayan Brown
+
+* Ben, insanın her şeyin veya fazla bir şeyin ölçüsü olduğunu düşünmüyorum.
+  İnsanın hiçbir şeyin sonu veya son noktası olmadığını, ortası hiç olmadığını
+  düşünüyorum. Ne olduğumuzu, kim olduğumuzu ve nereye gittiğimizi bilmiyorum,
+  zaten bildiğini söyleyenlere de inanmıyorum [...] Bildiğim tek şey, burada
+  olduğumuz ve bu gerçeğin farkında olduğumuz, bu gerçeğin bizi farkında
+  olmaya, kulak vermeye zorladığıdır.
+
 ## Çocuk ve Gölge
 
 * Adam, uygar olan her şey -- bilgili, kibar, idealist, nezih. Gölge ise,
