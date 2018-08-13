@@ -405,3 +405,16 @@ zamanı gözümün önüne getiriyorum ve makineleri destekliyorum."*
      ortalıktalar. Fakat, aşağılık duygusunun, kendini değersiz görmenin,
      güçsüzlüğün, kendileri kurban olmayan insanların kurbanlarla
      özdeşleşmesinin modern solculuğun bir özelliği olduğunu sanıyoruz.
+
+
+## Kaynaklar
+
+Kaos Yayınları'nın Mayıs 2013 tarihli 2. baskısından alınmıştır.
+
+* [sf. 29] Chester C. Tun, *Chinese Political Thought in the Twentieth
+  Century*
+* [sf. 44] Roger Lane, *Violence in America: Historical and Comparative
+  Perspectives*
+* [sf. 54] L. Sprague de Camp, *The Ancient Engineers*
+* [sf. 98] Eric Hoffer, *The True Believer: Thoughts On The Nature Of Mass
+  Movements*
