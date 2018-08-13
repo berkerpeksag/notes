@@ -21,6 +21,12 @@
   plütonyum hâlâ içeride, ve eğer bu büyük, kötü radyoaktif fil dışarı adım
   atacak olursa, başımız gerçekten belâda olur..."
 
+* The first residents will be able to live in the city only after about 600
+  years, because the radioactive particles are breaking down. Only 578 years to
+  go...
+
+  https://www.podniesinski.pl/portal/chernobyl/
+
 * "piramitlerimiz...
 
   lahit 100000 yıl radyoaktif kalacak. mısır'daki piramitlerin yaşı 5000'le 6000
