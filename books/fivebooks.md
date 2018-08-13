@@ -186,3 +186,85 @@
   Yes. The French are quite good at claiming Belgians as their own. One could
   produce a whole series of 20th-century writers who were in fact Belgian and
   not French.
+
+
+## [The French Revolution](https://fivebooks.com/best-books/french-revolution-lynn-hunt/)
+
+* [...] you are more likely to end up as a democracy if you have institutions
+  that support a democratic political life. It’s a tragedy and a paradox. You
+  make a revolution because you don’t have the institutions that support
+  a democratic political life. You do it in order to get a democratic political
+  life, but you don’t have the infrastructure in place to make that possible.
+
+* [...] countries develop a style of governing and that it’s extremely
+  difficult to get away from that style of governing. For example, in
+  interpretations of the Russian Revolution there’s a complete division between
+  those who feel that communism took over the basic characteristics of Tsarist
+  rule – which was incredibly centralised and authoritarian, and relied on the
+  secret service – and those who believe that Marxism completely changed
+  everything. This kind of division of opinion exists for all the major
+  revolutions, in part because of the influence of this Tocquevillean analysis,
+  which is that you have a style of ruling, and it’s very hard to change it.
+
+* [...] nothing is more dangerous to a regime than when it tries to reform
+  itself.
+
+* Democracy can lead not just to despotism, but to totalitarianism. For him
+  [François Furet], what’s wrong with the revolution is that it’s all ideology
+  and fighting over who is going to represent the general will of Rousseau and
+  who is supposedly going to represent the people in democratic terms. Because
+  it’s all ideology it doesn’t actually set up democratic forms of government,
+  it veers off into terror and totalitarianism instead.
+
+* They [Committee of Public Safety] were not completely out of control. For the
+  most part, the people on this committee are living incredibly austere lives.
+  They’re working 20 hours a day, they’re devoting themselves completely to the
+  cause of trying to save the republic. And, the fact is, they succeed. They
+  are able to reorganise the military under the worst of all possible
+  circumstances. They actually win the war, in a situation in which winning the
+  war seemed totally impossible.
+
+* Maybe I’m obsessive about this, but the whole question, “Does the revolution
+  fail?” or “Why does the revolution fail?” is a misguided one. What he shows
+  you is that all these different things change in ways that will never be
+  turned back again. They’re institutional changes, so the things that
+  Tocqueville says don’t happen, the things that Furet says don’t happen and
+  lead the revolution to veer off into totalitarianism, he’s [Isser Woloch]
+  showing they are changed by the revolution, and remain an important part of
+  French life right up to the present.
+
+* One of the things that goes on in the revolution is that things are laid out
+  on the agenda which will remain on the agenda for generations to come.
+  Divorce is instituted in 1792. They don’t get back to the same divorce law
+  until the 1970s. Universal education is laid out as a programme, they start
+  trying to do it, but it’s not really achieved until the end of the 19th
+  century. But certain things are achieved. The rewriting of the penal code,
+  from 1791, is essentially the penal code that will remain in existence ever
+  after. They eliminate torture in the judicial process for ever. They
+  institute equality under the law for ever. They institute forms of legal
+  inheritance for children, including girls, that will remain in the law for
+  ever. These are incredibly fundamental changes that take place. Amongst them,
+  and one that people tend to forget, is that when the monarchy comes back in
+  1814, there is a constitution. There is a written document that says, there’s
+  going to be a lower house and an upper house. Yes, they limit the vote, but
+  there is no way that you’re not going to have a constitutional form of
+  government from that time onwards. These are crucial developments in French
+  political and social life that shape what happens during the entire 19th and
+  20th centuries.
+
+
+## [David Hume](https://fivebooks.com/best-books/david-hume-simon-blackburn/)
+
+* The 17th and 18th centuries were preoccupied with the idea that if we had
+  a proper understanding of human nature, we’d have a proper account of human
+  understanding and of its limits.
+
+* [...] Hume did think that overconfidence and dogmatism led to intolerance, to
+  faction, to a lot of the crimes of human history. So if you could show, in
+  a decisive way, where our limits lie, we could improve on that abysmal
+  history.
+
+* > Be a philosopher; but, amidst all your philosophy, be still a man.
+
+  (*An Enquiry concerning Human Understanding*, chapter "Of the Different
+  Species of Philosophy")
