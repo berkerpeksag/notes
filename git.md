@@ -6,6 +6,16 @@ git grep get_ $(git rev-list --all -- astor) -- astor
 
 See https://stackoverflow.com/a/2929502 for more information.
 
+```sh
+$ git log -S"PyMapping_Keys(O)" -- Include/abstract.h
+```
+
+This looks for differences that introduce or remove an instance of `<string>`.
+It usually means "revisions where you added or removed line with
+`'PyMapping_Keys(O)'`".
+
+See https://stackoverflow.com/a/2928721 for more information.
+
 ## Difference between HEAD and master
 
 `master` is a reference to the end of a branch. `HEAD` is actually a special type
