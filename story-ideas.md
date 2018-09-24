@@ -35,3 +35,12 @@
   romalıların bıraktığı yasalar gibi. ve biz lahdi bırakıyoruz. çağımızın her
   şeyinden daha çok yaşayacak, ve piramitlerden bile daha uzun süre ayakta
   kalacak bir yapı"
+  
+* When people talk about surviving and building bunkers, what they often suggest
+  putting into the bunker is people, seeds, etc. But actually what we really need
+  to put into the bunker, or ensure it survives in some way, is our rationalism
+  through the scientific method. If civilisation collapses and everyone resorts
+  to superstition, our chances of recovery are far lower, regardless of the
+  physical resources we’ve preserved.
+
+  https://fivebooks.com/best-books/existential-risks-cambridge-cser/
