@@ -16,6 +16,43 @@ It usually means "revisions where you added or removed line with
 
 See https://stackoverflow.com/a/2928721 for more information.
 
+## Branching Basics
+
+A branch is a pointer to a commit:
+
+```
+master -> 87b15a8
+some-branch -> acdfd5e
+```
+
+It's stored internally at `.git/refs/heads/master`:
+
+```sh
+$ cat .git/refs/heads/master
+87b15a852cf25fbc54b9f2ce170ab4902a5f2380
+```
+
+* `git commit`: points the branch at a new commit
+* `git pull`: points the branch at the same commit as the remote branch
+* `git reset <sha>`: points the branch at `<sha>`
+
+[Reference](https://twitter.com/b0rk/status/1044403728336310273)
+
+Every commit except the first one has a parent commit.
+
+`HEAD` always refers to the current commit you have checked out, and `HEAD^`
+is its parent.
+
+```
+* latest commit   - HEAD
+* previous commit - HEAD^
+* initial commit  - HEAD^^
+```
+
+Merge commits have two parents.
+
+[Reference](https://twitter.com/b0rk/status/1044409409588350977)
+
 ## Difference between HEAD and master
 
 `master` is a reference to the end of a branch. `HEAD` is actually a special type
@@ -84,8 +121,6 @@ A tag points to a commit, and includes an optional message and a GPG signature.
 The post-it is just a fast way to access the tag, and if lost can be recovered
 from just the DAG with `git lost-found`.
 
-
-# Notes
 
 ## Change author date of a commit
 
