@@ -5,8 +5,15 @@
   uygarlık tarafından bulunması ve *muhteşem* insanlık tarihini keşfetmesi.
 * http://www.bbc.com/earth/story/20150818-chimps-living-in-the-stone-age
 * https://www.facebook.com/groups/515811491814739/permalink/1073477772714772/
+* "Araştırma süresince, bazı dönemlerde herhangi bir hareketlilik tespit
+  edilmezken, Mayıs 2017'de 8 günlük bir sürede yanardağın güneydoğu kanadında
+  denize doğru 4 santimetrelik bir kayış belirlendi. Araştırmanın sonuçlarını
+  Science Advances dergisinde yayımlayan uzmanlar, bu hareketliliğin yanardağda
+  "felaket boyutlarında bir çöküşe" ve bu olası çöküşün de büyük heyelan ve
+  tsunamilere yol açabileceğini belirtti."
 
----
+  http://t24.com.tr/haber/etna-yanardagi-denize-kayiyor-tsunamiye-yol-acabilir,721780
+
 
 ## Notlar
 
