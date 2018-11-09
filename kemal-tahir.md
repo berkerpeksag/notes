@@ -11,3 +11,15 @@
   İzmir Suikasti günlerinde kırsalda yaşanan dönüşümlere odaklanır)
   (Çorum Üçlemesi)
 * Karılar Koğuşu (2. Dünya Savaşı yılları Türkiyesi)
+
+Sevgisizliğin romancısıdır Kemal Tahir. Bugünlerde yayımlanan *Büyük Mal*'ı
+(1970) 1958 ve 1959'da yayımlanan *Yediçınar Yaylası* ve *Köyün Kamburu* ile
+birlikte okuyunca bu gerçek açık seçik ortaya çıkıyor. Üç roman da aynı çevrede
+aynı kişilerin serüvenlerini anlatır. Aşağı yukarı yarım yüzyıllık bir süreyi
+kapsayan bu üç romanda da kimse kimseyi sevmez. *Köyün Kamburu*'ndaki bu
+satırlar, bu bakımdan, çok ilgi çekici: "Çalık Kerim, bir aya varmadan medrese
+düzeninin, köy düzeninden farksız olduğunu anlayıp iyice rahatladı. Burada da
+fakirler sürünüyor, kimse kimseyi sevmiyordu." (I. baskı, s. 148)
+
+Fethi Naci - Yüz Yılın 100 Türk Romanı (Türkiye İş Bankası Kültür Yayınları, X.
+Basım, Eylül 2017, s. 265)
