@@ -268,3 +268,165 @@
 
   (*An Enquiry concerning Human Understanding*, chapter "Of the Different
   Species of Philosophy")
+
+
+## [Predators](https://fivebooks.com/best-books/pyenson-predators/)
+
+* By the time humans evolved, whales had been the brainiest mammals (as
+  measured from brain size to body size) on the planet for at least five
+  million years, if not ten.
+
+* For killer whales the challenges vary. In the North Pacific, for instance,
+  one kind, or ‘ecotype’ are exclusively fish-eating residents along the coast
+  of North America. They suffer because we have cut off their favoured  prey
+  source—the salmon runs.
+
+* Humpback whales were delisted from the US endangered species list in 1994,
+  and grey whales seem to be making incursions into the Atlantic, an ocean they
+  haven’t been in for over 400 years. In both of those cases, the cessation of
+  whaling has contributed to their success, but their broad diet and geographic
+  range, along with some aspects of their life history, have also been
+  important factors.
+
+* [...] we now know close to three million whales were killed during the
+  twentieth century.
+
+* [...] because we share a common ancestor with baboons; a lot of similarities
+  that we see in their behaviour, from grooming, to dominance displays, to
+  foraging habits, have to do with our shared evolutionary history.
+
+
+## [The Incompatibility of Religion and Science](https://fivebooks.com/best-books/jerry-coyne-incompatibility-religion-science/)
+
+* My argument is not that religious people are constantly battling science or
+  trying to prevent it moving forward, but that the methods that religion uses
+  to ascertain truths about the universe are at odds with the methods that
+  science uses. They’re in competition with each other. [...] Religion doesn’t
+  have a reliable way to discern truth and this is the real conflict. It’s
+  a conflict of methodology, it’s a conflict of philosophy, and, ultimately,
+  it’s a conflict of outcomes.
+
+* I don’t care if a religious person accepts science and practises their own
+  private faith. The problem is that this acceptance of faith — which means
+  belief without substantial evidence — as a useful means to ascertain truth
+  has invidious social consequences. In my country, it’s opposition to
+  abortion, it’s opposition to gay marriage. Creationism is the least of our
+  worries. It’s this enabling of faith, this untoward respect for belief
+  without evidence, that has caused so much mischief. If religious people just
+  kept to themselves, just went to church, respected the findings of science
+  and a) didn’t teach it to their kids (which I think is a form of child
+  mistreatment) and b) didn’t try to take their religious beliefs into the
+  public sphere and make them law for everybody else, then I wouldn’t care so
+  much. But that’s not the way it is. Certainly not in Muslim countries, where
+  religion and government are almost synonymous. It is a widespread problem.
+
+* The problem with the Soviet Union and China is that religion was replaced by
+  an ideology which was largely anti-science and certainly anti-rational. In
+  Russia, under Stalin, the cult of the leader replaced religious belief.
+  That’s why they didn’t like religion, because it displaced people’s
+  affections for the leader. It was in the Soviet Union that Lysenkoism, which
+  is explicitly anti-scientific, took over and ruined Russian genetics for 30
+  years.
+
+* I have faith — and I use the term in the sense of ‘confidence in’ — that
+  ultimately people will realize that the Enlightenment project, the project of
+  using rationality to guide your actions, is the way to bring society forward.
+  My book is about religions versus science, but that’s really a battle in the
+  greater war between superstition and rationality.
+
+* [...] there’s something about religion that brings out the worst in people.
+  I think it’s partly the moral code — which is inherent in almost all the
+  Abrahamic religions — which science doesn’t have. In science, you say,
+  ‘Here’s what we found’ — but there’s no stricture, no ‘OK this is what you’ve
+  got to do with it.’ That’s where people come in — and you get bad people
+  using science to make atomic bombs etc. That’s not part of science itself,
+  that’s just human personality. It’s partly that religion has belief in
+  absolute truth, which science also doesn’t. Finally, in many religions, there
+  is a system of eternal punishments and rewards. If you combine those three
+  toxic aspects you get people doing stuff they wouldn’t be doing if there
+  wasn’t religion. If there wasn’t Catholicism, would we have the demonization
+  of gays in the US? Would we have all this opposition to abortion? Look at
+  Ireland — where abortion is illegal and women die because the fetus gets
+  stuck and blasphemy is still against the law. Imagine Ireland without
+  religion. Would those things still exist? I don’t think so. And you can say
+  — which I suppose is what you are saying — that something else would rush in
+  to fill the gap and we’d still hate gay people and restrict abortions. But
+  I’m not so sure about that. Certainly that hasn’t happened in northern
+  Europe.
+
+* [...] he [Carl Sagan] maintains that pseudosciences — and he includes
+  religion in that — have to be judged as sciences, because they make empirical
+  claims about reality. That’s a claim that most religious people instinctively
+  reject. Shelley was the first person to say that God is a hypothesis,
+  therefore believers should be forced to give evidence for it.
+
+* > He [Carl Sagan] does seem to think it’s more likely there are aliens than
+  > that there’s a God.
+
+  A lot of people do. Because aliens are naturalistic phenomena whereas gods
+  are supernatural and we don’t have evidence for anything supernatural. Sagan
+  was involved in the SETI project to detect alien life. He was unsuccessful,
+  but if I had to put my money on either, ‘Is there life somewhere else in the
+  universe?’ or ‘Is there a supernatural being?’ I’d definitely bet on the
+  former. It is likely that there are other forms of life somewhere.
+
+* [On whether we have free will] I can explain it to you in one second why we
+  don’t, and it’s this: our brains are made of molecules. Molecules obey the
+  laws of physics therefore everything that comes out of our brain, including
+  our behaviors and choices, must obey the laws of physics. Therefore, in so
+  far as those laws apply, everything we do is basically determined. It may be
+  determined on a macro-level or fundamentally indeterminate on a quantum level
+  but we cannot affect how our brains work by thinking about it, because even
+  our thinking is physically-based. So that means we can’t make a choice. If
+  you were to go back to last night, when you were drinking wine, you didn’t
+  have a choice how many glasses you had. It could have been predicted in
+  advance by the circumstances of nature. People hate that, they really hate
+  it. That’s one reason Alex’s book has received a lot of scorn and dislike,
+  because it basically speaks the truth. We are physical automatons.
+
+* People like to think they can make choices. They like to think that
+  consciousness is something other than an illusion that comes from molecular
+  interactions.
+
+* The Catholic theologian John Haught said that we can live with science, we
+  can respect the findings of science, but that what religious people can’t
+  abide is “the conviction that the universe and life is pointless.” And yet
+  Steven Weinberg, who is an atheist and Nobel Prize winning physicist, has
+  said that the more the universe seems comprehensible, the more it seems
+  pointless. So there’s a real clash there between science and religion that
+  cannot be overcome, even if you’re a science-friendly believer.
+
+* Theology is basically a warped form of philosophy. [...] Theology is the kind
+  of philosophy that’s applied to a non-existent object. So they use all the
+  tools of philosophy. If you read sophisticated theology there’s even Bayesian
+  analysis and mathematical logic in there. So it looks like philosophy but it
+  all applies to a meaningless question involving a non-existent being.
+
+* To me, even a great novel is a much more worthwhile accomplishment than
+  anything theological, because theology pretends it’s about reality whereas in
+  novels you suspend disbelief from the very beginning. You get immersed in
+  a world which you know is fictional but from which you can still get
+  emotional satisfaction. With religion you’re immersed in a world which is
+  supposed to be real.
+
+* Religion also appeals to the communality of people, their desire to get
+  together. It gives them a sense of security, of community — that may account
+  for it, certainly some people say it does.
+
+* The refusal of western leaders to recognize that religion is behind a lot of
+  this stuff [he is talking about Muslims who want to impose theocracies on
+  western democracies] — saying it’s due to political oppression, or
+  disenfranchisement or it’s our fault ultimately — is a real block in trying
+  to do anything about the problem, because we refuse to admit one of the
+  obvious causes which is religious belief.
+
+* The problem is if you go into Saudi Arabia and ask people what they believe,
+  they’ll kill you. Look at the Pew study which studied the attitudes of
+  Muslims around the world by asking them questions. Do you think Sharia law
+  should be imposed? Do you favour stoning for adulterers? Do you favour the
+  death penalty for apostates? The results, by the way, were very depressing
+  because even in western countries a substantial fraction of Muslims favoured
+  these oppressive practices. But the countries that weren’t surveyed were
+  countries like Yemen, Saudi Arabia and Qatar, because they weren’t even
+  allowed to go in there and ask those questions. Even asking people what they
+  believe is regarded as a form of dissing religion.
