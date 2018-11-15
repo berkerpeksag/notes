@@ -101,7 +101,7 @@
   sert aletlerin kullanımıyla açıklandığı müddetçe, kendime orada bir pay ne
   görebilmiş, ne de istemiştim.
 
-## Bilimkurge ve Bayan Brown
+## Bilimkurgu ve Bayan Brown
 
 * Ben, insanın her şeyin veya fazla bir şeyin ölçüsü olduğunu düşünmüyorum.
   İnsanın hiçbir şeyin sonu veya son noktası olmadığını, ortası hiç olmadığını
