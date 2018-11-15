@@ -98,7 +98,7 @@
   değiştiren şey et değildi burada. Hikayeydi.
 
 * Kültürün doğuşu ve gelişimi sokmaya, parçalamaya, öldürmeye yarayan uzun ve
-  sert aletlerin kullanımıyla açıklandığı müddetçe, kendime orada bir ne
+  sert aletlerin kullanımıyla açıklandığı müddetçe, kendime orada bir pay ne
   görebilmiş, ne de istemiştim.
 
 ## Bilimkurge ve Bayan Brown
