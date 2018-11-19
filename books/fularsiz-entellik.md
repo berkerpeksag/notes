@@ -127,3 +127,73 @@
   ödüyor. Bunu bir nesil boyunca ödeyip kurtulsak neyse, bir de üstüne gittikçe
   artan bir yabancı düşmanlığı ve sığ milliyetçilikle boğuşacağız, onun da
   üstüne bir ihtimal Çin malı olacağız.
+
+
+## [Kur Kriziyle Herkesin Hayatına Giren Bazı Kavramlar](https://fularsizentellik.com/journal/2018/8/18/kurkrizi)
+
+* Bu kadar beceriksizin bu kadar zenginliği çarçur etmesini sineye çeken, ama
+  elin teknokratının tavsiyelerini duyunca milliyetçi damarı kabaran insanları
+  bu konularda eğitmeye çalışmaktansa, belki de onları karar süreçlerinden uzak
+  tutmak, futbolla filan meşgul etmek daha iyi. Halk için, halka rağmen.
+
+* Senelerdir alt tarafı birkaç milyar dolarlık IMF borcu ödemekle övünürken,
+  bir yandan da 400+ milyarlık dış borç stokuna eriştik. Bunca milliyetçi
+  siyasi retorik sonrası, şimdi IMF dönüş daha mantıklı olsa bile
+  yapamayacağız. Gerçi belli olmaz bu işler. Nasıl olsa iktidarın uzantısı olan
+  bir medyamız var (o yüzden bunlara omurgasız demek de yanlış aslında,
+  organizma iktidarla aynı organizma, "onlara karşı dik durması" diye bir şey
+  yok), ansızın fantastik bir u-dönüşü yapabilirler, izleriz.
+
+* Peki Tayland dolarla değil de bahtla ticaret yapsalar ne olurdu? Hani
+  bizimkiler "espri" yapıyorlar ya, "dolar güvenilirliğini yitirmiştir" diye,
+  biz de doları bırakıp Rusya'yla ruble ve lira kullanarak ticaret yapamaz
+  mıyız?
+
+  Yapamayız. Bunun arkasında emperyalikler filan yok, bilakis kendi emekçin,
+  veya Ortadoğu'daki, Afrika'daki kardeşlerin, Güney Amerika'daki yoldaşların
+  yüzünden yapamayız.
+
+  Bakın, biz Rusya'dan 25 milyarlık mal/hizmet alıyor, onlara 6 milyarlık mal
+  satıyoruz. Bu 6 milyarlık ithalat-ihracat kısmı için istediğin parayı kullan,
+  zaten aramızda kalıyor. Aslında onun için para kullanmana bile gerek yok
+  (teoride), doğrudan takas yapabilirsin. 6 milyarlık turizme karşılık
+  6 milyarlık petrol.
+
+  Ama kalanı ne olacak? Onlardan alacağımız ekstra 19 milyar dolarlık mal var.
+  Ve Rusya'nın bizden alacağı bir şey yok. Adam işin o kısmı için lira kabul
+  etmiyor. Çünkü Rusya, lirayı baska yerde kullanamaz, Meksikalı, Afrikalı,
+  Ortadoğulu lira istemiyor. "Güvenilirliğini yitirmiş" dolar istiyor, euro
+  istiyor, biraz da yuan, sterlin ve yen istiyor, kısacası rezerv parası
+  istiyor, o kadar.
+
+  "Rusya'ya ruble öderim" de diyemiyorsun, onu da bir yerden bulman lazım.
+  E kim senin liran karşılığında sana ruble satsın? Lira ihtiyaçları yok. Sen
+  çok mal satan bir ülke olsan olurdu, derdin ki "benden mal alırken lira
+  kullanırsınız".
+
+  Yani doları bırakıp rubleye, yuana, mars bilmemnesine geçmek bir çözüm değil,
+  bu bir makyaj sadece, temelde yatan şey üretim yetersizliği.
+
+* **Kur:** Yeterince döviz yok
+
+  **Finansman:** Döviz yok çünkü direkt yatırım (iyi) veya sıcak para (daha az
+  iyi) gelmiyor ve siyasi baskı yüzünden MB'nın kolu kesilmiş vaziyette, faiz
+  aracını kullanamıyor.
+
+  **Borç:** Para gelmiyor çünkü bu finansman açığının geçici bir dalgalanma
+  değil, yapısal bir sorun olduğu belli. Özel sektörde ödeyemeceği kadar borç
+  birikti ve bunlar döviz bazlı oldukları için, kur kriziyle bir fasit daire
+  oluşturuyorlar. üstüne devlet de deliler gibi harcıyor ama bu harcamaların
+  bir geri dönüşü yok.
+
+  **Ticaret Açığı:** Ürettiğimizden 60 milyar dolar fazlasını tüketiyoruz.
+  Böyle bir dengesizlik olmasa, borçlanmamız sorun olmazdı.
+
+  **Üretkenlik:** Türkiye'de işgücüne katılım az (özellikle kadınlar), katılıp
+  iş bulabilen daha da az, o işlerde katma değeri yüksek üretim yapan iyice az.
+  ABD de iPhone'un bir sürü parçasını Çin'den tedarik ediyor ama asıl mesele,
+  sentlerle ölçülen o plastiğin ve çiplerin üstüne, 200-300 dolarlık işletim
+  sistemini koyabilmekte. Hatta çoğu katma değerin hiçbir fiziksel işle alakası
+  yok, mesela danışmanlık hizmetleri böyle. Beton şirketi yerine emlak
+  danışmanlığı şirketin olsa 10 kat fazla kazanırsın (örnek olarak verdim yoksa
+  ne bileyim beton piyasasını, üstüme çimento dökmeyin).
