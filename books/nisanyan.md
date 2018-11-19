@@ -175,3 +175,14 @@ Yirminci yüzyılda Türkçe bir inkâr ve reddi miras krizine girdi. Fakirleşm
 erdem sayıldı. Antika mobilyalar atılıp yerine formika masa alır gibi, bin
 yıllık köyler ve konaklar yıkılıp yerine apartman yapar gibi, dilde
 “modernleşme” ve tekdüzeleşme tercih edildi.
+
+
+## [Türkiye neden battı?](http://nisanyan1.blogspot.com/2018/08/turkiye-neden-batt.html)
+
+Türkiye kültüründeki o çirkef damarın kışkırttığı tepki olmasa benim bugün
+Ermenilikle ne bağım kalmış olurdu? Kimin kalmış olurdu?
+
+[Bir yoruma cevaben](http://nisanyan1.blogspot.com/2018/08/turkiye-neden-batt.html?showComment=1534361339783#c6910460821545880009):
+
+Türk ırkçılığı, gavur nefreti, devlet tapıcılığı, kapitalist düşmanlığı,
+genelleştirilmiş yıkıcılık, feminizm vs.
