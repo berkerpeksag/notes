@@ -4,7 +4,7 @@
 * Esir Şehrin İnsanları (Mütarake yılları İstanbul'u) (EŞİ #1)
 * Esir Şehrin Mahpusu (Mütarakere yılları İstanbul'u) (EŞİ #2)
 * Yorgun Savaşçı (1919 ve 1920'de Anadolu'da yapılan milli mücadele)
-* Kurt Kanunu (İzmir Suikasti, İttihatçı-Kemalist mücadelesi)
+* Kurt Kanunu (İzmir Suikasti, İttihatçı-Kemalist kadroların mücadelesi)
 * Yol Ayrımı (*Serbest Fırka*'nın 1930 yılındaki kuruluşu) (EŞİ #3)
 * Bozkırdaki Çekirdek (Köy enstitülerinin kuruluşu)
 * Rahmet Yolları Kesti (Erken dönem Cumhuriyet'inde köy hayatı)
