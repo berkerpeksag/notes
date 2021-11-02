@@ -25,8 +25,8 @@ and then use this function in a simple interpreter session:
 55
 ```
 
-Everything seems fine. But if I try to compute the 1000th member of the
-Fibonacci sequence I find the following:
+Everything seems fine until we try to compute the 1000th member of the
+Fibonacci sequence:
 
 ```py
 >>> fib(1000)
@@ -44,7 +44,7 @@ the stack *will* run out.
 
 So in order to make this style of programming practical, a way is needed for
 allowing recursive functions to use a fixed stack size. This is where *tail
-calls* come in. Let us first rewrite our Fibonacci generator as follows:
+calls* come in:
 
 ```py
 def fib(i, current=0, next_item=1):
@@ -67,30 +67,12 @@ will return). This way, it doesn't matter *how many times* the function
 recursively calls itself - it will only ever use a constant amount of stack
 space. Taking advantage of this fact is called *tail call optimization*.
 
-
-## Costs
-
-* The first is fairly obvious, and is evident in the forced rewriting of the
-  Fibonacci function: many functions have their most natural form without tail
-  calls. Thus functions often need to be designed very specifically with tail
-  calls in mind. Writing functions in this style, or rewriting existing
-  functions in this style, can be far from trivial. What's more, as can be seen
-  from the Fibonacci example, the resulting function is frequently hard to
-  understand because it often requires state to be passed around in parameters.
-* The second cost associated with tail calls is something that I have not seen
-  mentioned elsewhere, which may well mean that I've got the wrong end of the
-  stick. However I suspect it might be the case that it is not mentioned because
-  the problem is only really evident in languages which give decent stack trace
-  error reports when exceptions occur. Consider this: since tail call
-  optimization involves overwriting the stack, what happens if an exception is
-  raised at some point deep within a tail calling part of a program?
-
 ## Guido's Argument
 
-* Stack traces help debug, TRE makes them useless.
+* Stack traces help debug, Tail Recursion Elimination (TRE) makes them useless.
 * TRE is Not An Optimization (it creates a class of code that explodes without
   it).
-* Guido does not subscribe to the "Recursion is the basis of all programming""
+* Guido does not subscribe to the "Recursion is the basis of all programming"
   idea.
 * Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
   call is a recursion.
@@ -98,3 +80,4 @@ space. Taking advantage of this fact is called *tail call optimization*.
 ### References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
+* http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
