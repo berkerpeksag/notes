@@ -99,8 +99,23 @@ def get_root(node):
   idea.
 * Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
   call is a recursion.
-  
-#### References
+
+### Stack frames
+
+The Python interpreter uses a call stack to run a Python program. When a
+function is called in Python, a new frame is pushed onto the call stack for its
+local execution, and every time a function call returns, its frame is popped
+off the call stack.
+
+The module in which the program runs has the bottom-most frame which is called
+the global frame or the module frame.
+
+Python stores all the information about each frame of the call stack in a frame object.
+
+
+
+## References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
 * http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
+* https://towardsdatascience.com/python-stack-frames-and-tail-call-optimization-4d0ea55b0542
