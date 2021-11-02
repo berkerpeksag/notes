@@ -123,9 +123,7 @@ from typing import List
 
 
 def print_frames(frame_list: List[FrameInfo]) -> None:
-    module_frame_index = [
-        i for i, f in enumerate(frame_list) if f.function == '<module>'
-    ][0]
+    module_frame_index = frame_list.index(frame_list[-1])
     for i in range(module_frame_index):
         frame_index = module_frame_index - i
         function_name = frame_list[i].function
