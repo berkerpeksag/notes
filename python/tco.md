@@ -67,6 +67,47 @@ will return). This way, it doesn't matter *how many times* the function
 recursively calls itself - it will only ever use a constant amount of stack
 space. Taking advantage of this fact is called *tail call optimization*.
 
+A recursive function is tail-recursive when the recursive call is the last thing
+executed by the function. For example, the following function is not tail-recursive:
+
+```py
+def fact(n):
+    if n == 0:
+        return 1
+    else:
+        return n * fact(n - 1)  # Multiplication by n does not allow it to be tail-recursive.
+```
+
+We can make it tail-recursive:
+
+```py
+def fact1(n, acc=1):
+    if n == 0:
+        return acc
+    else:
+        return fact1(n - 1, n * acc) 
+```
+
+A tail-recursive function does not need the frames below its current frame. However,
+Python still executes it like a recursive function and keeps all the frames. We need
+Python to discard the previous frame when a tail-recursive function calls itself.
+
+Tail-call optimization is a method which allows infinite recursion of tail-recursive
+functions to occur without stack overflow. Tail-call optimization converts a recursive
+call into a loop.
+
+A snippet which a tail-recursive function has converted to use a `while` loop:
+
+```py
+def fact2(n, acc=1):
+    while True:
+        if n == 0:
+            return acc
+        else:
+            acc = n * acc
+            n = n - 1
+ ```
+
 ## Tail Recursion Elimination (TRE)
 
 TRE is a technique to convert recursive functions into loops during compile or
