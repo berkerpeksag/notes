@@ -1,4 +1,4 @@
-## Tail Call Optimization
+## Tail Call Recursion Optimization (TCO)
 
 Let's take the standard Fibonacci number generator in a simple Python example:
 
@@ -99,7 +99,7 @@ def get_root(node):
 * Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
   call is a recursion.
   
-### References
+#### References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
 * http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
