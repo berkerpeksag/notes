@@ -112,6 +112,89 @@ the global frame or the module frame.
 
 Python stores all the information about each frame of the call stack in a frame object.
 
+Here is an example to show how stack frames are created during execution of a recursed
+function:
+
+```py
+import inspect
+
+from inspect import FrameInfo
+from typing import List
+
+
+def print_frames(frame_list: List[FrameInfo]) -> None:
+    module_frame_index = [
+        i for i, f in enumerate(frame_list) if f.function == '<module>'
+    ][0]
+    for i in range(module_frame_index):
+        frame_index = module_frame_index - i
+        function_name = frame_list[i].function
+        local_vars = frame_list[i][0].f_locals
+        print(f"  [Frame {frame_index} {function_name!r}: {local_vars}]")
+    print("  [Frame '<module>']\n")
+
+
+def fact(n: int) -> int:
+    if n == 0:
+        print("fact({}) called:".format(n))
+        print_frames(inspect.stack())
+        print("fact({}) returned {}".format(n, 1))
+        return 1
+    else:
+        print("fact({}) called:".format(n))
+        print_frames(inspect.stack())
+        result = n * fact(n-1)
+        print_frames(inspect.stack())
+        print("fact({}) returned {}".format(n, result))
+        return result
+
+
+if __name__ == '__main__':
+    fact(3)
+```
+
+Output of the snippet above:
+
+```
+fact(3) called:
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) called:
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) called:
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) called:
+  [Frame 4 'fact': {'n': 0}]
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) returned 1
+  [Frame 3 'fact': {'n': 1, 'result': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) returned 1
+  [Frame 2 'fact': {'n': 2, 'result': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) returned 2
+  [Frame 1 'fact': {'n': 3, 'result': 6}]
+  [Frame '<module>']
+
+fact(3) returned 6
+```
 
 
 ## References
