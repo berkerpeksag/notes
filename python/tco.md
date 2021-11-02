@@ -70,7 +70,8 @@ space. Taking advantage of this fact is called *tail call optimization*.
 ## Tail Recursion Elimination (TRE)
 
 TRE is a technique to convert recursive functions into loops during compile or
-run time:
+run time (or in some languages it can be converted to `goto` statements) It
+also reduces the space complexity of recursion from O(N) to O(1).:
 
 ```py
 # Before:
