@@ -1,4 +1,4 @@
-# Tail Call Optimization
+## Tail Call Optimization
 
 Let's take the standard Fibonacci number generator in a simple Python example:
 
@@ -67,7 +67,29 @@ will return). This way, it doesn't matter *how many times* the function
 recursively calls itself - it will only ever use a constant amount of stack
 space. Taking advantage of this fact is called *tail call optimization*.
 
-## Guido's Argument
+## Tail Recursion Elimination (TRE)
+
+TRE is a technique to convert recursive functions into loops during compile or
+run time:
+
+```py
+# Before:
+
+def get_root(node):
+    if node.parent is None:
+        return node
+    return get_root(node.parent)
+
+# After:
+
+def get_root(node):
+    while True:
+        if node.parent is None:
+            return node
+        node = node.parent
+```
+
+### Guido's thoughts
 
 * Stack traces help debug, Tail Recursion Elimination (TRE) makes them useless.
 * TRE is Not An Optimization (it creates a class of code that explodes without
