@@ -131,21 +131,22 @@ def print_frames(frame_list: List[FrameInfo]) -> None:
         function_name = frame_list[i].function
         local_vars = frame_list[i][0].f_locals
         print(f"  [Frame {frame_index} {function_name!r}: {local_vars}]")
-    print("  [Frame '<module>']\n")
+    print("  [Frame '<module>']")
+    print()
 
 
 def fact(n: int) -> int:
     if n == 0:
-        print("fact({}) called:".format(n))
+        print(f"fact({n}) called:")
         print_frames(inspect.stack())
-        print("fact({}) returned {}".format(n, 1))
+        print(f"fact({n}) returned 1")
         return 1
     else:
-        print("fact({}) called:".format(n))
+        print(f"fact({n}) called:")
         print_frames(inspect.stack())
-        result = n * fact(n-1)
+        result = n * fact(n - 1)
         print_frames(inspect.stack())
-        print("fact({}) returned {}".format(n, result))
+        print(f"fact({n}) returned {result}")
         return result
 
 
