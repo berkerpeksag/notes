@@ -95,15 +95,6 @@ space. Taking advantage of this fact is called *tail call optimization*.
 * Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
   call is a recursion.
   
-
-
----
-
-### Türkçe Notlar
-
-* Python implementasyonlarında VM tarafından yapılan otomatik TCO yok.
-
-
-#### References
+### References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
