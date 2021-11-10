@@ -1,5 +1,10 @@
 ## Tail Call Recursion Optimization (TCO)
 
+Tail calls are not just about loops. Tail Recursion is a subset of TCO, the
+case when calling the same function vs. optimizing any function call followed
+immediately by a return.
+
+
 Let's take the standard Fibonacci number generator in a simple Python example:
 
 ```py
@@ -131,16 +136,6 @@ def get_root(node):
         node = node.parent
 ```
 
-### Guido's thoughts
-
-* Stack traces help debug, Tail Recursion Elimination (TRE) makes them useless.
-* TRE is Not An Optimization (it creates a class of code that explodes without
-  it).
-* Guido does not subscribe to the "Recursion is the basis of all programming"
-  idea.
-* Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
-  call is a recursion.
-
 ### Stack frames
 
 The Python interpreter uses a call stack to run a Python program. When a
@@ -236,9 +231,24 @@ fact(2) returned 2
 fact(3) returned 6
 ```
 
+## Guido's thoughts
+
+* Stack traces help debug, Tail Recursion Elimination (TRE) makes them useless.
+* TRE is Not An Optimization (it creates a class of code that explodes without
+  it).
+* Guido does not subscribe to the "Recursion is the basis of all programming"
+  idea.
+* Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
+  call is a recursion.
+
+## Excercises
+
+* Try to implement the idea described in the last section in Guido's post at http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
 
 ## References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
 * http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
+* http://neopythonic.blogspot.com/2009/04/final-words-on-tail-calls.html
 * https://towardsdatascience.com/python-stack-frames-and-tail-call-optimization-4d0ea55b0542
+* http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html?showComment=1240470780000#c2917688359583417396
