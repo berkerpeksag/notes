@@ -1,5 +1,98 @@
 ## Tail Call Recursion Optimization (TCO)
 
+The Python interpreter uses a call stack to run a Python program. When a
+function is called in Python, a new frame is pushed onto the call stack for its
+local execution, and every time a function call returns, its frame is popped
+off the call stack.
+
+The module in which the program runs has the bottom-most frame which is called
+the global frame or the module frame.
+
+Python stores all the information about each frame of the call stack in a frame object.
+
+Here is an example to show how stack frames are created during execution of a recursed
+function:
+
+```py
+import inspect
+
+from inspect import FrameInfo
+from typing import List
+
+
+def print_frames(frame_list: List[FrameInfo]) -> None:
+    module_frame_index = frame_list.index(frame_list[-1])
+    for i in range(module_frame_index):
+        frame_index = module_frame_index - i
+        function_name = frame_list[i].function
+        local_vars = frame_list[i][0].f_locals
+        print(f"  [Frame {frame_index} {function_name!r}: {local_vars}]")
+    print("  [Frame '<module>']")
+    print()
+
+
+def fact(n: int) -> int:
+    if n == 0:
+        print(f"fact({n}) called:")
+        print_frames(inspect.stack())
+        print(f"fact({n}) returned 1")
+        return 1
+    else:
+        print(f"fact({n}) called:")
+        print_frames(inspect.stack())
+        result = n * fact(n - 1)
+        print_frames(inspect.stack())
+        print(f"fact({n}) returned {result}")
+        return result
+
+
+if __name__ == '__main__':
+    fact(3)
+```
+
+Output of the snippet above:
+
+```
+fact(3) called:
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) called:
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) called:
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) called:
+  [Frame 4 'fact': {'n': 0}]
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) returned 1
+  [Frame 3 'fact': {'n': 1, 'result': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) returned 1
+  [Frame 2 'fact': {'n': 2, 'result': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) returned 2
+  [Frame 1 'fact': {'n': 3, 'result': 6}]
+  [Frame '<module>']
+
+fact(3) returned 6
+```
+
 Tail calls are not just about loops. Tail Recursion is a subset of TCO, the
 case when calling the same function vs. optimizing any function call followed
 immediately by a return.
@@ -9,10 +102,8 @@ Let's take the standard Fibonacci number generator in a simple Python example:
 
 ```py
 def fib(i):
-    if i == 0:
-        return 0
-    elif i == 1:
-        return 1
+    if i <= 1:
+        return i
     else:
         return fib(i - 1) + fib(i - 2)
 ```
@@ -134,101 +225,6 @@ def get_root(node):
         if node.parent is None:
             return node
         node = node.parent
-```
-
-### Stack frames
-
-The Python interpreter uses a call stack to run a Python program. When a
-function is called in Python, a new frame is pushed onto the call stack for its
-local execution, and every time a function call returns, its frame is popped
-off the call stack.
-
-The module in which the program runs has the bottom-most frame which is called
-the global frame or the module frame.
-
-Python stores all the information about each frame of the call stack in a frame object.
-
-Here is an example to show how stack frames are created during execution of a recursed
-function:
-
-```py
-import inspect
-
-from inspect import FrameInfo
-from typing import List
-
-
-def print_frames(frame_list: List[FrameInfo]) -> None:
-    module_frame_index = frame_list.index(frame_list[-1])
-    for i in range(module_frame_index):
-        frame_index = module_frame_index - i
-        function_name = frame_list[i].function
-        local_vars = frame_list[i][0].f_locals
-        print(f"  [Frame {frame_index} {function_name!r}: {local_vars}]")
-    print("  [Frame '<module>']")
-    print()
-
-
-def fact(n: int) -> int:
-    if n == 0:
-        print(f"fact({n}) called:")
-        print_frames(inspect.stack())
-        print(f"fact({n}) returned 1")
-        return 1
-    else:
-        print(f"fact({n}) called:")
-        print_frames(inspect.stack())
-        result = n * fact(n - 1)
-        print_frames(inspect.stack())
-        print(f"fact({n}) returned {result}")
-        return result
-
-
-if __name__ == '__main__':
-    fact(3)
-```
-
-Output of the snippet above:
-
-```
-fact(3) called:
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(2) called:
-  [Frame 2 'fact': {'n': 2}]
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(1) called:
-  [Frame 3 'fact': {'n': 1}]
-  [Frame 2 'fact': {'n': 2}]
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(0) called:
-  [Frame 4 'fact': {'n': 0}]
-  [Frame 3 'fact': {'n': 1}]
-  [Frame 2 'fact': {'n': 2}]
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(0) returned 1
-  [Frame 3 'fact': {'n': 1, 'result': 1}]
-  [Frame 2 'fact': {'n': 2}]
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(1) returned 1
-  [Frame 2 'fact': {'n': 2, 'result': 2}]
-  [Frame 1 'fact': {'n': 3}]
-  [Frame '<module>']
-
-fact(2) returned 2
-  [Frame 1 'fact': {'n': 3, 'result': 6}]
-  [Frame '<module>']
-
-fact(3) returned 6
 ```
 
 ## Guido's thoughts
