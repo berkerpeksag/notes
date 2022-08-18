@@ -1,13 +1,109 @@
-# Tail Call Optimization
+## Tail Call Recursion Optimization (TCO)
+
+The Python interpreter uses a call stack to run a Python program. When a
+function is called in Python, a new frame is pushed onto the call stack for its
+local execution, and every time a function call returns, its frame is popped
+off the call stack.
+
+The module in which the program runs has the bottom-most frame which is called
+the global frame or the module frame.
+
+Python stores all the information about each frame of the call stack in a frame object.
+
+Here is an example to show how stack frames are created during execution of a recursed
+function:
+
+```py
+import inspect
+
+from inspect import FrameInfo
+from typing import List
+
+
+def print_frames(frame_list: List[FrameInfo]) -> None:
+    module_frame_index = frame_list.index(frame_list[-1])
+    for i in range(module_frame_index):
+        frame_index = module_frame_index - i
+        function_name = frame_list[i].function
+        local_vars = frame_list[i][0].f_locals
+        print(f"  [Frame {frame_index} {function_name!r}: {local_vars}]")
+    print("  [Frame '<module>']")
+    print()
+
+
+def fact(n: int) -> int:
+    if n == 0:
+        print(f"fact({n}) called:")
+        print_frames(inspect.stack())
+        print(f"fact({n}) returned 1")
+        return 1
+    else:
+        print(f"fact({n}) called:")
+        print_frames(inspect.stack())
+        result = n * fact(n - 1)
+        print_frames(inspect.stack())
+        print(f"fact({n}) returned {result}")
+        return result
+
+
+if __name__ == '__main__':
+    fact(3)
+```
+
+Output of the snippet above:
+
+```
+fact(3) called:
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) called:
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) called:
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) called:
+  [Frame 4 'fact': {'n': 0}]
+  [Frame 3 'fact': {'n': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(0) returned 1
+  [Frame 3 'fact': {'n': 1, 'result': 1}]
+  [Frame 2 'fact': {'n': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(1) returned 1
+  [Frame 2 'fact': {'n': 2, 'result': 2}]
+  [Frame 1 'fact': {'n': 3}]
+  [Frame '<module>']
+
+fact(2) returned 2
+  [Frame 1 'fact': {'n': 3, 'result': 6}]
+  [Frame '<module>']
+
+fact(3) returned 6
+```
+
+Tail calls are not just about loops. Tail Recursion is a subset of TCO, the
+case when calling the same function vs. optimizing any function call followed
+immediately by a return.
+
 
 Let's take the standard Fibonacci number generator in a simple Python example:
 
 ```py
 def fib(i):
-    if i == 0:
-        return 0
-    elif i == 1:
-        return 1
+    if i <= 1:
+        return i
     else:
         return fib(i - 1) + fib(i - 2)
 ```
@@ -25,8 +121,8 @@ and then use this function in a simple interpreter session:
 55
 ```
 
-Everything seems fine. But if I try to compute the 1000th member of the
-Fibonacci sequence I find the following:
+Everything seems fine until we try to compute the 1000th member of the
+Fibonacci sequence:
 
 ```py
 >>> fib(1000)
@@ -44,7 +140,7 @@ the stack *will* run out.
 
 So in order to make this style of programming practical, a way is needed for
 allowing recursive functions to use a fixed stack size. This is where *tail
-calls* come in. Let us first rewrite our Fibonacci generator as follows:
+calls* come in:
 
 ```py
 def fib(i, current=0, next_item=1):
@@ -67,43 +163,88 @@ will return). This way, it doesn't matter *how many times* the function
 recursively calls itself - it will only ever use a constant amount of stack
 space. Taking advantage of this fact is called *tail call optimization*.
 
+A recursive function is tail-recursive when the recursive call is the last thing
+executed by the function. For example, the following function is not tail-recursive:
 
-## Costs
+```py
+def fact(n):
+    if n == 0:
+        return 1
+    else:
+        return n * fact(n - 1)  # Multiplication by n does not allow it to be tail-recursive.
+```
 
-* The first is fairly obvious, and is evident in the forced rewriting of the
-  Fibonacci function: many functions have their most natural form without tail
-  calls. Thus functions often need to be designed very specifically with tail
-  calls in mind. Writing functions in this style, or rewriting existing
-  functions in this style, can be far from trivial. What's more, as can be seen
-  from the Fibonacci example, the resulting function is frequently hard to
-  understand because it often requires state to be passed around in parameters.
-* The second cost associated with tail calls is something that I have not seen
-  mentioned elsewhere, which may well mean that I've got the wrong end of the
-  stick. However I suspect it might be the case that it is not mentioned because
-  the problem is only really evident in languages which give decent stack trace
-  error reports when exceptions occur. Consider this: since tail call
-  optimization involves overwriting the stack, what happens if an exception is
-  raised at some point deep within a tail calling part of a program?
+We can make it tail-recursive:
 
-## Guido's Argument
+```py
+def fact1(n, acc=1):
+    if n == 0:
+        return acc
+    else:
+        return fact1(n - 1, n * acc) 
+```
 
-* Stack traces help debug, TRE makes them useless.
+A tail-recursive function does not need the frames below its current frame. However,
+Python still executes it like a recursive function and keeps all the frames. We need
+Python to discard the previous frame when a tail-recursive function calls itself.
+
+Tail-call optimization is a method which allows infinite recursion of tail-recursive
+functions to occur without stack overflow. Tail-call optimization converts a recursive
+call into a loop.
+
+A snippet which a tail-recursive function has converted to use a `while` loop:
+
+```py
+def fact2(n, acc=1):
+    while True:
+        if n == 0:
+            return acc
+        else:
+            acc = n * acc
+            n = n - 1
+ ```
+
+## Tail Recursion Elimination (TRE)
+
+TRE is a technique to convert recursive functions into loops during compile or
+run time (or in some languages it can be converted to `goto` statements) It
+also reduces the space complexity of recursion from O(N) to O(1).:
+
+```py
+# Before:
+
+def get_root(node):
+    if node.parent is None:
+        return node
+    return get_root(node.parent)
+
+# After:
+
+def get_root(node):
+    while True:
+        if node.parent is None:
+            return node
+        node = node.parent
+```
+
+## Guido's thoughts
+
+* Stack traces help debug, Tail Recursion Elimination (TRE) makes them useless.
 * TRE is Not An Optimization (it creates a class of code that explodes without
   it).
-* Guido does not subscribe to the "Recursion is the basis of all programming""
+* Guido does not subscribe to the "Recursion is the basis of all programming"
   idea.
 * Due to Python's highly dynamic namespaces, it's very nontrivial to know if a
   call is a recursion.
-  
 
+## Excercises
 
----
+* Try to implement the idea described in the last section in Guido's post at http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
 
-### Türkçe Notlar
-
-* Python implementasyonlarında VM tarafından yapılan otomatik TCO yok.
-
-
-#### References
+## References
 
 * http://tratt.net/laurie/blog/entries/tail_call_optimization
+* http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html
+* http://neopythonic.blogspot.com/2009/04/final-words-on-tail-calls.html
+* https://towardsdatascience.com/python-stack-frames-and-tail-call-optimization-4d0ea55b0542
+* http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html?showComment=1240470780000#c2917688359583417396
